@@ -65,11 +65,13 @@ We also suggest to add the Tomcat plugin to the plugins group at the bottom of t
 
 ## Testing on local machine:
 The D-Net Software is developed in Java using Maven. You can try out the D-Net web app on your local machine with the tomcat7 plugin, provided you are also running a mongodb and a solr server on localhost that are listening to the relative standard ports.
+
 Please note that the solr client used in D-Net needs to interact with the zookeeper server. For simplicity we suggest to use the embedded zookepper instance provided within the solr distribution. By default solr listens on the 8983 port and its embedded zookeeper server on the 9983 port. 
-To override properties, you can modify <code>dnet-minimal-container/src/main/resources/eu/dnetlib/cnr-site.properties</code>. Please check the Section D-Net Configuration and the PROPERTIES.md file for more information about D-Net properties.
+
+To override properties, you can modify <code>dnet-basic-aggregator/src/main/resources/eu/dnetlib/cnr-site.properties</code>. Please check the Section D-Net Configuration and the PROPERTIES.md file for more information about D-Net properties.
 
 ```
-> cd dnet-minimal-container
+> cd dnet-basic-aggregator
 
 > mvn tomcat7:run
 ```
@@ -104,7 +106,7 @@ The D-Net Software is developed in Java with Maven.
 To build the war to use in a Tomcat 7 web app container:
 
 ```
- > cd dnet-minimal-container
+ > cd dnet-basic-aggregator
 
  > mvn package
 ```
