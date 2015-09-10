@@ -30,7 +30,7 @@ Software required:
 
 * Apache Tomcat 7: the webapp container
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
-* Solr 4.9.x or 4.10.x 
+* Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
@@ -65,6 +65,7 @@ We also suggest to add the Tomcat plugin to the plugins group at the bottom of t
 
 ## Testing on local machine:
 The D-Net Software is developed in Java using Maven. You can try out the D-Net web app on your local machine with the tomcat7 plugin, provided you are also running a mongodb and a solr server on localhost that are listening to the relative standard ports.
+Please note that the solr client used in D-Net needs to interact with the zookeeper server. For simplicity we suggest to use the embedded zookepper instance provided within the solr distribution. By default solr listens on the 8983 port and its embedded zookeeper server on the 9983 port. 
 To override properties, you can modify <code>dnet-minimal-container/src/main/resources/eu/dnetlib/cnr-site.properties</code>. Please check the Section D-Net Configuration and the PROPERTIES.md file for more information about D-Net properties.
 
 ```
@@ -114,7 +115,7 @@ The .war file is then created into the <code>target</code> directory.
 Before you start the web application, you need to configure at least the following properties.
 For the full list of available properties and their values, check PROPERTIES.md.
 
-Create a file named <code>dnet-override.properties</code> in <code>$yourTomcatHomeDirectory$/common/classes</code> (<code>$yourTomcatHomeDirectory$</code> will likely be something similar to <code>/var/lib/tomcat7</code>)
+Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHomeDirectory$/common/classes</code> (<code>$yourTomcatHomeDirectory$</code> will likely be something similar to <code>/var/lib/tomcat7</code>)
 
 - <code>container.hostname</code>: the host name where the web app will be running. Default value is <code>localhost</code>. The default value should *only* be used in local development scenarios.
 </br>Example: <code>container.hostname = dnet-host.dnet.eu</code>
@@ -140,8 +141,8 @@ Create a file named <code>dnet-override.properties</code> in <code>$yourTomcatHo
 </br>Example: <code>services.oai.publisher.repo.name = TEST_Aggregator OAI-PMH Publisher</code>
 - <code>services.oai.publisher.repo.email</code>: email of the OAI-PMH Publisher administrator, as it will appear in the OAI Identify response. Default is "dnet-admin@mock.it". The default *must not* be used in beta or production system for it is a mock email.
 </br>Example: <code>name.surname@valid.mail.com</code>
-- <code>dnet.admin.password</code>: md5sum of the password that will allow the user "admin" to login to the D-Net Admin UI. To generate the new password: <code>echo -n "yourpassword" | md5</code>. Default is "dnet-minimal" (without double quotes). The default value *should always be overridden*.
-</br>Example: <code>dnet.admin.password = 5d1ed3888708c0f4cd46b29306a6b449</code>, where 5d1ed3888708c0f4cd46b29306a6b449 is the md5 for the string "pwd" obtained via the command <code>echo -n "pwd" | md5</code>.
+- <code>dnet.admin.password</code>: md5sum of the password that will allow the user "admin" to login to the D-Net Admin UI. To generate the new password: <code>echo thePassword -n | md5</code>. Default is "dnet-minimal" (without double quotes). The default value *should always be overridden*.
+</br>Example: <code>dnet.admin.password = 5d1ed3888708c0f4cd46b29306a6b449</code>, where 5d1ed3888708c0f4cd46b29306a6b449 is the md5 for the string "pwd" obtained via the command <code>echo pwd -n | md5</code>.
 - <code>service.solr.index.jsonConfiguration</code>: information about the Solr instance to be used to create full-text indices on the aggregated metadata records. Default value assumes a local Solr instance. Specifically:
 <code>
 {"id":"solr",\

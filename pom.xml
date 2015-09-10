@@ -8,11 +8,11 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.dnetlib</groupId>
-	<artifactId>dnet-minimal-container</artifactId>
+	<artifactId>dnet-basic-aggregator</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.1</version>
+	<version>1.0.3-SNAPSHOT</version>
 	<scm>
-		<developerConnection>scm:svn:https://svn.driver.research-infrastructures.eu/driver/dnet40/webapps/dnet-minimal-container/tags/dnet-minimal-container-1.0.1</developerConnection>
+		<developerConnection>scm:svn:https://svn.driver.research-infrastructures.eu/driver/dnet40/webapps/dnet-basic-aggregator/trunk</developerConnection>
 	</scm>
 
 	<dependencies>
@@ -184,7 +184,7 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>cnr-data-information-oai-publisher</artifactId>
-			<version>[6.0.0, 7.0.0)</version>
+			<version>[6.0.0,7.0.0)</version>
 		</dependency>
 
 		<!-- Datasource manager -->
