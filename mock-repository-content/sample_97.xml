@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-ED-006</identifier>
+    <datestamp>2014-10-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Proceedings of the 18th International Software Product Line Conference, Volume 2</dc:title>
+      <dc:creator>Gnesi, Stefania</dc:creator>
+      <dc:creator>Fantechi, Alessandro</dc:creator>
+      <dc:creator>Ter Beek, Maurice H.</dc:creator>
+      <dc:creator>Botterweck, Goetz</dc:creator>
+      <dc:creator>Becker, Martin</dc:creator>
+      <dc:creator>(eds.), .</dc:creator>
+      <dc:subject>Software Product Lines</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.13 Software Engineering. Reusable Software</dc:subject>
+      <dc:description>no available</dc:description>
+      <dc:publisher>ACM</dc:publisher>
+      <dc:contributor>Stefania Gnesi, Alessandro Fantechi, Maurice H. ter Beek, Goetz Botterweck, Martin Becker</dc:contributor>
+      <dc:date>2014</dc:date>
+      <dc:type>info:eu-repo/semantics/review</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-ED-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: 18th International Software Product Line Conference, Volume 2: Companion Volume for Workshops, Demonstrations and Tools. Editorial, vol. 2 pp. 1 - 150. Stefania Gnesi, Alessandro Fantechi, Maurice H. ter Beek, Goetz Botterweck, Martin Becker (eds.). A</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://dl.acm.org/citation.cfm?id=2647908</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/978-1-4503-2739-8</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-ED-006/2014-ED-006_0.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

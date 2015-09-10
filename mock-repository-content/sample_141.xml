@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-002</identifier>
+    <datestamp>2014-02-25</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>iMarine - iMarine Data Consumption Software</dc:title>
+      <dc:creator>Antoniadis, Alex</dc:creator>
+      <dc:creator>Brito, Fabrice</dc:creator>
+      <dc:creator>Coro, Gianpaolo</dc:creator>
+      <dc:creator>Gerbesiotis, John</dc:creator>
+      <dc:creator>Laskaris, Nikolas</dc:creator>
+      <dc:creator>Marketakis, Yannis</dc:creator>
+      <dc:subject>Data Manipulation</dc:subject>
+      <dc:subject>Information Retrieval</dc:subject>
+      <dc:subject>gCube</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>This document describes the novelties within the iMarine Data Consumption Software which were achieved from the 13th to the 27th month of the project and provide pointers to the documentation and artifacts of the related components.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2014-01-29</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-002</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources. Deliverable D10.5, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-002/2014-EC-002.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

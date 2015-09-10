@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-024</identifier>
+    <datestamp>2014-07-03</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Generalized trackball for surfing over surfaces</dc:title>
+      <dc:creator>Malomo, Luigi</dc:creator>
+      <dc:creator>Cignoni, Paolo</dc:creator>
+      <dc:creator>Scopigno, Roberto</dc:creator>
+      <dc:subject>HCI</dc:subject>
+      <dc:subject>3D</dc:subject>
+      <dc:subject>Navigation</dc:subject>
+      <dc:subject>Inspection</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.3.6 Methodology and Techniques</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.5.2 User Interfaces</dc:subject>
+      <dc:description>We present a friendly, efficient 3D interaction technique that, generalizing the well known trackball approach, unifies and blends the two common interaction mechanisms known as panning and orbiting. The approach allows to inspect a virtual object by navigating over its surrounding space, remaining at a chosen distance and performing a sort of automatic panning over its surface. This generalized trackball allows an intuitive navigation of topologically complex shapes, by enabling unexperienced users to visit hard-to-be-reached parts better and faster than with standard GUI components. The approach is based on the construction of multiple smooth approximations of the model under inspection and, at rendering time, it constrains the camera to stay at a given distance to these approximations. The approach is designed to require negligible preprocessing and memory overhead and works well for both mouse-based and touch interfaces. A user study confirms the impact of the proposed technique.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/323567/EU/Harvesting Dynamic 3D Worlds from Commodity Sensor Clouds/HARVEST4D</dc:relation>
+      <dc:date>2014-01-09</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-024</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

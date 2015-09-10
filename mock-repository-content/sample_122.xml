@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-029</identifier>
+    <datestamp>2014-12-13</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>IMARINE - Virtual research environments activity report</dc:title>
+      <dc:creator>Candela, Leonardo</dc:creator>
+      <dc:creator>Ellenbroek, Anton</dc:creator>
+      <dc:creator>Pasquale, Pagano</dc:creator>
+      <dc:subject>Virtual Research Environment</dc:subject>
+      <dc:subject>Community Tools</dc:subject>
+      <dc:subject>Applications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>Virtual Research Environments are among the key products that the iMarine project is requested to deliver to serve the needs of the Ecosystem Approach Community of Practice. The deployment and operation of a Virtual Research Environment is a task that involves the exploitation of technologies that have been developed as well as the development of new technologies aiming at offering new facilities. This report describes the activities performed to provide the Ecosystem Approach Community of Practice with the set of Virtual Research Environments hosted by the iMarine portal up to September 2014.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2014-10-10</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-029</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources. Deliverable D6.5, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-029/2014-EC-029.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

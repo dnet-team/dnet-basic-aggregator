@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-006</identifier>
+    <datestamp>2014-03-06</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>OpenAIREplus - OpenAIRE APIs for third party services. D8.6</dc:title>
+      <dc:creator>Manghi, Paolo</dc:creator>
+      <dc:creator>Bardi, Alessia</dc:creator>
+      <dc:creator>Atzori, Claudio</dc:creator>
+      <dc:creator>Artini, Michele</dc:creator>
+      <dc:creator>Dell'Amico, Andrea</dc:creator>
+      <dc:creator>La Bruzzo, Sandro</dc:creator>
+      <dc:subject>API</dc:subject>
+      <dc:subject>Protocols</dc:subject>
+      <dc:subject>Data Export</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>This deliverable describes the APIs offered by the OpenAIRE infrastructure to provide accessibility to the objects in its information space. APIs are organized by entity type (publication, dataset, and projects) and are characterized by access protocol, data exchange format, and schema.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283595/EU/2nd-Generation Open Access Infrastructure for Research in Europe/OPENAIREPLUS</dc:relation>
+      <dc:date>2014-02-26</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>OpenAIREplus, 2nd Generation Open Access Infrastructure for Research in Europe. Deliverable D8.6, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-006/2014-EC-006.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

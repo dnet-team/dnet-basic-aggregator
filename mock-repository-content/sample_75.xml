@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-025</identifier>
+    <datestamp>2014-10-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Automatic detection of geometric changes in time varying point clouds</dc:title>
+      <dc:creator>Palma, Gianpaolo</dc:creator>
+      <dc:creator>Cignoni, Paolo</dc:creator>
+      <dc:creator>Boubekeur, Tamy</dc:creator>
+      <dc:creator>Scopigno, Roberto</dc:creator>
+      <dc:subject>Detecting changes</dc:subject>
+      <dc:subject>Point clouds</dc:subject>
+      <dc:subject>Temporal segmentation</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.3.5 Computational Geometry and Object Modeling</dc:subject>
+      <dc:description>The detection of the geometric changes in 4D data is an important task for all the applications interested in the segmentation of the input geometry between the static and dynamic areas, for the example the cleaning of the input clouds from the objects that are moved or disappear in one of the time step or the analysis and the study of the dynamic part to model the type of change. In this paper we present a novel algorithm to solve this problem that takes in input two point clouds of the same environments acquired in different moments. The core of the method is the computation of the differences between the point clouds using a multi-scale comparison of the implicit surface defined using the Growing Least Square framework. Then the obtained results are further processed to make the segmentation more robust in some critical geometrical configurations that are very common in man-made environments. The final segmentation shows an accurate detection of the real changes in the scene.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/323567/EU/Harvesting Dynamic 3D Worlds from Commodity Sensor Clouds/HARVEST4D</dc:relation>
+      <dc:date>2014-06-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-025</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

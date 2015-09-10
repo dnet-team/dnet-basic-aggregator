@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-EC-007</identifier>
+    <datestamp>2015-07-03</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>ARROWS - Design and implementation of the ARROWS information system for the management of multi-source heterogeneous data</dc:title>
+      <dc:creator>Reggiannini, Marco</dc:creator>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Tampucci, Marco</dc:creator>
+      <dc:creator>Pascali, Maria Antonietta</dc:creator>
+      <dc:creator>Salvetti, Ovidio</dc:creator>
+      <dc:creator>Pardini, Francesca</dc:creator>
+      <dc:subject>Underwater exploration</dc:subject>
+      <dc:subject>Underwater archaeology</dc:subject>
+      <dc:subject>Optical and acoustic data integration</dc:subject>
+      <dc:subject>AUV</dc:subject>
+      <dc:subject>Informative Systems</dc:subject>
+      <dc:subject>Database</dc:subject>
+      <dc:subject>Repositories</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.2 DATABASE MANAGEMENT</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3 INFORMATION STORAGE AND RETRIEVAL</dc:subject>
+      <dc:description>The primary goal of the ARROWS project consists in the development of multi-disciplinary methods and techniques to detect, record and report about underwater handmade objects and wrecks that feature relevant importance to archaeologists and ethno-anthropologists. Due to that, the ARROWS informative system is in charge of merging data captured by employing advanced technologies for the seafloors survey as well as data coming from historical, artistic, archaeological and documentary sources. It is fundamental to analyse carefully every expected typology of data in order to implement a system able to properly capture and integrate all the available information. This document addresses these latter issues by identifying the requirements and the technical specifications concerning the data acquisition and integration system. After a brief review about the current state of the art in terms of data management and technologies concerning systems for knowledge representation, a detailed description follows, focusing on the data that will be fed into the ARROWS informative system. Because of the complexity and the large number of the involved data classes, the data is here presented by briefly running over their main categories. A first category concerns the historical and archival information that is collected by merging the data available from the currently existing databases, supported by the cultural institution partners of the project (the Estonian Maritime Museum and the Cultural Heritage Superintendence of Sicily). A second important class refers to the amount of data captured during the underwater survey missions. This class may concern raw data directly collected by the on-board sensor devices as well as the output results obtained by online (during the mission) and offline (after the end of the mission) processing algorithms. Specific attention will be paid to the description of the navigation data captured by auxiliary sensor devices (such as IMU systems), data that is exploited for the registration and geo-referencing of the optical and acoustic payload data. Eventually these data can be further processed by means of the scene understanding procedures described in the previous deliverables (work packages WP4 and WP5). Every data typology is described in terms of its format specification and, whenever available or predictable, an analysis of the computational and memory requirement is presented. Another topic of interest in the project concerns the dissemination channels exploited to spread the collected information about the sunken heritage towards the generic user. To that purpose, a relevant outcome of the project is the design and implementation of an interactive environment devoted to the virtual navigation of interesting underwater environments, simulated by processing the real captured data. This result will be available for access to the technical and generic user and will exploit the connection with the informative system by providing not only the information referring to the captured payload data but also, if available, further information concerning historical or archival details about the object of interest.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/308724/EU/ARchaeological RObot systems for the World's Seas/ARROWS</dc:relation>
+      <dc:date>2015-02-28</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-EC-007</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>ARchaeological RObot systems for the World's Seas. Deliverable D 5.4, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

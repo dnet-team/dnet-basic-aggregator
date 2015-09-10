@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-009</identifier>
+    <datestamp>2015-03-24</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Twitter for election forecasts: a Joint Machine Learning and Complex Network approach applied to an italian case study</dc:title>
+      <dc:creator>Coletto, Mauro</dc:creator>
+      <dc:creator>Lucchese, Claudio</dc:creator>
+      <dc:creator>Orlando, Salvatore</dc:creator>
+      <dc:creator>Raffaele, Perego</dc:creator>
+      <dc:creator>Chessa, Alessandro</dc:creator>
+      <dc:creator>Puliga, Michelangelo</dc:creator>
+      <dc:subject>Online Social Networks</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.2.8 Database Applications Data mining</dc:subject>
+      <dc:description>Several studies have shown how to approximately predict real-world phenomena, such as political elections, by ana- lyzing user activities in micro-blogging platforms. This ap- proach has proven to be interesting but with some limita- tions, such as the representativeness of the sample of users, and the hardness of understanding polarity in short mes- sages. We believe that predictions based on social network analysis can be significantly improved by exploiting machine learning and complex network tools, where the latter pro- vides valuable high-level features to support the former in learning an accurate prediction function.</dc:description>
+      <dc:date>2015-03-23</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-009</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Accepted for Poster Presentation at the International Conference on Computational Social Science 2015. Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-009/2015-TR-009.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-028</identifier>
+    <datestamp>2014-07-29</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Wize Sniffer 1.0: development of a new portable device designed for selective olfaction</dc:title>
+      <dc:creator>D'Acunto, Mario</dc:creator>
+      <dc:creator>Germanese, Danila</dc:creator>
+      <dc:subject>Breath Analysis</dc:subject>
+      <dc:subject>Portable device</dc:subject>
+      <dc:subject>Chemical sensors</dc:subject>
+      <dc:subject>Statistical Data Processing</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/B.4.1 Data Communications Devices</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/B.4.2 Input/Output Devices</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/65Y99 None of the above, but in this section</dc:subject>
+      <dc:description>Digital semeiotics is one of the newest recent challenges for assessing a number of computational descriptors to atherosclerotic cardiovascular diseases that are leading causes of mortality worldwide. These descriptors can be expressed involving (i) morphometric, biometrics and colorimetric of the face; (ii) spectroscopic analysis of skin and iris, of sub-cutaneous substances and the function of subcutaneous tissues, and (iii) compositional analysis of breath and exhaled. In this paper, we describe the design and functionality of the Wize Sniffer (WS), a new portable device for breath analysis limited to an effective number of substances. Within the SEMEOTICON Project by the WS, we intend a hardware/software tool for both the analysis of volatile organic compounds of breath and a platform for data mining and data integration. The WS should be able to provide useful information about the "breathprint", i.e., the analog of fingerprint for the state of health of an individual.</dc:description>
+      <dc:description/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611516/EU/SEMEiotic Oriented Technology for Individual's CardiOmetabolic risk self-assessmeNt and Self-monitoring/SEMEOTICONS</dc:relation>
+      <dc:date>2014-07-17</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-028</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

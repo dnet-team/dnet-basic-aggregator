@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-004</identifier>
+    <datestamp>2014-03-06</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>iMarine - iMarine Data Management Software</dc:title>
+      <dc:creator>Coro, Gianpaolo</dc:creator>
+      <dc:creator>Lelii, Lucio</dc:creator>
+      <dc:creator>Manzi, Andrea</dc:creator>
+      <dc:creator>Drakopoulos, Nikolaos</dc:creator>
+      <dc:creator>Marioli, Valentina</dc:creator>
+      <dc:creator>Cirillo, Roberto</dc:creator>
+      <dc:creator>Simeoni, Fabio</dc:creator>
+      <dc:creator>Antoniadis, Alexandros</dc:creator>
+      <dc:creator>Brito, Fabrice</dc:creator>
+      <dc:creator>Caumont, Herve</dc:creator>
+      <dc:subject>Data Transfer</dc:subject>
+      <dc:subject>Data Storage</dc:subject>
+      <dc:subject>Data Harmonization</dc:subject>
+      <dc:subject>Data Access</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>The iMarine Data Management Software comprises a number of components and subsystems offering facilities for accessing, transferring and harmonising a rich array of data typologies. This document describes the novelties within the iMarine Data Management Software from M12 (Oct.'12) to M27 (Jan.'14). It complements D9.2 [10] which describes iMarine Data Management Software up to M11 (Sept.'12). This deliverable is intended for documentation purposes only. The actual deliverable is represented by the software artifacts and their accompanying documentation.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2014-01-31</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-004</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources. Deliverable D9.3, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-004/2014-EC-004.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

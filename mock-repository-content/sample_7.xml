@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-006</identifier>
+    <datestamp>2015-02-10</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Monitoring elderly behavior via indoor position-based stigmergy</dc:title>
+      <dc:creator>Barsocchi, Paolo</dc:creator>
+      <dc:creator>Cimino, Mario</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Lazzeri, Alessandro</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>Vaglini, Gigliola</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>Indoor localization</dc:subject>
+      <dc:subject>Marker-based stigmergy</dc:subject>
+      <dc:subject>Swarm intelligence</dc:subject>
+      <dc:subject>Elderly monitoring</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2 ARTIFICIAL INTELLIGENCE</dc:subject>
+      <dc:description>In this paper we present a novel approach for monitoring elderly people living alone and independently in their own homes. The proposed system is able to detect behavioral deviations of the routine indoor activities on the basis of a generic indoor localization system and a swarm intelligence method. For this reason, an in-depth study on the error modeling of state-of-the-art indoor localization systems is presented in order to test the proposed system under different conditions in terms of localization error. More specifically, spatiotemporal tracks provided by the indoor localization system are augmented, via marker-based stigmergy, in order to enable their self-organization. This allows a marking structure appearing and staying spontaneously at runtime, when some local dynamism occurs. At a second level of processing, similarity evaluation is performed between stigmergic marks over different time periods in order to assess deviations. The purpose of this approach is to overcome an explicit modeling of user's activities and behaviors that is very inefficient to be managed, as it works only if the user does not stray too far from the conditions under which these explicit representations were formulated. The effectiveness of the proposed system has been experimented on real-world scenarios. The paper includes the problem statement and its characterization in the literature, as well as the proposed solving approach and experimental settings.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutRition and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2015-01-09</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

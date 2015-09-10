@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-012</identifier>
+    <datestamp>2015-05-25</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Efficient Foreground-Background Segmentation using Local Features for Object Detection</dc:title>
+      <dc:creator>Carrara, Fabio</dc:creator>
+      <dc:creator>Amato, Giuseppe</dc:creator>
+      <dc:creator>Falchi, Fabrizio</dc:creator>
+      <dc:creator>Gennaro, Claudio</dc:creator>
+      <dc:subject>Object Detection</dc:subject>
+      <dc:subject>Foregroud-Background segmentation</dc:subject>
+      <dc:subject>Local features</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4 IMAGE PROCESSING AND COMPUTER VISION</dc:subject>
+      <dc:description>In this work, a local feature based background modelling for background-foreground feature segmentation is presented. In local feature based computer vision applications, a local feature based model presents advantages with respect to classical pixel-based ones in terms of informativeness, robustness and segmentation performances. The method discussed in this paper is a block-wise background modelling where we propose to store the positions of only most frequent local feature configurations for each block. Incoming local features are classified as background or foreground depending on their position with respect to stored configurations. The resulting classification is refined applying a block-level analysis. Experiments on public dataset were conducted to compare the presented method to classical pixel-based background modelling</dc:description>
+      <dc:date>2015-05-25</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-012</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-012/2015-TR-012.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

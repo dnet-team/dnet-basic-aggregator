@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-043</identifier>
+    <datestamp>2014-10-22</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Proposta di aggiornamento delle specifiche tecniche per la Posta Elettronica Certificata</dc:title>
+      <dc:creator>Gennai, Francesco</dc:creator>
+      <dc:creator>Buzzi, Marina</dc:creator>
+      <dc:creator>Ferrucci, Luca</dc:creator>
+      <dc:subject>Certified Electronic Mail</dc:subject>
+      <dc:subject>Networking</dc:subject>
+      <dc:subject>Protocols</dc:subject>
+      <dc:subject>International standards</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2.1 Network Architecture and Design. Network communications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2.6 Internetworking. Standards</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2.3 Network Operations. Public networks</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68M10 Network design and communication</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68M12 Network protocols</dc:subject>
+      <dc:description>In this technical report, we present a proposal to modify the protocol of the PEC (Certified Mail), the Italian infrastructure which exploits the well-known SMTP protocol to send e-mail messages and guarantee the non-repudiation of the sender and of the recipient using appropriate XML receipts and timestamps. The paper begins by describing the current problems of the PEC and try to solve the problem of identifying and retrieve the list of the authorized PEC domains avoiding the use of a centralized system, but taking advantage of the infrastructure of the secure DNS, DNSSec, in order to standardize the method. After a brief discussion of the standards DNS and DNSSec, and the introduction of standards for the publication of X.509v3 certificates inside the DNSSec itself, proposed with RFC6698 by the IETF's DANE group, the technical report introduces the proposed modifications, using a small case study to exemplify them. Finally there is a section analysis of the costs and benefits introduced by the proposal.</dc:description>
+      <dc:description/>
+      <dc:date>2014-09-15</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-043</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>TR. Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-TR-043/2014-TR-043.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

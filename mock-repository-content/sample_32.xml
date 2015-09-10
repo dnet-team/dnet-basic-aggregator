@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A2-003</identifier>
+    <datestamp>2015-03-19</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Signal processing for underwater archaeology</dc:title>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Pascali, Maria Antonietta</dc:creator>
+      <dc:creator>Reggiannini, Marco</dc:creator>
+      <dc:creator>Salvetti, Ovidio</dc:creator>
+      <dc:subject>Underwater Robotics</dc:subject>
+      <dc:subject>Underwater Cultural Heritage</dc:subject>
+      <dc:subject>Image-based Modelling and 3D Reconstruction</dc:subject>
+      <dc:subject>Multi-Sensor Data Analysis</dc:subject>
+      <dc:subject>Archaeological Object Recognition</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.9 ARTIFICIAL INTELLIGENCE. Robotics</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.10 ARTIFICIAL INTELLIGENCE. Vision and Scene Understanding</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.7 IMAGE PROCESSING AND COMPUTER VISION. Feature Measurement</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.8 IMAGE PROCESSING AND COMPUTER VISION. Scene Analysis</dc:subject>
+      <dc:description>About three million wrecks lie scattered on the oceans' seafloors. This huge patrimony is actually threatened by criminal enterprises having advanced tools available for localization and rescue operations. ARROWS, a currently ongoing EU FP7 project, is an example of the effective commitment between cultural institutions and the scientific community towards the safeguard of the sunken cultural heritage. ARROWS is devoted to advanced technologies and tools for mapping, diagnosing, cleaning, and securing underwater and coastal archaeological sites. A fleet of Autonomous Underwater Vehicles (AUVs) will be manufactured with the purpose of surveying the seabed and sensing the underwater environment by means of proper payload sensors (digital cameras, side scan and multi-beam sonars). This paper describes a set of underwater scene understanding procedures specifically tailored to the purposes addressed in the ARROWS frame. In particular the data collected by the AUVs during the acquisition campaigns will be processed to detect targets of interest located on the seabed. The main approach adopted in the object detection procedures is to highlight the amount of regularity in the captured data. This can be pursued by exploiting computer vision algorithms that perform i) the recognition of geometrical curves ii) the classification of seafloor areas by means of textural pattern analysis iii) a large scale map generation to return an overall view of the site and iv) a reliable object recognition process performing the integration of the available multi modal information. Moreover the collected raw data together with the analysis output results will be stored to allow for an offline deep analysis of the archaeological findings. This will represent a powerful tool to be used by expert users or by the general public to enjoy the underwater cultural heritage.</dc:description>
+      <dc:publisher>SCITEPRESS - Science and Technology Publications</dc:publisher>
+      <dc:contributor>Igor Gurevich, Heinrich Niemann, Ovidio Salvetti and Bernd Radig</dc:contributor>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/308724/EU/ARchaeological RObot systems for the World's Seas/ARROWS</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A2-003</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: IMTA 2015 - 5th International Workshop on Image Mining. Theory and Applications (Berlin, 11-14 March 2015). Proceedings, pp. 80 - 84. Igor Gurevich, Heinrich Niemann, Ovidio Salvetti and Bernd Radig (eds.). SCITEPRESS - Science and Technology Publicat</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/978-989-758-094-9</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,58 @@
+#services.is.store.database.bean          	=       persistentExistDatabase
+services.is.store.database.bean            =       temporaryExistDatabase
+
+services.registration.default.hnmlocator   	=       dynamicHNMLocator
+
+services.schemas							=	classpath*:/eu/dnetlib/test/schemas/**/*.xsd
+
+services.aggregator.host					=	localhost
+services.aggregator.name        			=   D-NET
+service.index.solr.default.interpretation	=   transformed
+
+services.aggregator.country					=	EU
+
+services.registry.pending.resource.manager	=	compatPendingManager
+transport.soap.force.local.address			=	false
+
+services.timeToSleep = 8000
+
+services.transformation.vocabularyproperties.json = {"map":{"AccessRights":{"name":"dnet:rights", "caseSensitive":"false", "delimiter":"/"}, "Languages":{"name":"dnet:languages", "caseSensitive":"false", "delimiter":"/"}, "TextTypologies":{"name":"dnet:texttypologies", "caseSensitive":"false", "delimiter":"/"}}}
+
+# MSRO SPECIFIC
+msro.wf.nodes.mdstoreSearch.format = DMF
+msro.wf.nodes.mdstoreSearch.interpretation 		= 	transformed
+msro.wf.nodes.download.xpathMetadataId 			= 	//*[local-name()='dnetResourceIdentifier']/text()
+services.msro.data.source.resolver				=	extendedDataSourceResolver
+services.msro.reindex.limit      				=   100
+
+services.mdstore.mongodb.db   					= mdstore_minimal
+dnet.logger.mongo.db   							= dnet_logs_minimal
+dnet.data.path                  				= /tmp/dnet
+
+# OAI SPECIFIC
+services.oai.publisher.repo.name 				= D-Net OAI-PMH Publisher
+services.oai.publisher.repo.email 				= dnet-admin@mock.it
+services.oai.publisher.baseUrl 					=
+
+#AUTH
+dnet.modular.ui.authorization.manager 				= simpleAuthenticationManager
+dnet.modular.ui.authorization.default.superAdmin 	= admin
+# "dnet-minimal"
+dnet.admin.password									=117faf29311a1519793e7046bb34bb56
+dnet.guest.username									= guest
+# "guest"
+dnet.guest.password									= 084e0343a0486ff05530df6c705c8bb4
+#TODO: fix implementation of logout procedure
+dnet.modular.ui.logout.url            				= http://localhost:8280/app/logout
+
+repo.ui.datasourceTypes.vocabulary = dnet:typologies
+
+#Transformation properties for DMF
+services.transformation.defaulttemplate = /eu/dnetlib/data/collective/transformation/engine/template.xsl
+services.transformation.defaultschema = /eu/dnetlib/data/collective/transformation/schema/DMFSchema_vTransformator.xsd
+#Transformation properties for OAF
+#services.transformation.defaulttemplate = /eu/dnetlib/data/collective/transformation/engine/oaftemplate.xsl
+#services.transformation.defaultschema = /eu/dnetlib/data/collective/transformation/schema/OAFSchema_vTransformator.xsd
+
+#please ignore this last property but do not comment it
+services.transformation.blacklist_api = http://localhost:8280/fake-validator-service/worfklows?request=GetBlacklistedRecords&datasourceId=

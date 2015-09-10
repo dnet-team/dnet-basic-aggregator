@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A2-017</identifier>
+    <datestamp>2015-06-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Evolving database conceptual graph partitioning</dc:title>
+      <dc:creator>Locuratolo, Elvira Immacolata</dc:creator>
+      <dc:subject>Database design</dc:subject>
+      <dc:subject>Partitioning</dc:subject>
+      <dc:subject>Conceptual modeling</dc:subject>
+      <dc:subject>Algorithms</dc:subject>
+      <dc:subject>Correctness</dc:subject>
+      <dc:subject>Class/concept completeness</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.12 Data Mapping</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.3.3 Classes and Objects</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.2 Design Methodology</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/G.2.2. Graph algorithms</dc:subject>
+      <dc:description>Algorithms of graph partitioning exploited in conceptual database design were reused to define a methodology of database concept preservation. An algorithm, the concept construction algorithm, that relates concept theory to computer science was designed. This algorithm, however, is not suitable for implementation. In this paper, a relationship between conceptual graphs and concept generalization hierarchies is established at the boundary between concept theory and computer science. The algorithmic property of class/concept completeness is given and an algorithm achieving this property is introduced as a refinement step of the concept construction algorithm.</dc:description>
+      <dc:publisher>University of Maribor - Faculty of Electrical Engineering and Computer Science</dc:publisher>
+      <dc:contributor/>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A2-017</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source/>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/978-961-248-486-6</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A2-017/2015-A2-017.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,25 @@
+<RESOURCE_PROFILE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HEADER>
+		<RESOURCE_IDENTIFIER
+			value="52bbff54-ab12-4bc1-b006-f6ef77c27ad8_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL1ZvY2FidWxhcnlEU1Jlc291cmNlVHlwZQ==" />
+		<RESOURCE_TYPE value="VocabularyDSResourceType" />
+		<RESOURCE_KIND value="VocabularyDSResources" />
+		<RESOURCE_URI value="String" />
+		<DATE_OF_CREATION value="2015-04-08T11:27:16-03:00" />
+	</HEADER>
+	<BODY>
+		<CONFIGURATION>
+			<VOCABULARY_NAME code="dnet:typologies">Datasource typologies</VOCABULARY_NAME>
+			<VOCABULARY_DESCRIPTION>D-Net datasource typologies</VOCABULARY_DESCRIPTION>
+			<TERMS>
+				<TERM english_name="Content Provider" native_name="Content Provider" encoding="DNET" code="dnet:repository">
+					<SYNONYMS />
+				</TERM>
+			</TERMS>
+		</CONFIGURATION>
+		<STATUS>
+            <LAST_UPDATE value="2015-04-17T12:44:48+02:00"/>
+        </STATUS>
+		<SECURITY_PARAMETERS />
+	</BODY>
+</RESOURCE_PROFILE>

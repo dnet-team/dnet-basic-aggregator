@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-004</identifier>
+    <datestamp>2015-02-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Breve introduzione alla Domotica, alla Robotica e ad una loro possibile evoluzione</dc:title>
+      <dc:creator>Russo, Dario</dc:creator>
+      <dc:subject>Domotics</dc:subject>
+      <dc:subject>Robotics</dc:subject>
+      <dc:subject>Ambient Intelligence</dc:subject>
+      <dc:subject>Internet of Things</dc:subject>
+      <dc:subject>Elderlies</dc:subject>
+      <dc:subject>Disabled</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.1 Applications and Expert Systems</dc:subject>
+      <dc:description>The work briefly introduces the concepts that underlie automation technologies, robotics technologies and the developments, which in the near future, thanks to the application of the paradigm of Ambient Intelligence and the Internet of Things, will be available and usable by all people. The work, through practical examples, shows the scenarios currently feasible and those that will be soon. In particular, it focuses on how these techniques can be applied for not only the welfare and comfort of everyone, but especially to make it easier and dignified life for the chronically ill, the elderly and the disabled. The Research Laboratory in Domotics of the CNR, for many years, and even today, is sensitive to this kind of problems and performs advanced research activities in the areas described. The laboratory has developed a prototype that implements some features still considered futuristic in order to realize and make a significant contribution to scientific subject.</dc:description>
+      <dc:description/>
+      <dc:date>2015-01-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-004</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-004/2015-TR-004.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-EC-006</identifier>
+    <datestamp>2015-06-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Support and training periodic report</dc:title>
+      <dc:creator>Fides, Alvaro</dc:creator>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator/>
+      <dc:creator>Tazari, Saied</dc:creator>
+      <dc:subject>Platform support framework</dc:subject>
+      <dc:subject>Open Source strategy</dc:subject>
+      <dc:subject>AAL</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>This deliverable follows the same structure of D2.2, since it is an update on the status of the activities defined therein: Platform support framework, Training framework, and Open source strategy. There were almost no changes in the Platform support framework itself. After a short introduction to the (few) updates in the support framework, a set of statistics of the status on all the different issue trackers is presented, followed by a list of all issues opened and updated within the period of analysis of this version. Updates on the Training framework itself are few as well, but these are followed by a list of all available sources of training materials set up by different tasks in ReAAL. A short list of events where coaching was provided is also available. Finally the activities maintaining the Open Source community around the platform are described, including the next steps to follow.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325189/EU/make it ReAAL/ReAAL</dc:relation>
+      <dc:date>2015-02-28</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-EC-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>make it ReAAL. Deliverable ID2.1b, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

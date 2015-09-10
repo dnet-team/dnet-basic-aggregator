@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-008</identifier>
+    <datestamp>2015-03-19</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>I diritti dell'uomo e il diritto alla Privacy per le persone anziane e/o disabili</dc:title>
+      <dc:creator>Pillitteri, Loredana</dc:creator>
+      <dc:creator>Russo, Dario</dc:creator>
+      <dc:creator>Miori, Vittorio</dc:creator>
+      <dc:creator>Bianchi Bandinelli, Rolando</dc:creator>
+      <dc:subject>privacy</dc:subject>
+      <dc:subject>autodeterminazione individuo</dc:subject>
+      <dc:subject>persone anziane</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/K.4.2 Social Issues</dc:subject>
+      <dc:description>Respect for human rights and the individual person has changed profoundly in the last two centuries. Public opinion is that the individual must be respected in any situation and context. In the last century have multiplied the initiatives to establish rules to ensure compliance with the minimum rights of the human being. From an ethical point of view, the elderly should be protected from the negative consequences of ICT as regards the personal and social rights of the individual. ICT should empower them with the means to protect and pursue their rights. This, however, may not be enough. Modern technologies should also ensure the elderly not to be isolated, to have a real access to other persons or networks of people.</dc:description>
+      <dc:description/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7//EU/AAL - AMBIENT ASSISTED LIVING: SOCIALIZE/AAL - SOCIALIZE</dc:relation>
+      <dc:date>2015-03-18</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-008</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>21 pagine, Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-008/2015-TR-008.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

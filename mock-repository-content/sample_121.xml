@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-030</identifier>
+    <datestamp>2014-12-13</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title/>
+      <dc:creator>Candela, Leonardo</dc:creator>
+      <dc:creator>Cirillo, Roberto</dc:creator>
+      <dc:creator>Manzi, Andrea</dc:creator>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:subject>Infrastructure Operation</dc:subject>
+      <dc:subject>Federated Resources</dc:subject>
+      <dc:subject>Virtual Organisation</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H3.7 - Digital Libraries</dc:subject>
+      <dc:description/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2014-09-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-030</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source/>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-030/2014-EC-030.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

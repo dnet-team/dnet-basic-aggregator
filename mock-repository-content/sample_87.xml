@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-PR-008</identifier>
+    <datestamp>2014-10-05</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>ARROWS - D 4.2 Real-time algorithms for on-board attentive sensory data analysis: Operating algorithms and report about their implementation and performances.</dc:title>
+      <dc:creator>Reggiannini, Marco</dc:creator>
+      <dc:creator>Pascali, Maria Antonietta</dc:creator>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Tampucci, Marco</dc:creator>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Salvetti, Ovidio</dc:creator>
+      <dc:subject>Algoritmi</dc:subject>
+      <dc:subject>Analisi attentiva</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.1 PATTERN RECOGNITION. Models</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.2 PATTERN RECOGNITION. Design Methodology</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.4 PATTERN RECOGNITION. Applications</dc:subject>
+      <dc:description>The document describes the work carried out from the 4th to the 21st month, regarding the design and implementation of algorithms for attentive data analysis directly on-board of the ARROWS vehicles. This deliverable is mostly focused about on-board software to be executed during the missions. Both visual and acoustic data acquired with the search and inspection AUVs and with biomimetic U-CAT robots payload (see D4.1 - Report about functional specifications of the data acquisition and integration system) will be analyzed directly on the vehicle. Outputs obtained from the algorithms described hereafter will be gathered and processed by the High Level Control (HLC) module to perform a context driven AUV navigation.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/308724/EU/ARchaeological RObot systems for the World's Seas/ARROWS</dc:relation>
+      <dc:date>2014-05-29</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-PR-008</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>ARROWS - ARchaeological RObot systems for the World's Seas. Project report D 4.2, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

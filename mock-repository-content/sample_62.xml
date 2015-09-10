@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-049</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>CEO: a Context Event Only indoor localization technique for AAL</dc:title>
+      <dc:creator/>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:subject>Indoor Localization</dc:subject>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>Sensor Data Fusion</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/B.4.4 Performance Analysis and Design Aids. Verification</dc:subject>
+      <dc:description>Ambient Assisted Living applications are deployed in smart environments that provide some basic services, a typical example being user localization. AAL applications generally have low accuracy requirements for indoor localization; this opens the opportunity for parasitizing the existing smart environment infrastructure without adding dedicated positioning sensors. In this scenario, one can exploit simple binary sensors that are usually present in the smart environment, such as light and appliance switches or intrusion detection sensors, to obtain a rough estimate of the position of the user. This application is device-free, meaning that the user is not required to carry any device in order to be localized. In this paper we present CEO, a software-only system which we evaluate along the technical guidelines of the EvAAL competition. While the localization performance of CEO is lower with respect to most EvAAL competitors of past editions, it has the benefit of being non-intrusive, easy to install and perfectly compatible with other software systems: these characteristics would made it a potentially significant EvAAL competitor. While developing CEO, we only exploited the definition of the EvAAL competition environment as it was presented to competitors. The only inputs to CEO are the context events generated during the competition, which in 2012 and 2013 were limited to pressing light switches and using a stationary bicycle. We compare the performance of CEO against the results of those editions of EvAAL and show how it can be used to easily improve the performance of any EvAAL competitor.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/288173/EU/Combing social interaction and long term monitoring for promoting independent living/Giraff+</dc:relation>
+      <dc:date>2014-11-26</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-049</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Negli acknowledgments sono citati due progetti, GiraffPlus e EU FP7 DOREMI project (contract no. 611650), Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

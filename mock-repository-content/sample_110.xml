@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-043</identifier>
+    <datestamp>2015-02-12</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>PRELIDA - Analysis of the limitations of digital preservation solutions for preserving linked data</dc:title>
+      <dc:creator>Antoniou, Grigoris</dc:creator>
+      <dc:creator>Batsakis, Sotiris</dc:creator>
+      <dc:creator>Isaac, Antoine</dc:creator>
+      <dc:creator>Scharnhorst, Andrea</dc:creator>
+      <dc:creator/>
+      <dc:creator/>
+      <dc:creator>Giaretta, David</dc:creator>
+      <dc:creator>Meghini, Carlo</dc:creator>
+      <dc:subject>Digital Preservation</dc:subject>
+      <dc:subject>Linked Data</dc:subject>
+      <dc:subject>Gap Analysis</dc:subject>
+      <dc:subject>Preservation of Linked Data</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>This deliverable deals with the task of identifying technical issues where this gap exists and the implication of this for efficient digital preservation of linked data.This can be considered as the first step towards describing a roadmap that will bridge this gap and will lead to efficient digital preservation of linked data.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/600663/EU/Preserving Linked Data/PRELIDA</dc:relation>
+      <dc:date>2014-03-26</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-043</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>PRELIDA - Preserving Linked Data. Deliverable D4.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-043/2014-EC-043.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

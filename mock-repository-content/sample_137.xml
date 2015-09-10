@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-009</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>make it ReAAL - Platform features specification</dc:title>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Lenzi, Stefano</dc:creator>
+      <dc:creator/>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Gotta, Alberto</dc:creator>
+      <dc:creator>Riolo, Giancarlo</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>AAL Middleware Platform Design</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325189/EU/make it ReAAL/ReAAL</dc:relation>
+      <dc:date>2014-02-28</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-009</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>make it ReAAL. Deliverable D2.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

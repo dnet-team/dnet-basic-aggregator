@@ -1,0 +1,62 @@
+<RESOURCE_PROFILE>
+    <HEADER>
+        <RESOURCE_IDENTIFIER value="70e09fc4-7366-46c8-815e-e9d25cda7ee4_TURGb3JtYXREU1Jlc291cmNlcy9NREZvcm1hdERTUmVzb3VyY2VUeXBl"/>
+        <RESOURCE_TYPE value="MDFormatDSResourceType"/>
+        <RESOURCE_KIND value="MDFormatDSResources"/>
+        <RESOURCE_URI value=""/>
+        <DATE_OF_CREATION value="2015-04-08T11:27:16-03:00"/>
+    </HEADER>
+    <BODY>
+        <CONFIGURATION>
+            <NAME>DMF</NAME>
+            <DESCRIPTION>Driver Metadata Format</DESCRIPTION>
+            <INTERPRETATION>transformed</INTERPRETATION>
+            <SCHEMA uri=""/>
+        </CONFIGURATION>
+        <STATUS>
+            <LAYOUTS>
+                <LAYOUT name="index">
+                    <FIELDS>
+                        <FIELD indexable="true" name="objidentifier" result="false" stat="false" tokenizable="false" xpath="//dri:objIdentifier"/>
+                        <FIELD indexable="true" name="cobjcontentsynthesis" result="true" stat="false" xpath="//dr:CobjContentSynthesis"/>
+                        <FIELD indexable="true" name="cobjtypology" result="true" stat="false" tokenizable="false" xpath="//dr:CobjTypology"/>
+                        <FIELD indexable="true" name="cobjidentifier" result="true" stat="false" tokenizable="false" xpath="//dr:CobjIdentifier"/>
+                        <FIELD indexable="true" name="cobjmodel" result="true" stat="false" tokenizable="false" xpath="//dr:CobjModel"/>
+                        <FIELD indexable="true" name="cobjmdformats" result="true" stat="false" tokenizable="false" xpath="//dr:CobjMDFormats"/>
+                        <FIELD indexable="true" name="cobjdescriptionsynthesis" result="true" stat="false" xpath="//dr:CobjDescriptionSynthesis"/>
+                        <FIELD indexable="true" name="aggregatorname" result="true" stat="false" xpath="//dr:aggregatorName"/>
+                        <FIELD indexable="true" name="aggregatorinstitution" result="true" stat="false" xpath="//dr:aggregatorInstitution"/>
+                        <FIELD indexable="true" name="repositoryname" result="true" stat="false" xpath="//dr:repositoryName"/>
+                        <FIELD indexable="true" name="repositorylink" result="true" stat="false" tokenizable="false" xpath="//dr:repositoryLink"/>
+                        <FIELD indexable="true" name="repositorycountry" result="true" stat="false" tokenizable="false" xpath="//dr:repositoryCountry"/>
+                        <FIELD indexable="true" name="repositoryinstitution" result="true" stat="false" xpath="//dr:repositoryInstitution"/>
+                        <FIELD indexable="true" name="datasourceprefix" result="false" stat="false" xpath="//dri:datasourceprefix"/>
+						<FIELD indexable="true" name="creator" result="true" stat="false" xpath="//dc:creator"/>
+                        <FIELD indexable="true" name="title" result="true" stat="false" xpath="//dc:title"/>
+                        <FIELD indexable="true" name="subject" result="true" stat="false" xpath="//dc:subject"/>
+                        <FIELD indexable="true" name="cobjcategory" result="true" stat="false" tokenizable="false" xpath="//dr:CobjCategory"/>
+                        <FIELD indexable="true" name="language" result="true" stat="false" tokenizable="false" xpath="//dc:language"/>
+                        <FIELD indexable="true" name="dateaccepted" result="true" stat="false" tokenizable="false" xpath="//dc:dateAccepted"/>
+                        <FIELD indexable="true" name="identifier" result="true" stat="false" tokenizable="false" xpath="//dc:identifier"/>
+                        <FIELD indexable="true" name="publisher" result="true" stat="false" xpath="//dc:publisher"/>
+                        <FIELD indexable="true" name="source" result="true" stat="false" xpath="//dc:source"/>
+                        <FIELD indexable="true" name="contributor" result="true" stat="false" xpath="//dc:contributor"/>
+                        <FIELD indexable="true" name="relation" result="true" stat="false" tokenizable="false" xpath="//dc:relation"/>
+                        <FIELD indexable="true" name="description" result="true" stat="false" xpath="//dc:description"/>
+                        <FIELD indexable="true" name="type" result="true" stat="false" xpath="//dc:type"/>
+                        <FIELD indexable="true" name="date" result="true" stat="false" xpath="//dc:date"/>
+                        <FIELD indexable="true" name="rights" result="true" stat="false" xpath="//dc:rights"/>
+                        <FIELD indexable="true" name="format" result="true" stat="false" xpath="//dc:format"/>
+
+            			<!-- Browsing Fields -->
+                        <FIELD browsingAliasFor="subject" indexable="true" name="subjectforbrowsing" result="false" stat="false" tokenizable="false" xpath="//dc:subject"/>
+                        <FIELD browsingAliasFor="contributor" indexable="true" name="contributorforbrowsing" result="false" stat="false" tokenizable="false" xpath="//dc:contributor"/>
+                        <FIELD browsingAliasFor="publisher" indexable="true" name="publisherforbrowsing" result="false" stat="false" tokenizable="false" xpath="//dc:publisher"/>
+                        <FIELD browsingAliasFor="source" indexable="true" name="sourceforbrowsing" result="false" stat="false" tokenizable="false" xpath="//dc:source"/>
+                        <FIELD browsingAliasFor="repositoryname" indexable="true" name="repositorynameforbrowsing" result="false" stat="false" tokenizable="false" xpath="//dr:repositoryName"/>
+                    </FIELDS>
+                </LAYOUT>
+            </LAYOUTS>
+        </STATUS>
+    </BODY>
+</RESOURCE_PROFILE>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cxf="http://cxf.apache.org/core"
+	xmlns:http="http://cxf.apache.org/transports/http/configuration"
+	xmlns:wsa="http://cxf.apache.org/ws/addressing" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:pol="http://cxf.apache.org/policy" xmlns:condbean="http://dnetlib.eu/springbeans/condbean"
+	xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://cxf.apache.org/ws/addressing http://cxf.apache.org/schemas/ws-addr-conf.xsd
+http://cxf.apache.org/transports/http/configuration http://cxf.apache.org/schemas/configuration/http-conf.xsd
+http://cxf.apache.org/policy http://cxf.apache.org/schemas/policy.xsd
+http://cxf.apache.org/core http://cxf.apache.org/schemas/core.xsd
+http://dnetlib.eu/springbeans/condbean http://dnetlib.eu/springbeans/condbean.xsd">
+
+<!-- CXF bus with logging. Please set the log level of org.apache.cxf.interceptor to FATAL to hide the logging of EVERY incoming and outgoing messages. -->
+	<cxf:bus>
+		<cxf:outInterceptors>
+			<ref bean="outCxfLoggingInterceptor" />
+		</cxf:outInterceptors>
+		<cxf:inInterceptors>
+			<ref bean="inCxfLoggingInterceptor" />
+		</cxf:inInterceptors>
+	</cxf:bus>
+
+	<bean id="outCxfLoggingInterceptor" class="org.apache.cxf.interceptor.LoggingOutInterceptor" />
+	<bean id="inCxfLoggingInterceptor" class="org.apache.cxf.interceptor.LoggingInInterceptor" />
+
+
+	<!-- <cxf:bus> -->
+		<!--		<cxf:inInterceptors>-->
+		<!--
+			<bean id="logInbound"
+			class="org.apache.cxf.interceptor.LoggingInInterceptor" />
+		-->
+		<!--
+			<bean id="logOutbound"
+			class="org.apache.cxf.interceptor.LoggingOutInterceptor" />
+		-->
+		<!--			</condbean:cond>-->
+		<!--		</cxf:inInterceptors>-->
+
+<!-- 		<cxf:features> -->
+<!--			 <wsa:addressing />-->
+
+<!--			<cxf:logging />-->
+
+			<!--  <pol:policies ignoreUnknownAssertions="true"/> -->
+<!-- 		</cxf:features> -->
+<!-- 	</cxf:bus> -->
+
+
+	<http:conduit name="*.http-conduit">
+		<http:client AllowChunking="true" Connection="Keep-Alive" />
+	</http:conduit>
+</beans>

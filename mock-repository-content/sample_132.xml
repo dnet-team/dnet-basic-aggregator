@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-017</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>EAGLE - EAGLE metadata model specification (version 1.0)</dc:title>
+      <dc:creator>Sicilia, Miguel-Angel</dc:creator>
+      <dc:creator>Gomez-Pantoja, Joaquin</dc:creator>
+      <dc:creator>Fuentes, Maria Jose Rubio</dc:creator>
+      <dc:creator>Ruiz, Eydel Rivero</dc:creator>
+      <dc:creator>Mannocci, Andrea</dc:creator>
+      <dc:creator>Manghi, Paolo</dc:creator>
+      <dc:creator>Zoppi, Franco</dc:creator>
+      <dc:subject>Data Infrastructure</dc:subject>
+      <dc:subject>Aggregation System</dc:subject>
+      <dc:subject>Metadata Formats</dc:subject>
+      <dc:subject>Metadata Model</dc:subject>
+      <dc:subject>Data Interoperability</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>The main goal of the the EAGLE project is to aggregate into the EAGLE portal data from the EAGLE partners who have epigraphic data bases (the so called Content Providers), and then ingest these data into Europeana. The purpose of this document is to define a common data model to which all the Content Providers can map their own data sets so that all the collected material can be managed in a uniform an coherent way, both for ingestion to Europeana and for supporting advanced search functionality over the aggregated data.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325122/EU/EAGLE - Europeana network of Ancient Greek and Latin Epigraphy/EAGLE</dc:relation>
+      <dc:date>2014-01-17</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-017</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>EAGLE - Europeana network of Ancient Greek and Latin Epigraphy. Deliverable D 3.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-017/2014-EC-017.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

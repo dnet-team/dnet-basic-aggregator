@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-019</identifier>
+    <datestamp>2015-02-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Data preparation and models assessment specification</dc:title>
+      <dc:creator>Bacciu, Davide</dc:creator>
+      <dc:creator>Gallicchio, Claudio</dc:creator>
+      <dc:creator>Micheli, Alessio</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>Kropf, Johannes</dc:creator>
+      <dc:creator>Chessa, Stefano</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Barsocchi, Paolo</dc:creator>
+      <dc:creator>Parodi, Oberdan</dc:creator>
+      <dc:subject>Human activity recognition</dc:subject>
+      <dc:subject>Reasoning system</dc:subject>
+      <dc:subject>Requirement analysis</dc:subject>
+      <dc:subject>Database schema</dc:subject>
+      <dc:subject>Machine learning</dc:subject>
+      <dc:subject>Predictive learning models</dc:subject>
+      <dc:subject>Explorative data analysis</dc:subject>
+      <dc:subject>Model selection</dc:subject>
+      <dc:subject>Validation schemes</dc:subject>
+      <dc:subject>Echo state networks</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>The deliverable D4.1, titled "Data preparation and models assessment specification", discusses the requirements of the "Smart Environment for Context Awareness" system developed as part of WP4. It provides the specification of the services implemented by the system together with a discussion of the metrics and validation schemes used to assess the performance of the WP4 components. The document reports details on the computational methodology that will be followed to realize the WP4 services and provides guidelines for the collection of annotated training data for activity recognition purposes.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-07-07</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-019</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D4.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

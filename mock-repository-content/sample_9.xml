@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-001</identifier>
+    <datestamp>2015-01-09</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Real Time System for Gesture Tracking in Psycho-Motorial Rehabilitation</dc:title>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Pieri, Gabriele</dc:creator>
+      <dc:subject>Gesture tracking</dc:subject>
+      <dc:subject>Image processing</dc:subject>
+      <dc:subject>Rehabilitation</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.4 PATTERN RECOGNITION. Applications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.10 Vision and Scene Understanding</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/J.3 LIFE AND MEDICAL SCIENCES</dc:subject>
+      <dc:description>In the last years sensor based interactive systems for helping the treatment of learning difficulties and disabilities in children appeared on the specialized literature (Ould Mohamed and Courbulay, 2006) and (Kozima et al. 2005). Our system is based on real-time video processing techniques. The use of video-processing techniques adds more parameters which can be used for the exact localization and details about the human gestures to be detected and recognized. By using the implemented software interface, the operator can link these extracted video features to sounds synthesized in real time, following a predefined schema. The proposed system has been experimented as case study, in a real-patients test campaign over a set of patient affected by autism spectrum disorder (ASD), in order to provide them an increased interaction towards external environment and trying to reduce their pathological isolation (Riva et al., 2013).</dc:description>
+      <dc:date>2015-1-8</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-001/2015-TR-001.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

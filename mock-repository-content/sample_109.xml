@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-044</identifier>
+    <datestamp>2015-02-12</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>PRELIDA - First version of the roadmap</dc:title>
+      <dc:creator>Antoniou, Grigoris</dc:creator>
+      <dc:creator>Batsakis, Sotiris</dc:creator>
+      <dc:creator>Isaac, Antoine</dc:creator>
+      <dc:creator>Scharnhorst, Andrea</dc:creator>
+      <dc:creator/>
+      <dc:creator/>
+      <dc:creator>Meghini, Carlo</dc:creator>
+      <dc:subject>Preservation of Linked Data</dc:subject>
+      <dc:subject>Roadmap</dc:subject>
+      <dc:subject>Linked Data</dc:subject>
+      <dc:subject>Digital Preservation</dc:subject>
+      <dc:subject>Ingestion of Linked Datasets</dc:subject>
+      <dc:subject>Change</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>The present document is a first version of the long term preservation of Linked Data roadmap deliverable. Based on current state of the art on digital preservation and Linked Data and a description of related use cases, corresponding challenges and limitations of existing approaches are identified. Then, based on these challenges, a draft roadmap is proposed for dealing with ingestion of Linked Datasets and changes into the dataset. Keeping track of changes and related technical and organizational challenges is also addressed. The present document is intended to form the basis for the scientific content of the final PRELIDA Workshop and is a stepping stone towards the preparation of a detailed final roadmap at the end of the project.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/600663/EU/Preserving Linked Data/PRELIDA</dc:relation>
+      <dc:date>2014-09-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-044</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>PRELIDA - Preservation of Linked Data. Deliverable D4.2, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-044/2014-EC-044.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

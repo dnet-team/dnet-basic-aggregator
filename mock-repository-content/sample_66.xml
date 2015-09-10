@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-042</identifier>
+    <datestamp>2014-10-22</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title/>
+      <dc:creator>De Maglio, Antonio</dc:creator>
+      <dc:subject>PEC</dc:subject>
+      <dc:subject>openssl</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68Nxx Software</dc:subject>
+      <dc:description>The Institute of Information Science and Technologies (ISTI) has a contract with Agency for Italy Digital (AGID) to perform interoperability tests of Certified Mail (PEC). The ISTI has both its own manager PEC, which one platform for performing a battery of tests on the PEC provider platform. In the configuration phase of a session for a provider if not already present, are generated automatically X.509 certificates of mailboxes that are used in the test battery current. I will describe in this guide initially openssl command to generate Certification Authority (CA), and subsequently analyze the commands openssl to generate the certificates of the users. I will finish this guide explaining the steps to revoke a certificate issued by its CA.</dc:description>
+      <dc:description/>
+      <dc:date>2014-10-17</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-042</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-TR-042/2014-TR-042.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

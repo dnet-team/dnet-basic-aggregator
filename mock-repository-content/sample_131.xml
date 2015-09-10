@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-018</identifier>
+    <datestamp>2014-07-03</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>ENVRI - Integration, harmonisation and publication software components - version 2</dc:title>
+      <dc:creator>Candela, Leonardo</dc:creator>
+      <dc:creator>Coro, Gianpaolo</dc:creator>
+      <dc:creator>Italiano, Angela</dc:creator>
+      <dc:creator>Mangiacrapa, Francesco</dc:creator>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:creator>Sinibaldi, Fabio</dc:creator>
+      <dc:subject>Environmental Research Infrastructures</dc:subject>
+      <dc:subject>ENVRI Project</dc:subject>
+      <dc:subject>Software components, services and subsystems</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>The ENVRI Integration, Harmonisation and Publication software comprises a number of components, services and subsystems offering facilities enabling the integration and harmonization of data. The actual deliverable is thus the software realising such facilities. This document briefly describes the software components realising version 2 of these facilities and offers a series of links to the software itself and its accompanying documentation</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283465/EU/Common Operations of Environmental Research Infrastructures/ENVRI</dc:relation>
+      <dc:date>2014-06-20</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-018</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Common Operations of Environmental Research Infrastructures. Deliverable D4.5, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-018/2014-EC-018.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

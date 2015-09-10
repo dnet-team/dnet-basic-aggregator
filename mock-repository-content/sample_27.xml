@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A2-011</identifier>
+    <datestamp>2015-04-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Quantitative analysis of probabilistic models of software product lines with statistical model checking</dc:title>
+      <dc:creator>Ter Beek, Maurice H.</dc:creator>
+      <dc:creator>Legay, Axel</dc:creator>
+      <dc:creator>Lluch Lafuente, Alberto</dc:creator>
+      <dc:creator>Vandin, Andrea</dc:creator>
+      <dc:subject>Software Product Lines</dc:subject>
+      <dc:subject>Probabilistic Models</dc:subject>
+      <dc:subject>Quantitative Analysis</dc:subject>
+      <dc:subject>Statistical Model Checking</dc:subject>
+      <dc:subject>Process Algebra</dc:subject>
+      <dc:subject>Maude</dc:subject>
+      <dc:subject>MultiVeStA</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.4 Software/Program Verification. Formal Methods</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.4 Software/Program Verification. Model checking</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/F.3.1 Specifying and Verifying and Reasoning about Programs</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/F.3.2 Semantics of Programming Languages</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/G.3 Probability and Statistics</dc:subject>
+      <dc:description>We investigate the suitability of statistical model checking techniques for analysing quantitative properties of software product line models with probabilistic aspects. For this purpose, we enrich the feature-oriented language FLan with action rates, which specify the likelihood of exhibiting particular behaviour or of installing features at a specific moment or in a specific order. The enriched language (called PFLan) allows us to specify models of software product lines with probabilistic configurations and behaviour, e.g. by considering a PFLan semantics based on discrete-time Markov chains. The Maude implementation of PFLan is combined with the distributed statistical model checker MultiVeStA to perform quantitative analyses of a simple product line case study. The presented analyses include the likelihood of certain behaviour of interest (e.g. product malfunctioning) and the expected average cost of products.</dc:description>
+      <dc:publisher>EPTCS</dc:publisher>
+      <dc:contributor>J.M. Atlee, S. Gnesi</dc:contributor>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/600708/EU/A Quantitative Approach to Management and Design of Collective and Adaptive Behaviours/QUANTICOL</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A2-011</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: FMSPLE'15 - 6th International Workshop on Formal Methods for Software Product Line Engineering (London, UK, 11 April 2015). Proceedings, pp. 56 - 70. J.M. Atlee, S. Gnesi (eds.). (Electronic Proceedings in Theoretical Computer Science, vol. 182). EPTC</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://eptcs.web.cse.unsw.edu.au/paper.cgi?FMSPLE15.5</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/2075-2180 (ISSN)</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.4204/EPTCS.182.5</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A2-011/2015-A2-011.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

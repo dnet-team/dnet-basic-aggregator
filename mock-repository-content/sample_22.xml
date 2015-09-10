@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A6-001</identifier>
+    <datestamp>2015-04-10</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Integrating optical imaging and digital processing for nondestructive diagnosis of artifacts</dc:title>
+      <dc:creator>Console, Elena</dc:creator>
+      <dc:creator>Tonazzini, Anna</dc:creator>
+      <dc:creator>Salerno, Emanuele</dc:creator>
+      <dc:creator>Savino, Pasquale</dc:creator>
+      <dc:creator>Bruno, Fabio</dc:creator>
+      <dc:subject>Nondestructive diagnosis</dc:subject>
+      <dc:subject>Multispectral imaging</dc:subject>
+      <dc:subject>Statistical Image analysis</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.10 Vision and Scene Understanding</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.1 Digitization and image capture</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.8 Scene analysis</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/J.5 Arts and humanities</dc:subject>
+      <dc:description>Optical imaging is one of the less expensive and less invasive techniques to capture information from tangible cultural heritage. An additional advantage is that it is faster than many other methods, providing comprehensive maps of the quantities under study in just one or a few steps. More specialized techniques, such as chemical analysis or spectroscopy, are capable of much more accurate and reliable measurements; on the one hand, however, these pointwise techniques often need a panoramic pre-diagnostics to find the areas of interest; on the other hand, diversity imaging complemented by appropriate processing techniques is often able to extract information that can well provide for the diagnostic needs at hand. In this presentation 3D and multispectral imaging are treated, since 3D spatial and spectral data allow us to extract information on the conservation, the structure and the composition of the object studied. Moreover, details that are invisible to the naked eye can emerge without damaging the object. For example, IR light can penetrate the surfaces, thus revealing invisible details such as pentimentos, sinopias or underdrawings in paintings. Also, by IR light we can distinguish different materials, such as iron- and carbon-based inks in ancient documents, or reveal the presence of biological or non-biological contaminants. As another example, an UV-fluorescence image can discriminate between apparently similar pigments, thus helping the historical and critical study of the artifact. 3D imaging, finally, allows us to study an object through its digital model, thus determining its deformation, the presence of flaws or cracks, and other features. Many of the possibilities mentioned are now long established [1]. What is relatively new in cultural heritage conservation is the integrated use of all the available channels together, to extract information patterns that are not detectable in any of the channels if analyzed alone. To this end, we have been studying and employing a number of processing algorithms that are capable of transforming the "color" layers in the raw image to coherent "information" layers in the processed output, sometimes with the help of the associated 3D information [2]. These algorithms range from the necessary multiple spatial colocation, through simple color space manipulation, to sophisticated statistical procedures applied to both the spectral and the spatial features of the input image. We also built an integrated 3D-multispectral capture system [3]. In this presentation, we describe this system and the numerical procedures we have been using in several applications, and report the results obtained in some real case studies.</dc:description>
+      <dc:publisher>INFN</dc:publisher>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A6-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: TECHNART 2015 - Non-destructive and microanalytical techniques in art and cultural heritage (Catania, Italy, 27-30 April 2015). Abstract, article n. P1-168. INFN, 2015.</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://technart2015.lns.infn.it/images/BoA.pdf</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A6-001/2015-A6-001.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

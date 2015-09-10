@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-B4-002</identifier>
+    <datestamp>2014-05-29</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Il movimento Open Access - scenari attuali</dc:title>
+      <dc:creator>Deluca, Rosaria</dc:creator>
+      <dc:creator>Giannini, Silvia</dc:creator>
+      <dc:subject>Open access policies</dc:subject>
+      <dc:subject>Open access law</dc:subject>
+      <dc:description>More than ten years after the first international Declarations on Open Access this paper briefly traces the milestones of the movement. It broadly examines the current legal and legislative framework and the national and international policies already implemented by the various institutions.</dc:description>
+      <dc:description/>
+      <dc:date>2014-04-30</dc:date>
+      <dc:type>info:eu-repo/semantics/other</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-B4-002</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>Internal note, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-B4-002/2014-B4-002_0.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

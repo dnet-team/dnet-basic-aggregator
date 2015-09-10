@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-B0-001</identifier>
+    <datestamp>2015-03-14</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Qualche considerazione sugli schemi mentali sottesi all'approccio darwiniano.</dc:title>
+      <dc:creator>Beltrame, Renzo</dc:creator>
+      <dc:subject>Cognition</dc:subject>
+      <dc:subject>Italian Operational School</dc:subject>
+      <dc:subject>Radical constructivism</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2 ARTIFICIAL INTELLIGENCE</dc:subject>
+      <dc:description>Brief notes on the mental scheme that underlies the Darwinian approach.</dc:description>
+      <dc:publisher/>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-B0-001</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source/>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://www.methodologia.it/wp/WP_288_Beltrame.pdf</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/1120-3854</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-B0-001/2015-B0-001.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

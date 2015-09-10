@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-010</identifier>
+    <datestamp>2015-05-14</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Human activity recognition using multisensor data fusion based on reservoir computing</dc:title>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>Gallicchio, Claudio</dc:creator>
+      <dc:creator>Pucci, Rita</dc:creator>
+      <dc:creator>Micheli, Alessio</dc:creator>
+      <dc:subject>AAL</dc:subject>
+      <dc:subject>Activity recognition</dc:subject>
+      <dc:subject>Neural Networks</dc:subject>
+      <dc:subject>Reservoir Computing</dc:subject>
+      <dc:subject>Sensor Data Fusion</dc:subject>
+      <dc:subject>WSN</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.1 Neural nets</dc:subject>
+      <dc:description>Activity recognition plays a key role in providing activity assistance and care for users in smart homes. In this work, we present an activity recognition system that classifies in the near real-time a set of common daily activities exploiting both the data sampled by sensors embedded in a smartphone carried out by the user and the reciprocal Received Signal Strength (RSS) values coming from worn wireless sensor devices and from sensors deployed in the environment. In order to achieve an effective and responsive classification, a decision tree based on multisensor data-stream is applied fusing data coming from embedded sensors on the smartphone and environmental sensors before processing the RSS stream. To this end, we model the RSS stream, obtained from a Wireless Sensor Network (WSN), using Recurrent Neural Networks (RNNs) implemented as efficient Echo State Networks (ESNs), within the Reservoir Computing (RC) paradigm. We targeted the system for the EvAAL scenario, an international competition that aims at establishing benchmarks and evaluation metrics for comparing Ambient Assisted Living (AAL) solutions. In this paper, the performance of the proposed activity recognition system is assessed on a purposely collected real-world dataset, taking also into account a competitive neural network approach for performance comparison. Our results show that, with an appropriate configuration of the information fusion chain, the proposed system reaches a very good accuracy with a low deployment cost.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2015-04-29</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-010</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

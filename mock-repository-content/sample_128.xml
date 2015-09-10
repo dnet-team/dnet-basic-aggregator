@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-023</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>GiraffPlus - Third Prototype of sensors, Giraff platform and network system report</dc:title>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>La Rosa, Davide</dc:creator>
+      <dc:creator/>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Stimec, Ales</dc:creator>
+      <dc:creator/>
+      <dc:creator>Koshmak, Gregory</dc:creator>
+      <dc:creator>Odontidou, Eleni</dc:creator>
+      <dc:creator>Gonzales, Javier</dc:creator>
+      <dc:creator>Galindo, Cipriano</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>Sensor Network Design</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/J.3 LIFE AND MEDICAL SCIENCE. Health</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/K.4.2 SOCIAL ISSUES</dc:subject>
+      <dc:description>This document reports on the third prototype of the system that is currently deployed in all test sites. The third prototype at month 30 provides the final version of the network system and the second and final version of the Giraff platform. A middleware solution helps to integrate the software components developed by the WP3 and WP4 and enhanced Giraff platform with safer and semi-autonomous mobility features. The prototype includes the Giraff robot, the Look4Myhealth kit, the monitoring sensors from Tunstall, additional environmental sensors, a physiological sensor for pulse oximetry measurements based on Android, the context recognition and configuration planning modules, and the remote storage and repository to collect user data. Additionally a new wearable sensor containing an inertial system is also introduced. It can be carried out by the primary user and used to give additional information regarding the user activities. The final version of the middleware is presented and the semi-autonomy features for the Giraff robot are described.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/288173/EU/Combining social interaction and long term monitoring for promoting independent living/GiraffPlus</dc:relation>
+      <dc:date>2014-07-01</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-023</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Combining social interaction and long term monitoring for promoting independent living - GiraffPlus. Deliverable D2.3, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

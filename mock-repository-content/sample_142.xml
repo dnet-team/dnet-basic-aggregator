@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-001</identifier>
+    <datestamp>2014-03-06</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>EUBrazilOpenBio - D1.5 periodic report</dc:title>
+      <dc:creator>Badia, Rosa M.</dc:creator>
+      <dc:creator>Lezzi, Daniele</dc:creator>
+      <dc:creator>Callau, Pilar</dc:creator>
+      <dc:creator>De Giovanni, Renato</dc:creator>
+      <dc:creator>Canhos, Vanderlei</dc:creator>
+      <dc:creator>Candela, Leonardo</dc:creator>
+      <dc:creator>Rebello, Vinod</dc:creator>
+      <dc:creator>Pittonet, Sara</dc:creator>
+      <dc:subject>Project management</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>EU-Brazil Open Data and Cloud Computing e-Infrastructure for Biodiversity - Project activity report</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/288754/EU/EU-Brazil Open Data and Cloud Computing e-Infrastructure for Biodiversity/EUBRAZILOPENBIO</dc:relation>
+      <dc:date>2014-01-14</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>EU-Brazil Open Data and Cloud Computing e-Infrastructure for Biodiversity. Deliverable D1.5, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

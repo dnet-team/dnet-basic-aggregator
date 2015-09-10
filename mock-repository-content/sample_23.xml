@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A3-002</identifier>
+    <datestamp>2015-03-14</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Low-quality training data in information extraction</dc:title>
+      <dc:creator>Marcheggiani, Diego</dc:creator>
+      <dc:creator>Sebastiani, Fabrizio</dc:creator>
+      <dc:subject>Information extraction</dc:subject>
+      <dc:subject>Training data quality</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.6 ARTIFICIAL INTELLIGENCE. Learning</dc:subject>
+      <dc:description>In the last five years there has been a flurry of work on information extraction, i.e., on algorithms capable of extracting, from informal and unstructured texts, mentions of concepts relevant to a given application. Most of this literature is about methods based on supervised learning, i.e., methods for training an information extraction system from manually annotated examples. While a lot of work has been devoted to devising learning methods that generate more and more accurate information extractors, no work has been devoted to investigating the effect of the quality of training data on the learning process. Low quality in training data often derives from the fact that the person who has annotated the data is different from the one against whose judgment the automatically annotated data must be evaluated. In this paper we test the impact of such data quality issues on the accuracy of information extraction systems as applied to the clinical domain. We do this by comparing the accuracy deriving from training data annotated by the authoritative coder (i.e., the one who has also annotated the test data, and by whose judgment we must abide), with the accuracy deriving from training data annotated by a different coder.</dc:description>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A3-002</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: MLDAS 2015 - Machine Learning and Data Analytics Symposium (Doha, Qatar, 8-9 March 2015).</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A3-002/2015-A3-002.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

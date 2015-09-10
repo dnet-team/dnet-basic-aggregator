@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A3-001</identifier>
+    <datestamp>2015-03-14</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Structured prediction for quantification</dc:title>
+      <dc:creator>Esuli, Andrea</dc:creator>
+      <dc:creator>Sebastiani, Fabrizio</dc:creator>
+      <dc:subject>Quantification</dc:subject>
+      <dc:subject>Structured output prediction</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.6 ARTIFICIAL INTELLIGENCE. Learning</dc:subject>
+      <dc:description>We address the problem of quantification, a supervised learning task whose goal is, given a class, to estimate the relative frequency (or prevalence) of the class in a dataset of unlabelled items. Quantification has several applications in data and text mining, such as estimating the prevalence of positive reviews in a set of reviews of a given product, or estimating the prevalence of a given support issue in a dataset of transcripts of phone calls to tech support. So far, quantification has been addressed by learning a general-purpose classifier, counting the unlabelled items which have been assigned the class, and tuning the obtained counts according to some heuristics. In this paper we depart from the tradition of using general-purpose classifiers, and use instead a supervised learning model for structured prediction, capable of generating classifiers directly optimized for the (multivariate and non-linear) function used for evaluating quantification accuracy. The experiments that we have run on 5500 binary high-dimensional datasets (averaging more than 14,000 documents each) show that this method is more accurate, more stable, and more efficient than existing, state-of-the-art quantification methods.</dc:description>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A3-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: MLDAS 2015 - 2nd Machine Learning and Data Analytics Symposium (Doha, Qatar, 8-9 March 2015).</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A3-001/2015-A3-001.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

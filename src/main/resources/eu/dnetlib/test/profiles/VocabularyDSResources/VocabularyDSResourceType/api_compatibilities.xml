@@ -1,0 +1,30 @@
+<RESOURCE_PROFILE>
+    <HEADER>
+        <RESOURCE_IDENTIFIER value="7b7db07d-089f-4ff5-9a73-9de74941890b_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL1ZvY2FidWxhcnlEU1Jlc291cmNlVHlwZQ=="/>
+        <RESOURCE_TYPE value="VocabularyDSResourceType"/>
+        <RESOURCE_KIND value="VocabularyDSResources"/>
+        <RESOURCE_URI value=""/>
+        <DATE_OF_CREATION value="2015-07-14T10:46:36+01:00"/>
+    </HEADER>
+    <BODY>
+        <CONFIGURATION>
+            <VOCABULARY_NAME code="dnet:compatibilityLevel">dnet:compatibilityLevel</VOCABULARY_NAME>
+            <VOCABULARY_DESCRIPTION>dnet:compatibilityLevel</VOCABULARY_DESCRIPTION>
+            <TERMS>
+                <TERM code="native" encoding="OPENAIRE" english_name="native" native_name="native">
+                    <SYNONYMS/>
+                </TERM>
+                <TERM code="files" encoding="OPENAIRE" english_name="files" native_name="files">
+                    <SYNONYMS/>
+                </TERM>
+                <TERM code="UNKNOWN" encoding="OPENAIRE" english_name="not available" native_name="not available">
+                    <SYNONYMS/>
+                </TERM>
+            </TERMS>
+        </CONFIGURATION>
+        <STATUS>
+            <LAST_UPDATE value="2015-07-14T10:46:36Z"/>
+        </STATUS>
+        <SECURITY_PARAMETERS>String</SECURITY_PARAMETERS>
+    </BODY>
+</RESOURCE_PROFILE>

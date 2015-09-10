@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-PR-015</identifier>
+    <datestamp>2015-01-31</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title/>
+      <dc:creator>Vairo, Claudio</dc:creator>
+      <dc:creator>Amato, Giuseppe</dc:creator>
+      <dc:creator>Gennaro, Claudio</dc:creator>
+      <dc:subject>Cicloturismo</dc:subject>
+      <dc:subject>IOS</dc:subject>
+      <dc:subject>App</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.4 INFORMATION SYSTEMS APPLICATIONS</dc:subject>
+      <dc:description>The goal of this activity is to develop an application for smartphones technologically advanced, in an augmented reality, aimed at cycling tourism object within the project Active Tourism. The application must provide information and images during the cycling routes and should allow you to share with other users, traffic information, cultural sites and scenic resources of the route you are currently taking. The application is designed and built for the iPhone platform with iOS operating system and can work in online mode (requires an active network connection for this mode), and offline mode. Some of the features offered by the application will not be available in offline mode.</dc:description>
+      <dc:description/>
+      <dc:date>2014-01-29</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-PR-015</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source/>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-PR-015/2014-PR-015.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,23 @@
+<RESOURCE_PROFILE>
+    <HEADER>
+        <RESOURCE_IDENTIFIER value="7-de9a7d86-00cd-4348-905d-0c977b2b996d_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL01ldGFkYXRhRm9ybWF0RFNSZXNvdXJjZVR5cGU="/>
+        <RESOURCE_TYPE value="MetadataFormatDSResourceType"/>
+        <RESOURCE_KIND value="VocabularyDSResources"/>
+        <RESOURCE_URI value="String"/>
+       <DATE_OF_CREATION value="2015-04-08T11:27:16-03:00"/>
+    </HEADER>
+    <BODY>
+        <CONFIGURATION>
+            <VOCABULARY_NAME>Informations about metadata formats</VOCABULARY_NAME>
+            <VOCABULARY_DESCRIPTION>Contain the necessary informations about the metadata formats used by DRIVER</VOCABULARY_DESCRIPTION>
+            <METADATAFORMATS>
+                <METADATAFORMAT IndexDate="dateAccepted" IndexLayout="index" IndexPrefix="DMF" IndexQuery="Textual" NameSpace="http://www.openarchives.org/OAI/2.0/oai_dc/" Prefix="oai_dc" Schema="http://www.openarchives.org/OAI/2.0/oai_dc.xsd" name="DC"/>
+                <METADATAFORMAT IndexDate="dateAccepted" IndexLayout="index" IndexPrefix="DMF" IndexQuery="Textual" NameSpace="http://www.driver-repository.eu/OAI/2.0/DMF/" Prefix="DMF" Schema="http://driver.research-infrastructures.eu/schemas/DMFSchema.xsd" name="DMF"/>
+            </METADATAFORMATS>
+        </CONFIGURATION>
+      	<STATUS>
+            <LAST_UPDATE value="2008-05-20T12:44:48+02:00"/>
+        </STATUS>
+        <SECURITY_PARAMETERS>String</SECURITY_PARAMETERS>
+    </BODY>
+</RESOURCE_PROFILE>

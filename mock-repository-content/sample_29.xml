@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A2-007</identifier>
+    <datestamp>2015-04-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Remote visualization and navigation of 3D models of archeological sites</dc:title>
+      <dc:creator>Callieri, Marco</dc:creator>
+      <dc:creator>Dellepiane, Matteo</dc:creator>
+      <dc:creator>Scopigno, Roberto</dc:creator>
+      <dc:subject>Remote visualization</dc:subject>
+      <dc:subject>Architectural 3D models</dc:subject>
+      <dc:subject>Web 3D</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.3.7 COMPUTER GRAPHICS. Three-Dimensional Graphics and Realism</dc:subject>
+      <dc:description>The remote visualization and navigation of 3D data directly inside the web browser is becoming a viable option, due to the recent efforts in standardizing the components for 3D rendering on the web platform. Nevertheless, handling complex models may be a challenge, especially when a more generic solution is needed to handle different cases. In particular, archeological and architectural models are usually hard to handle, since their navigation can be managed in several ways, and a completely free navigation may be misleading and not realistic. In this paper we present a solution for the remote navigation of these dataset in a WebGL component. The navigation has two possible modes: the "bird's eye" mode, where the user is able to see the model from above, and the "first person" mode, where the user can move inside the structure. The two modalities are linked by a point of interest, that helps the user to control the navigation in an intuitive fashion. Since the terrain may not be flat, and the architecture may be complex, it's necessary to handle these issues, possibly without implementing complex mesh-based collision mechanisms. Hence, a complete navigation is obtained by storing the height and collision information in an image, which provides a very simple source of data. Moreover, the same image-based approach can be used to store additional information that could enhance the navigation experience. The method has been tested in two complex test cases, showing that a simple yet powerful interaction can be obtained with limited pre-processing of data.</dc:description>
+      <dc:publisher>ISPRS</dc:publisher>
+      <dc:contributor>D. Gonzalez-Aguilera, F. Remondino, J. Boehm, T. Kersten, T. Fuse</dc:contributor>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/323567/EU/Harvesting Dynamic 3D Worlds from Commodity Sensor Clouds/HARVEST4D</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A2-007</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: 3D-ARCH - 6th International Workshop on 3D Virtual Reconstruction and Visualization of Complex Architectures (Avila, Spain, 25-27 February 2015). Proceedings, pp. 147 - 154. D. Gonzalez-Aguilera, F. Remondino, J. Boehm, T. Kersten, T. Fuse (eds.). (Th</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W4/147/2015/isprsarchives-XL-5-W4-147-2015.html</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.5194/isprsarchives-XL-5-W4-147-2015</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A2-007/2015-A2-007.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

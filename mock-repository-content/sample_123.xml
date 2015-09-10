@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-028</identifier>
+    <datestamp>2014-12-13</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>MIDAS - The basic MIDAS platform and the integrated test evaluation, planning and scheduling macro-component</dc:title>
+      <dc:creator>De Francesco, Alberto</dc:creator>
+      <dc:creator>Di Napoli, Claudia</dc:creator>
+      <dc:creator>Tonellotto, Nicola</dc:creator>
+      <dc:creator>De Rosa, Fabio</dc:creator>
+      <dc:creator>Maesano, Libero</dc:creator>
+      <dc:creator>Harms, Patrick</dc:creator>
+      <dc:creator>Herbold, Steffen</dc:creator>
+      <dc:subject>TPaaS</dc:subject>
+      <dc:subject>Test Method Integration</dc:subject>
+      <dc:subject>Production Environment</dc:subject>
+      <dc:subject>Development Environment</dc:subject>
+      <dc:subject>Account &amp; Billing Service</dc:subject>
+      <dc:subject>Security and Confidentiality</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.2 Design Tools and Techniques</dc:subject>
+      <dc:description>The basic MIDAS platform and the integrated test evaluation, planning and scheduling macro-component: This deliverable includes the basic MIDAS PaaS with mechanisms to manage the Cloud infrastructure and to provide the requested functionality and reports a planning for the activities performed in the task T6.2, T6.3 and T.6.4. The deliverable will include also a first demonstrator of the integrated test execution macro-component.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/318786/EU/Model and Inference Driven, Automated testing of Services architectures/MIDAS</dc:relation>
+      <dc:date>2014-09-25</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-028</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Model and Inference Driven, Automated testing of Services architectures. Deliverable D6.3, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/closedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

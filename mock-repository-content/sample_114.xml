@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-039</identifier>
+    <datestamp>2015-02-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>IMARINE - EA-CoP Validation</dc:title>
+      <dc:creator>Ellenbroek, Anton</dc:creator>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:subject>Virtual Research Environments</dc:subject>
+      <dc:subject>gCube system</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>This report documents the strategy, plan, and progress leading to the development of specific applications and tools that in tandem with the rest of gCube technology will be used to realize the Virtual Research Environments that are expected to serve the needs of the Ecosystem Approach Community of Practice.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2014-10-31</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-039</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources. Deliverable D3.5, 2014.</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://goo.gl/vBqNKk</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-039/2014-EC-039.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

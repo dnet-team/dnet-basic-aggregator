@@ -1,0 +1,64 @@
+<RESOURCE_PROFILE>
+    <HEADER>
+        <RESOURCE_IDENTIFIER value="99e63ae6-fbdc-4486-b551-01f5ddaa33a4_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL1ZvY2FidWxhcnlEU1Jlc291cmNlVHlwZQ=="/>
+        <RESOURCE_TYPE value="VocabularyDSResourceType"/>
+        <RESOURCE_KIND value="VocabularyDSResources"/>
+        <RESOURCE_URI value=""/>
+       	<DATE_OF_CREATION value="2015-04-08T11:27:16-03:00" />
+    </HEADER>
+    <BODY>
+        <CONFIGURATION>
+            <VOCABULARY_NAME code="dnet:rights">dnet:rights</VOCABULARY_NAME>
+            <VOCABULARY_DESCRIPTION>dnet:rights</VOCABULARY_DESCRIPTION>
+            <TERMS>
+                <TERM code="12MONTHS" encoding="DNET" english_name="12 Months Embargo" native_name="12 Months Embargo">
+                    <SYNONYMS/>
+                </TERM>
+                <TERM code="6MONTHS" encoding="DNET" english_name="6 Months Embargo" native_name="6 Months Embargo">
+                    <SYNONYMS/>
+                </TERM>
+                <TERM code="CLOSED" encoding="DNET" english_name="Closed Access" native_name="Closed Access">
+                    <SYNONYMS>
+                        <SYNONYM term="info:eu-repo/semantics/closedAccess" encoding="openaireGuidelines"/>
+                    </SYNONYMS>
+                </TERM>
+                <TERM code="EMBARGO" encoding="DNET" english_name="Embargo" native_name="Embargo">
+                    <SYNONYMS>
+                        <SYNONYM term="info:eu-repo/semantics/embargoedAccess" encoding="openaireGuidelines"/>
+                    </SYNONYMS>
+                </TERM>
+                <TERM code="OPEN" encoding="DNET" english_name="Open Access" native_name="Open Access">
+                    <SYNONYMS>
+                        <SYNONYM term="info:eu-repo/semantics/openAccess" encoding="openaireGuidelines"/>
+                        <SYNONYM term="Creative commons" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/publicdomain/zero/1.0/" encoding="zenodo"/>
+                        <SYNONYM term="http://creativecommons.org/publicdomain/zero/1.0/ &amp; http://www.canadensys.net/norms" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by/3.0/" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by/3.0/us/" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by-nc/3.0/" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by-nc-nd/3.0/" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by-sa/3.0/" encoding="datacite"/>
+                        <SYNONYM term="Creative Commons License [CC BY-NC-ND] http://creativecommons.org/licenses/by-nc-nd/3.0/de/" encoding="datacite"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by-sa/4.0/" encoding="zenodo"/>
+                        <SYNONYM term="http://creativecommons.org/licenses/by/4.0/" encoding="zenodo"/>
+                    </SYNONYMS>
+                </TERM>
+                <TERM code="OTHER" encoding="DNET" english_name="Other" native_name="Other">
+                    <SYNONYMS/>
+                </TERM>
+                <TERM code="RESTRICTED" encoding="DNET" english_name="Restricted" native_name="Restricted">
+                    <SYNONYMS>
+                        <SYNONYM encoding="openaireGuidelines" term="info:eu-repo/semantics/restrictedAccess"/>
+                    </SYNONYMS>
+                </TERM>
+                <TERM code="UNKNOWN" encoding="DNET" english_name="UNKNOWN" native_name="UNKNOWN">
+                    <SYNONYMS/>
+                </TERM>
+            </TERMS>
+        </CONFIGURATION>
+        <STATUS>
+            <LAST_UPDATE value="2015-04-08T20:46:36Z"/>
+        </STATUS>
+        <SECURITY_PARAMETERS>String</SECURITY_PARAMETERS>
+    </BODY>
+</RESOURCE_PROFILE>

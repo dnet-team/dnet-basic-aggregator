@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A1-006</identifier>
+    <datestamp>2015-03-24</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>The SCEL language: design, implementation, verification</dc:title>
+      <dc:creator>De Nicola, Rocco</dc:creator>
+      <dc:creator>Latella, Diego</dc:creator>
+      <dc:creator>Lluch Lafuente, Alberto</dc:creator>
+      <dc:creator>Loreti, Michele</dc:creator>
+      <dc:creator>Margheri, Andrea</dc:creator>
+      <dc:creator>Massink, Mieke</dc:creator>
+      <dc:creator>Morichetta, Andrea</dc:creator>
+      <dc:creator>Pugliese, Rosario</dc:creator>
+      <dc:creator>Tiezzi, Francesco</dc:creator>
+      <dc:creator>Vandin, Andrea</dc:creator>
+      <dc:subject>Calculi for Autonomic Computing</dc:subject>
+      <dc:subject>Programming languages</dc:subject>
+      <dc:subject>Adaptation policies</dc:subject>
+      <dc:subject>Formal methods</dc:subject>
+      <dc:subject>Verification</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.1 Models and Principles</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/F.4 Mathematical Logic and Formal Languages</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68Q10 Modes of computation (nondeterministic, parallel, interactive, probabilistic, etc.)</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68Q85 Models and methods for concurrent and distributed computing (process algebras, bisimulation, transition nets, etc.)</dc:subject>
+      <dc:description>SCEL (Service Component Ensemble Language) is a new language specifically designed to rigorously model and program autonomic components and their interaction, while supporting formal reasoning on their behaviors. SCEL brings together various programming abstractions that allow one to directly represent aggregations, behaviors and knowledge according to specific policies. It also naturally supports programming interaction, self-awareness, context-awareness, and adaptation. The solid semantic grounds of the language is exploited for developing logics, tools and methodologies for formal reasoning on system behavior to establish qualitative and quantitative properties of both the individual components and the overall systems.</dc:description>
+      <dc:publisher>Springer</dc:publisher>
+      <dc:contributor/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/288750/EU/Autonomic Service-Component Ensembles - Enlarged EU/ASCENS-ENLARGED EU</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/bookPart</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A1-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source/>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://link.springer.com/chapter/10.1007/978-3-319-16310-9_1</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/978-3-319-16309-3 (print) 978-3-319-16310-9 (online)</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.1007/978-3-319-16310-9_1</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

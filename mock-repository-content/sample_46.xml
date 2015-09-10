@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-016</identifier>
+    <datestamp>2015-04-01</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Fatigue behavior of stiffener to cross beam joints in orthotropic steel decks</dc:title>
+      <dc:creator>Croce, Pietro</dc:creator>
+      <dc:creator>Pellegrini, Daniele</dc:creator>
+      <dc:subject>Orthotropic steel bridge decks</dc:subject>
+      <dc:subject>Fatigue</dc:subject>
+      <dc:subject>Stiffener to cross beams joints</dc:subject>
+      <dc:subject>Cope hole</dc:subject>
+      <dc:subject>J-integral</dc:subject>
+      <dc:subject>Stress intensity factor</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/J.2 PHYSICAL SCIENCES AND ENGINEERING</dc:subject>
+      <dc:description>In the paper the possibility to evaluate the fatigue strength of stiffener to cross beam joints in orthotropic steel decks is discussed. The proposed methodology, based on Paris-Erdogan law, allows to derive a sound estimate of the stress intensity factor K combining the indirect approach, based on the Rice J-integral, with the direct one, based on the extrapolation of experimental or numerical data. The practical implementation of the proposed methodology allowed to predict correctly the actual fatigue life of a previously tested real scale specimen, so validating its potentialities.</dc:description>
+      <dc:publisher>Elsevier</dc:publisher>
+      <dc:contributor>Czech Society for Mechanics</dc:contributor>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-016</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: Procedia Engineering, vol. 101 pp. 101 - 108. Special issue: 3rd International Conference on Material and Component Performance under Variable Amplitude Loading, VAL2015. Czech Society for Mechanics (ed.). Elsevier, 2015.</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://www.sciencedirect.com/science/article/pii/S1877705815006128</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/1877-7058</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.1016/j.proeng.2015.02.014</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A0-016/2015-A0-016.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

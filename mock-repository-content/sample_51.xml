@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-006</identifier>
+    <datestamp>2015-01-16</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>A Framework Supporting the Shift from Traditional Digital Publications to Enhanced Publications</dc:title>
+      <dc:creator>Bardi, Alessia</dc:creator>
+      <dc:creator>Manghi, Paolo</dc:creator>
+      <dc:subject>Enhanced publications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H3.7 - Digital Libraries</dc:subject>
+      <dc:description>Enhanced publications (EPs) can be generally conceived as digital publications "enriched with" or "linking to" related research results, such as research data, workflows, software, and possibly connections among them. Enhanced Publication Information Systems (EPISs) are information systems devised for the management of EPs in specific application domains. Currently, no framework supporting the realization of EPISs is known, and EPIs are typically realized "from scratch" by integrating generalpurpose technologies (e.g. relational databases, file stores, triple stores) and Digital Library oriented software (e.g. repositories, cataloguing systems). Such an approach is doomed to entail non-negligible realization and maintenance costs that could be decreased by adopting a more systemic approach. The framework proposed in this work addresses this task by providing EPIS developers with EP management tools that facilitate their efforts by hiding the complexity of the underlying technologies.</dc:description>
+      <dc:publisher>Corporation for National Research Initiatives</dc:publisher>
+      <dc:contributor>Laurence Lannom</dc:contributor>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-006</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: D-Lib Magazine, vol. 21 (1/2) article n. 3. Special issue on Linking and Contextualizing Publications and Datasets. Laurence Lannom (ed.). Corporation for National Research Initiatives, 2015.</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/1082-9873</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.1045/january2015-bardi</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A0-006/2015-A0-006.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

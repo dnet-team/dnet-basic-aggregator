@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-PP-001</identifier>
+    <datestamp>2015-07-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Classifying degrees of species commonness: North Sea fish as a case study</dc:title>
+      <dc:creator>Coro, Gianpaolo</dc:creator>
+      <dc:creator>Webb, Thomas J.</dc:creator>
+      <dc:creator>Appeltans, Ward</dc:creator>
+      <dc:creator>Bailly, Nicolas</dc:creator>
+      <dc:creator/>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:subject>Species Commonness</dc:subject>
+      <dc:subject>OBIS</dc:subject>
+      <dc:subject>Conservation biology</dc:subject>
+      <dc:subject>North Sea</dc:subject>
+      <dc:subject>Clustering</dc:subject>
+      <dc:subject>D4Science</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>Species commonness is often related to abundance and species conservation status. Intuitively, a "common species" is a species that is abundant in a certain area, widespread and at low risk of extinction. Analysing and classifying species commonness can help discovering indicators of ecosystem status and can prevent sudden changes in biodiversity. However, it is challenging to quantitatively define this concept. This paper presents a procedure to automatically characterize species commonness from biological surveys. Our approach uses clustering analysis techniques and is based on a number of numerical parameters extracted from an authoritative source of biodiversity data, i.e. the Ocean Biogeographic Information System. The analysis takes into account abundance, geographical and temporal aspects of species distributions. We apply our model to North Sea sh species and show that the classication agrees with independent expert opinion although sampling biases aect the data. Furthermore, we show that our approach is robust to noise in the data and is promising in classifying new species. Our method can be used in conservation biology, especially to reduce the effects of the sampling biases which affect large biodiversity collections.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2015-05-25</dc:date>
+      <dc:type>info:eu-repo/semantics/preprint</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-PP-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Ecological Modelling. Preprint, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-PP-001/2015-PP-001.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,2038 @@
+<RESOURCE_PROFILE>
+	<HEADER>
+		<RESOURCE_IDENTIFIER
+			value="de8e724c-c434-45d4-bcd1-337e385116bd_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL1ZvY2FidWxhcnlEU1Jlc291cmNlVHlwZQ==" />
+		<RESOURCE_TYPE value="VocabularyDSResourceType" />
+		<RESOURCE_KIND value="VocabularyDSResources" />
+		<RESOURCE_URI value="" />
+		<DATE_OF_CREATION value="2015-04-08T11:27:16-03:00" />
+	</HEADER>
+	<BODY>
+		<CONFIGURATION>
+			<VOCABULARY_NAME code="dnet:languages">Languages</VOCABULARY_NAME>
+			<VOCABULARY_DESCRIPTION>ISO 639-2 list of languages. It defines
+				mapping from iso639-1.
+			</VOCABULARY_DESCRIPTION>
+			<TERMS>
+				<TERM code="aar" encoding="iso639-2" english_name="Afar"
+					native_name="Afar">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="aa" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="abk" encoding="iso639-2" english_name="Abkhazian"
+					native_name="Abkhazian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ab" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ace" encoding="iso639-2" english_name="Achinese"
+					native_name="Achinese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ach" encoding="iso639-2" english_name="Acoli"
+					native_name="Acoli">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ada" encoding="iso639-2" english_name="Adangme"
+					native_name="Adangme">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="afa" encoding="iso639-2" english_name="Afro-Asiatic"
+					native_name="Afro-Asiatic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="afh" encoding="iso639-2" english_name="Afrihili"
+					native_name="Afrihili">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="afr" encoding="iso639-2" english_name="Afrikaans"
+					native_name="Afrikaans">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="af" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="aka" encoding="iso639-2" english_name="Akan"
+					native_name="Akan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="akk" encoding="iso639-2" english_name="Akkadian"
+					native_name="Akkadian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="alb/sqi" encoding="iso639-2" english_name="Albanian"
+					native_name="Albanian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sq" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ale" encoding="iso639-2" english_name="Aleut"
+					native_name="Aleut">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="alg" encoding="iso639-2" english_name="Algonquian languages"
+					native_name="Algonquian languages">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="amh" encoding="iso639-2" english_name="Amharic"
+					native_name="Amharic">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="am" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ang" encoding="iso639-2" english_name="Old English"
+					native_name="Old English">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="apa" encoding="iso639-2" english_name="Apache"
+					native_name="Apache">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ara" encoding="iso639-2" english_name="Arabic"
+					native_name="Arabic">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ar" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="arc" encoding="iso639-2" english_name="Aramaic"
+					native_name="Aramaic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="arg" encoding="iso639-2" english_name="Aragonese"
+					native_name="Aragonese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="arm/hye" encoding="iso639-2" english_name="Armenian"
+					native_name="Armenian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="hy" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="arn" encoding="iso639-2" english_name="Araucanian"
+					native_name="Araucanian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="arp" encoding="iso639-2" english_name="Arapaho"
+					native_name="Arapaho">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="art" encoding="iso639-2" english_name="Artificial"
+					native_name="Artificial">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="arw" encoding="iso639-2" english_name="Arawak"
+					native_name="Arawak">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="asm" encoding="iso639-2" english_name="Assamese"
+					native_name="Assamese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="as" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ath" encoding="iso639-2" english_name="Athapascan"
+					native_name="Athapascan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ava" encoding="iso639-2" english_name="Avaric"
+					native_name="Avaric">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ave" encoding="iso639-2" english_name="Avestan"
+					native_name="Avestan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="awa" encoding="iso639-2" english_name="Awadhi"
+					native_name="Awadhi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="aym" encoding="iso639-2" english_name="Aymara"
+					native_name="Aymara">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ay" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="aze" encoding="iso639-2" english_name="Azerbaijani"
+					native_name="Azerbaijani">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="az" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bad" encoding="iso639-2" english_name="Banda"
+					native_name="Banda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bai" encoding="iso639-2" english_name="Bamileke"
+					native_name="Bamileke">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bak" encoding="iso639-2" english_name="Bashkir"
+					native_name="Bashkir">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ba" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bal" encoding="iso639-2" english_name="Baluchi"
+					native_name="Baluchi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bam" encoding="iso639-2" english_name="Bambara"
+					native_name="Bambara">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ban" encoding="iso639-2" english_name="Balinese"
+					native_name="Balinese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="baq/eus" encoding="iso639-2" english_name="Basque"
+					native_name="Basque">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="eu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bas" encoding="iso639-2" english_name="Basa"
+					native_name="Basa">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bat" encoding="iso639-2" english_name="Baltic"
+					native_name="Baltic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bej" encoding="iso639-2" english_name="Beja"
+					native_name="Beja">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bel" encoding="iso639-2" english_name="Belarusian"
+					native_name="Belarusian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="be" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bem" encoding="iso639-2" english_name="Bemba"
+					native_name="Bemba">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ben" encoding="iso639-2" english_name="Bengali"
+					native_name="Bengali">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="bn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ber" encoding="iso639-2" english_name="Berber"
+					native_name="Berber">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bho" encoding="iso639-2" english_name="Bhojpuri"
+					native_name="Bhojpuri">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bih" encoding="iso639-2" english_name="Bihari"
+					native_name="Bihari">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="bh" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bik" encoding="iso639-2" english_name="Bikol"
+					native_name="Bikol">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bin" encoding="iso639-2" english_name="Bini"
+					native_name="Bini">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bis" encoding="iso639-2" english_name="Bislama"
+					native_name="Bislama">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="bi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bla" encoding="iso639-2" english_name="Siksika"
+					native_name="Siksika">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bnt" encoding="iso639-2" english_name="Bantu"
+					native_name="Bantu">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bod/tib" encoding="iso639-2" english_name="Tibetan"
+					native_name="Tibetan">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="bo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bos" encoding="iso639-2" english_name="Bosnian"
+					native_name="Bosnian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bra" encoding="iso639-2" english_name="Braj"
+					native_name="Braj">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bre" encoding="iso639-2" english_name="Breton"
+					native_name="Breton">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="br" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bua" encoding="iso639-2" english_name="Buriat"
+					native_name="Buriat">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bug" encoding="iso639-2" english_name="Buginese"
+					native_name="Buginese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="bul" encoding="iso639-2" english_name="Bulgarian"
+					native_name="Bulgarian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="bg" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="bur/mya" encoding="iso639-2" english_name="Burmese"
+					native_name="Burmese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="my" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="cad" encoding="iso639-2" english_name="Caddo"
+					native_name="Caddo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cai" encoding="iso639-2" english_name="Central American Indian"
+					native_name="Central American Indian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="car" encoding="iso639-2" english_name="Carib"
+					native_name="Carib">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cat" encoding="iso639-2" english_name="Catalan; Valencian"
+					native_name="Catalan; Valencian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ca" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="cau" encoding="iso639-2" english_name="Caucasian"
+					native_name="Caucasian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ceb" encoding="iso639-2" english_name="Cebuano"
+					native_name="Cebuano">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cel" encoding="iso639-2" english_name="Celtic"
+					native_name="Celtic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ces/cze" encoding="iso639-2" english_name="Czech"
+					native_name="Czech">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="cs" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="cha" encoding="iso639-2" english_name="Chamorro"
+					native_name="Chamorro">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chb" encoding="iso639-2" english_name="Chibcha"
+					native_name="Chibcha">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="che" encoding="iso639-2" english_name="Chechen"
+					native_name="Chechen">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chg" encoding="iso639-2" english_name="Chagatai"
+					native_name="Chagatai">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chi/zho" encoding="iso639-2" english_name="Chinese"
+					native_name="Chinese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="zh" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="chm" encoding="iso639-2" english_name="Mari"
+					native_name="Mari">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chn" encoding="iso639-2" english_name="Chinook jargon"
+					native_name="Chinook jargon">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cho" encoding="iso639-2" english_name="Choctaw"
+					native_name="Choctaw">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chr" encoding="iso639-2" english_name="Cherokee"
+					native_name="Cherokee">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chu" encoding="iso639-2"
+					english_name="Church Slavic; Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"
+					native_name="Church Slavic; Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chv" encoding="iso639-2" english_name="Chuvash"
+					native_name="Chuvash">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="chy" encoding="iso639-2" english_name="Cheyenne"
+					native_name="Cheyenne">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cop" encoding="iso639-2" english_name="Coptic"
+					native_name="Coptic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cor" encoding="iso639-2" english_name="Cornish"
+					native_name="Cornish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cos" encoding="iso639-2" english_name="Corsican"
+					native_name="Corsican">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="co" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="cpe" encoding="iso639-2" english_name="English-based Creoles and Pidgins"
+					native_name="English-based Creoles and Pidgins">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cpf" encoding="iso639-2" english_name="French-based Creoles and Pidgins"
+					native_name="French-based Creoles and Pidgins">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cpp" encoding="iso639-2"
+					english_name="Portuguese-based Creoles and Pidgins" native_name="Portuguese-based Creoles and Pidgins">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cre" encoding="iso639-2" english_name="Cree"
+					native_name="Cree">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="crp" encoding="iso639-2" english_name="Creoles and Pidgins"
+					native_name="Creoles and Pidgins">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cus" encoding="iso639-2" english_name="Cushitic"
+					native_name="Cushitic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="cym/wel" encoding="iso639-2" english_name="Welsh"
+					native_name="Welsh">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="cy" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="cze/ces" encoding="iso639-2" english_name="Czech"
+					native_name="Czech">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dak" encoding="iso639-2" english_name="Dakota"
+					native_name="Dakota">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dan" encoding="iso639-2" english_name="Danish"
+					native_name="Danish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="da" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="del" encoding="iso639-2" english_name="Delaware"
+					native_name="Delaware">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="deu/ger" encoding="iso639-2" english_name="German"
+					native_name="German">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="de" />
+						<SYNONYM encoding="iso639-1" term="german" />
+						<SYNONYM term="ger/deu" encoding="iso639-2" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="din" encoding="iso639-2" english_name="Dinka"
+					native_name="Dinka">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="div" encoding="iso639-2" english_name="Divehi"
+					native_name="Divehi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="doi" encoding="iso639-2" english_name="Dogri"
+					native_name="Dogri">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dra" encoding="iso639-2" english_name="Dravidian"
+					native_name="Dravidian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dua" encoding="iso639-2" english_name="Duala"
+					native_name="Duala">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dum" encoding="iso639-2" english_name="Middle Dutch"
+					native_name="Middle Dutch">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dut/nld" encoding="iso639-2" english_name="Dutch; Flemish"
+					native_name="Dutch; Flemish">
+					<SYNONYMS>
+						<SYNONYM encoding="DRIVER" term="dutdut" />
+						<SYNONYM encoding="iso639-obsolet" term="dut/nla" />
+						<SYNONYM encoding="iso639-1" term="nl" />
+						<SYNONYM encoding="DRIVER" term="nl_be" />
+						<SYNONYM encoding="DRIVER" term="nl_nl" />
+						<SYNONYM encoding="DRIVER" term="nld" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="dyu" encoding="iso639-2" english_name="Dyula"
+					native_name="Dyula">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="dzo" encoding="iso639-2" english_name="Dzongkha"
+					native_name="Dzongkha">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="dz" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="efi" encoding="iso639-2" english_name="Efik"
+					native_name="Efik">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="egy" encoding="iso639-2" english_name="Ancient Egyptian"
+					native_name="Ancient Egyptian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="eka" encoding="iso639-2" english_name="Ekajuk"
+					native_name="Ekajuk">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ell/gre" encoding="iso639-2" english_name="Greek"
+					native_name="Greek">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="el" />
+						<SYNONYM encoding="Nemertes" term="gr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="elx" encoding="iso639-2" english_name="Elamite"
+					native_name="Elamite">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="eng" encoding="iso639-2" english_name="English"
+					native_name="English">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="en" />
+						<SYNONYM encoding="DRIVER" term="en_au" />
+						<SYNONYM encoding="DRIVER" term="en_en" />
+						<SYNONYM encoding="DRIVER" term="en_gb" />
+						<SYNONYM encoding="DRIVER" term="en_nz" />
+						<SYNONYM encoding="DRIVER" term="en_us" />
+						<SYNONYM encoding="DRIVER" term="english" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="enm" encoding="iso639-2" english_name="Middle English"
+					native_name="Middle English">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="epo" encoding="iso639-2" english_name="Esperanto"
+					native_name="Esperanto">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="eo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="esk" encoding="iso639-2" english_name="Eskimo"
+					native_name="Eskimo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="esl/spa" encoding="iso639-2" english_name="Spanish"
+					native_name="Spanish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="es" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="est" encoding="iso639-2" english_name="Estonian"
+					native_name="Estonian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="et" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ewe" encoding="iso639-2" english_name="Ewe"
+					native_name="Ewe">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ewo" encoding="iso639-2" english_name="Ewondo"
+					native_name="Ewondo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fan" encoding="iso639-2" english_name="Fang"
+					native_name="Fang">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fao" encoding="iso639-2" english_name="Faroese"
+					native_name="Faroese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="fas/per" encoding="iso639-2" english_name="Persian"
+					native_name="Persian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fa" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="fat" encoding="iso639-2" english_name="Fanti"
+					native_name="Fanti">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fij" encoding="iso639-2" english_name="Fijian"
+					native_name="Fijian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fj" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="fin" encoding="iso639-2" english_name="Finnish"
+					native_name="Finnish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="fiu" encoding="iso639-2" english_name="Finno-Ugrian"
+					native_name="Finno-Ugrian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fon" encoding="iso639-2" english_name="Fon"
+					native_name="Fon">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fra/fre" encoding="iso639-2" english_name="French"
+					native_name="French">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fr" />
+						<SYNONYM encoding="DRIVER" term="fr_be" />
+						<SYNONYM encoding="DRIVER" term="fr_fr" />
+						<SYNONYM term="fre/fra" encoding="iso639-2" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="frm" encoding="iso639-2" english_name="Middle French"
+					native_name="Middle French">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fro" encoding="iso639-2" english_name="Old French"
+					native_name="Old French">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="fry" encoding="iso639-2" english_name="Frisian"
+					native_name="Frisian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="fy" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ful" encoding="iso639-2" english_name="Fulah"
+					native_name="Fulah">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gaa" encoding="iso639-2" english_name="Ga"
+					native_name="Ga">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gae/gdh" encoding="iso639-2" english_name="Gaelic"
+					native_name="Gaelic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gai/iri" encoding="iso639-2" english_name="Irish"
+					native_name="Irish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ga" />
+						<SYNONYM encoding="iso639-2" term="gle" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="gay" encoding="iso639-2" english_name="Gayo"
+					native_name="Gayo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gem" encoding="iso639-2" english_name="Germanic"
+					native_name="Germanic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="geo/kat" encoding="iso639-2" english_name="Georgian"
+					native_name="Georgian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ka" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="gez" encoding="iso639-2" english_name="Geez"
+					native_name="Geez">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gil" encoding="iso639-2" english_name="Gilbertese"
+					native_name="Gilbertese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gla" encoding="iso639-2" english_name="Gaelic; Scottish Gaelic"
+					native_name="Gaelic; Scottish Gaelic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gle" encoding="iso639-2" english_name="Irish"
+					native_name="Irish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="glg" encoding="iso639-2" english_name="Galician"
+					native_name="Galician">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="gl" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="glv" encoding="iso639-2" english_name="Manx"
+					native_name="Manx">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gmh" encoding="iso639-2" english_name="Middle High German"
+					native_name="Middle High German">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="goh" encoding="iso639-2" english_name="Old High German"
+					native_name="Old High German">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gon" encoding="iso639-2" english_name="Gondi"
+					native_name="Gondi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="got" encoding="iso639-2" english_name="Gothic"
+					native_name="Gothic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="grb" encoding="iso639-2" english_name="Grebo"
+					native_name="Grebo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="grc" encoding="iso639-2" english_name="Ancient Greek"
+					native_name="Ancient Greek">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="gre/ell" encoding="iso639-2" english_name="Greek, Modern (1453-)"
+					native_name="Greek, Modern (1453-)">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="grn" encoding="iso639-2" english_name="Guarani"
+					native_name="Guarani">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="gn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="guj" encoding="iso639-2" english_name="Gujarati"
+					native_name="Gujarati">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="gu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="hai" encoding="iso639-2" english_name="Haida"
+					native_name="Haida">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="hat" encoding="iso639-2" english_name="Haitian; Haitian Creole"
+					native_name="Haitian; Haitian Creole">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="hau" encoding="iso639-2" english_name="Hausa"
+					native_name="Hausa">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ha" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="haw" encoding="iso639-2" english_name="Hawaiian"
+					native_name="Hawaiian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="heb" encoding="iso639-2" english_name="Hebrew"
+					native_name="Hebrew">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="he" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="her" encoding="iso639-2" english_name="Herero"
+					native_name="Herero">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="hil" encoding="iso639-2" english_name="Hiligaynon"
+					native_name="Hiligaynon">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="him" encoding="iso639-2" english_name="Himachali"
+					native_name="Himachali">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="hin" encoding="iso639-2" english_name="Hindi"
+					native_name="Hindi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="hi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="hmo" encoding="iso639-2" english_name="Hiri Motu"
+					native_name="Hiri Motu">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="hrv" encoding="iso639-2" english_name="Croatian"
+					native_name="Croatian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="hr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="hun" encoding="iso639-2" english_name="Hungarian"
+					native_name="Hungarian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="hu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="hup" encoding="iso639-2" english_name="Hupa"
+					native_name="Hupa">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="iba" encoding="iso639-2" english_name="Iban"
+					native_name="Iban">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ibo" encoding="iso639-2" english_name="Igbo"
+					native_name="Igbo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ice/isl" encoding="iso639-2" english_name="Icelandic"
+					native_name="Icelandic">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="is" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ido" encoding="iso639-2" english_name="Ido"
+					native_name="Ido">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="iii" encoding="iso639-2" english_name="Sichuan Yi"
+					native_name="Sichuan Yi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ijo" encoding="iso639-2" english_name="Ijo"
+					native_name="Ijo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="iku" encoding="iso639-2" english_name="Inuktitut"
+					native_name="Inuktitut">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="iu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ile" encoding="iso639-2" english_name="Interlingue"
+					native_name="Interlingue">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ilo" encoding="iso639-2" english_name="Iloko"
+					native_name="Iloko">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ina" encoding="iso639-2" english_name="Auxiliary Language Association)"
+					native_name="Auxiliary Language Association)">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ia" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="inc" encoding="iso639-2" english_name="Indic"
+					native_name="Indic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ind" encoding="iso639-2" english_name="Indonesian"
+					native_name="Indonesian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="id" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ine" encoding="iso639-2" english_name="Indo-European"
+					native_name="Indo-European">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="-" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ipk" encoding="iso639-2" english_name="Inupiaq"
+					native_name="Inupiaq">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ik" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ira" encoding="iso639-2" english_name="Iranian"
+					native_name="Iranian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="iro" encoding="iso639-2" english_name="Iroquoian"
+					native_name="Iroquoian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ita" encoding="iso639-2" english_name="Italian"
+					native_name="Italian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="it" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="jav" encoding="iso639-2" english_name="Javanese"
+					native_name="Javanese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="jav/jaw" encoding="iso639-2" english_name="Javanese"
+					native_name="Javanese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="jv" />
+						<SYNONYM encoding="iso639-1" term="jv/jw" />
+						<SYNONYM encoding="iso639-1" term="jw" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="jpn" encoding="iso639-2" english_name="Japanese"
+					native_name="Japanese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ja" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="jpr" encoding="iso639-2" english_name="Judeo-Persian"
+					native_name="Judeo-Persian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="jrb" encoding="iso639-2" english_name="Judeo-Arabic"
+					native_name="Judeo-Arabic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kaa" encoding="iso639-2" english_name="Kara-Kalpak"
+					native_name="Kara-Kalpak">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kab" encoding="iso639-2" english_name="Kabyle"
+					native_name="Kabyle">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kac" encoding="iso639-2" english_name="Kachin"
+					native_name="Kachin">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kal" encoding="iso639-2" english_name="Greenlandic; Kalaallisut"
+					native_name="Greenlandic; Kalaallisut">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="kl" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kam" encoding="iso639-2" english_name="Kamba"
+					native_name="Kamba">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kan" encoding="iso639-2" english_name="Kannada"
+					native_name="Kannada">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="kn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kar" encoding="iso639-2" english_name="Karen"
+					native_name="Karen">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kas" encoding="iso639-2" english_name="Kashmiri"
+					native_name="Kashmiri">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ks" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kau" encoding="iso639-2" english_name="Kanuri"
+					native_name="Kanuri">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kaw" encoding="iso639-2" english_name="Kawi"
+					native_name="Kawi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kaz" encoding="iso639-2" english_name="Kazakh"
+					native_name="Kazakh">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="kk" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kha" encoding="iso639-2" english_name="Khasi"
+					native_name="Khasi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="khi" encoding="iso639-2" english_name="Khoisan"
+					native_name="Khoisan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="khm" encoding="iso639-2" english_name="Khmer"
+					native_name="Khmer">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="km" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kho" encoding="iso639-2" english_name="Khotanese"
+					native_name="Khotanese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kik" encoding="iso639-2" english_name="Gikuyu; Kikuyu"
+					native_name="Gikuyu; Kikuyu">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kin" encoding="iso639-2" english_name="Kinyarwanda"
+					native_name="Kinyarwanda">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="rw" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kir" encoding="iso639-2" english_name="Kirghiz"
+					native_name="Kirghiz">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ky" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kok" encoding="iso639-2" english_name="Konkani"
+					native_name="Konkani">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kom" encoding="iso639-2" english_name="Komi"
+					native_name="Komi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kon" encoding="iso639-2" english_name="Kongo"
+					native_name="Kongo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kor" encoding="iso639-2" english_name="Korean"
+					native_name="Korean">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ko" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kpe" encoding="iso639-2" english_name="Kpelle"
+					native_name="Kpelle">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kro" encoding="iso639-2" english_name="Kru"
+					native_name="Kru">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kru" encoding="iso639-2" english_name="Kurukh"
+					native_name="Kurukh">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kua" encoding="iso639-2" english_name="Kuanyama; Kwanyama"
+					native_name="Kuanyama; Kwanyama">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kum" encoding="iso639-2" english_name="Kumyk"
+					native_name="Kumyk">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kur" encoding="iso639-2" english_name="Kurdish"
+					native_name="Kurdish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ku" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="kus" encoding="iso639-2" english_name="Kusaie"
+					native_name="Kusaie">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="kut" encoding="iso639-2" english_name="Kutenai"
+					native_name="Kutenai">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lad" encoding="iso639-2" english_name="Ladino"
+					native_name="Ladino">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lah" encoding="iso639-2" english_name="Lahnda"
+					native_name="Lahnda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lam" encoding="iso639-2" english_name="Lamba"
+					native_name="Lamba">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lao" encoding="iso639-2" english_name="Lao"
+					native_name="Lao">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="lo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="lat" encoding="iso639-2" english_name="Latin"
+					native_name="Latin">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="la" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="lav" encoding="iso639-2" english_name="Latvian"
+					native_name="Latvian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="lv" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="lez" encoding="iso639-2" english_name="Lezghian"
+					native_name="Lezghian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lim" encoding="iso639-2" english_name="Limburgan; Limburger; Limburgish"
+					native_name="Limburgan; Limburger; Limburgish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lin" encoding="iso639-2" english_name="Lingala"
+					native_name="Lingala">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ln" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="lit" encoding="iso639-2" english_name="Lithuanian"
+					native_name="Lithuanian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="lt" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="lol" encoding="iso639-2" english_name="Mongo"
+					native_name="Mongo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="loz" encoding="iso639-2" english_name="Lozi"
+					native_name="Lozi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ltz" encoding="iso639-2" english_name="Letzeburgesch; Luxembourgish"
+					native_name="Letzeburgesch; Luxembourgish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lub" encoding="iso639-2" english_name="Luba-Katanga"
+					native_name="Luba-Katanga">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lug" encoding="iso639-2" english_name="Ganda"
+					native_name="Ganda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lui" encoding="iso639-2" english_name="Luiseno"
+					native_name="Luiseno">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="lun" encoding="iso639-2" english_name="Lunda"
+					native_name="Lunda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="luo" encoding="iso639-2" english_name="Luo"
+					native_name="Luo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mac/mak" encoding="iso639-2" english_name="Macedonian"
+					native_name="Macedonian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mk" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mac/mkd" encoding="iso639-2" english_name="Macedonian"
+					native_name="Macedonian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mad" encoding="iso639-2" english_name="Madurese"
+					native_name="Madurese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mag" encoding="iso639-2" english_name="Magahi"
+					native_name="Magahi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mah" encoding="iso639-2" english_name="Marshallese"
+					native_name="Marshallese">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mai" encoding="iso639-2" english_name="Maithili"
+					native_name="Maithili">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mak" encoding="iso639-2" english_name="Makasar"
+					native_name="Makasar">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mal" encoding="iso639-2" english_name="Malayalam"
+					native_name="Malayalam">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="man" encoding="iso639-2" english_name="Mandingo"
+					native_name="Mandingo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mao/mri" encoding="iso639-2" english_name="Maori"
+					native_name="Maori">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="map" encoding="iso639-2" english_name="Austronesian"
+					native_name="Austronesian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mar" encoding="iso639-2" english_name="Marathi"
+					native_name="Marathi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mas" encoding="iso639-2" english_name="Masai"
+					native_name="Masai">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="max" encoding="iso639-2" english_name="Manx"
+					native_name="Manx">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="may/msa" encoding="iso639-2" english_name="Malay"
+					native_name="Malay">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ms" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="men" encoding="iso639-2" english_name="Mende"
+					native_name="Mende">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mga" encoding="iso639-2" english_name="Middle Irish"
+					native_name="Middle Irish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mic" encoding="iso639-2" english_name="Micmac"
+					native_name="Micmac">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="min" encoding="iso639-2" english_name="Minangkabau"
+					native_name="Minangkabau">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mis" encoding="iso639-2" english_name="Miscellaneous"
+					native_name="Miscellaneous">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mkh" encoding="iso639-2" english_name="Mon-Kmer"
+					native_name="Mon-Kmer">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mlg" encoding="iso639-2" english_name="Malagasy"
+					native_name="Malagasy">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mg" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mlt" encoding="iso639-2" english_name="Maltese"
+					native_name="Maltese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ml" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mni" encoding="iso639-2" english_name="Manipuri"
+					native_name="Manipuri">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mno" encoding="iso639-2" english_name="Manobo"
+					native_name="Manobo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="moh" encoding="iso639-2" english_name="Mohawk"
+					native_name="Mohawk">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mol" encoding="iso639-2" english_name="Moldavian"
+					native_name="Moldavian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mon" encoding="iso639-2" english_name="Mongolian"
+					native_name="Mongolian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="mn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="mos" encoding="iso639-2" english_name="Mossi"
+					native_name="Mossi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mul" encoding="iso639-2" english_name="Multiple languages"
+					native_name="Multiple languages">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mun" encoding="iso639-2" english_name="Munda"
+					native_name="Munda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mus" encoding="iso639-2" english_name="Creek"
+					native_name="Creek">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="mwr" encoding="iso639-2" english_name="Marwari"
+					native_name="Marwari">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="myn" encoding="iso639-2" english_name="Mayan"
+					native_name="Mayan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nah" encoding="iso639-2" english_name="Aztec"
+					native_name="Aztec">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nai" encoding="iso639-2" english_name="North American Indian"
+					native_name="North American Indian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nau" encoding="iso639-2" english_name="Nauru"
+					native_name="Nauru">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="na" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="nav" encoding="iso639-2" english_name="Navajo; Navaho"
+					native_name="Navajo; Navaho">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nbl" encoding="iso639-2" english_name="Ndebele, South"
+					native_name="Ndebele, South">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nde" encoding="iso639-2" english_name="Ndebele, North"
+					native_name="Ndebele, North">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ndo" encoding="iso639-2" english_name="Ndonga"
+					native_name="Ndonga">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nep" encoding="iso639-2" english_name="Nepali"
+					native_name="Nepali">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ne" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="new" encoding="iso639-2" english_name="Newari"
+					native_name="Newari">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nic" encoding="iso639-2" english_name="Niger-Kordofanian"
+					native_name="Niger-Kordofanian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="niu" encoding="iso639-2" english_name="Niuean"
+					native_name="Niuean">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nno" encoding="iso639-2"
+					english_name="Norwegian Nynorsk; Nynorsk, Norwegian" native_name="Norwegian Nynorsk; Nynorsk, Norwegian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nob" encoding="iso639-2" english_name="Bokmål, Norwegian; Norwegian Bokmål"
+					native_name="Bokmål, Norwegian; Norwegian Bokmål">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="non" encoding="iso639-2" english_name="Norse"
+					native_name="Norse">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nor" encoding="iso639-2" english_name="Norwegian"
+					native_name="Norwegian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="no" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="nso" encoding="iso639-2" english_name="Sotho"
+					native_name="Sotho">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nub" encoding="iso639-2" english_name="Nubian"
+					native_name="Nubian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nya" encoding="iso639-2" english_name="Chewa; Chichewa; Nyanja"
+					native_name="Chewa; Chichewa; Nyanja">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nym" encoding="iso639-2" english_name="Nyamwezi"
+					native_name="Nyamwezi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nyn" encoding="iso639-2" english_name="Nyankole"
+					native_name="Nyankole">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nyo" encoding="iso639-2" english_name="Nyoro"
+					native_name="Nyoro">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="nzi" encoding="iso639-2" english_name="Nzima"
+					native_name="Nzima">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="oci" encoding="iso639-2" english_name="Occitan (post 1500); Provençal"
+					native_name="Occitan (post 1500); Provençal">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="oc" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="oji" encoding="iso639-2" english_name="Ojibwa"
+					native_name="Ojibwa">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ori" encoding="iso639-2" english_name="Oriya"
+					native_name="Oriya">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="or" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="orm" encoding="iso639-2" english_name="Oromo"
+					native_name="Oromo">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="om" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="osa" encoding="iso639-2" english_name="Osage"
+					native_name="Osage">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="oss" encoding="iso639-2" english_name="Ossetian; Ossetic"
+					native_name="Ossetian; Ossetic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ota" encoding="iso639-2" english_name="Ottoman"
+					native_name="Ottoman">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="oto" encoding="iso639-2" english_name="Otomian"
+					native_name="Otomian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="paa" encoding="iso639-2" english_name="Papuan-Australian"
+					native_name="Papuan-Australian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pag" encoding="iso639-2" english_name="Pangasinan"
+					native_name="Pangasinan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pal" encoding="iso639-2" english_name="Pahlavi"
+					native_name="Pahlavi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pam" encoding="iso639-2" english_name="Pampanga"
+					native_name="Pampanga">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pan" encoding="iso639-2" english_name="Panjabi; Punjabi"
+					native_name="Panjabi; Punjabi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="pa" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="pap" encoding="iso639-2" english_name="Papiamento"
+					native_name="Papiamento">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pau" encoding="iso639-2" english_name="Palauan"
+					native_name="Palauan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="peo" encoding="iso639-2" english_name="Persian, Old (ca 600 - 400 B.C.)"
+					native_name="Persian, Old (ca 600 - 400 B.C.)">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="per/fas" encoding="iso639-2" english_name="Persian"
+					native_name="Persian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="phn" encoding="iso639-2" english_name="Phoenician"
+					native_name="Phoenician">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pli" encoding="iso639-2" english_name="Pali"
+					native_name="Pali">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pol" encoding="iso639-2" english_name="Polish"
+					native_name="Polish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="pl" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="pon" encoding="iso639-2" english_name="Ponape"
+					native_name="Ponape">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="por" encoding="iso639-2" english_name="Portuguese"
+					native_name="Portuguese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="pt" />
+						<SYNONYM encoding="DRIVER" term="pt_pt" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="pra" encoding="iso639-2" english_name="Prakrit"
+					native_name="Prakrit">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pro" encoding="iso639-2" english_name="Provencal"
+					native_name="Provencal">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="pus" encoding="iso639-2" english_name="Pushto"
+					native_name="Pushto">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ps" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="que" encoding="iso639-2" english_name="Quechua"
+					native_name="Quechua">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="qu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="raj" encoding="iso639-2" english_name="Rajasthani"
+					native_name="Rajasthani">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="rar" encoding="iso639-2" english_name="Rarotongan"
+					native_name="Rarotongan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="roa" encoding="iso639-2" english_name="Romance"
+					native_name="Romance">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="roh" encoding="iso639-2" english_name="Raeto-Romance"
+					native_name="Raeto-Romance">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="rm" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="rom" encoding="iso639-2" english_name="Romany"
+					native_name="Romany">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ron/rum" encoding="iso639-2" english_name="Romanian"
+					native_name="Romanian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ro" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="rum/ron" encoding="iso639-2" english_name="Romanian"
+					native_name="Romanian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="run" encoding="iso639-2" english_name="Rundi"
+					native_name="Rundi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="rn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="rus" encoding="iso639-2" english_name="Russian"
+					native_name="Russian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ru" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sad" encoding="iso639-2" english_name="Sandawe"
+					native_name="Sandawe">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sag" encoding="iso639-2" english_name="Sango"
+					native_name="Sango">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sg" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sah" encoding="iso639-2" english_name="Yakut"
+					native_name="Yakut">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sai" encoding="iso639-2" english_name="South American Indian"
+					native_name="South American Indian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sal" encoding="iso639-2" english_name="Salishan"
+					native_name="Salishan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sam" encoding="iso639-2" english_name="Samaritan"
+					native_name="Samaritan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="san" encoding="iso639-2" english_name="Sanskrit"
+					native_name="Sanskrit">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sa" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="srp" encoding="iso639-2" english_name="Serbian"
+					native_name="Serbian">
+					<SYNONYMS>
+						<SYNONYM encoding="unknown" term="scc/srp" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sco" encoding="iso639-2" english_name="Scots"
+					native_name="Scots">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="scr" encoding="iso639-2" english_name="Serbo-Croatian"
+					native_name="Serbo-Croatian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sh" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="hrv" encoding="iso639-2" english_name="Croatian"
+					native_name="Croatian">
+					<SYNONYMS>
+						<SYNONYM encoding="unknown" term="scr/hrv" />
+						<SYNONYM encoding="iso639-1" term="hr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sel" encoding="iso639-2" english_name="Selkup"
+					native_name="Selkup">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sem" encoding="iso639-2" english_name="Semitic"
+					native_name="Semitic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sga" encoding="iso639-2" english_name="old Irish"
+					native_name="old Irish">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="shn" encoding="iso639-2" english_name="Shan"
+					native_name="Shan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sid" encoding="iso639-2" english_name="Sidamo"
+					native_name="Sidamo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sin" encoding="iso639-2" english_name="Sinhala; Sinhalese"
+					native_name="Sinhala; Sinhalese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="si" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sio" encoding="iso639-2" english_name="Siouan"
+					native_name="Siouan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sit" encoding="iso639-2" english_name="Sino-Tibetan"
+					native_name="Sino-Tibetan">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="-" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sla" encoding="iso639-2" english_name="Slavic"
+					native_name="Slavic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="slk/slo" encoding="iso639-2" english_name="Slovak"
+					native_name="Slovak">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sk" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="slo/slk" encoding="iso639-2" english_name="Slovak"
+					native_name="Slovak">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="slv" encoding="iso639-2" english_name="Slovenian"
+					native_name="Slovenian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sl" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sme" encoding="iso639-2" english_name="Northern Sami"
+					native_name="Northern Sami">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="smi" encoding="iso639-2" english_name="Sami"
+					native_name="Sami">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="smo" encoding="iso639-2" english_name="Samoan"
+					native_name="Samoan">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sm" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sna" encoding="iso639-2" english_name="Shona"
+					native_name="Shona">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="snd" encoding="iso639-2" english_name="Sindhi"
+					native_name="Sindhi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sd" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sog" encoding="iso639-2" english_name="Sogdian"
+					native_name="Sogdian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="som" encoding="iso639-2" english_name="Somali"
+					native_name="Somali">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="so" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="son" encoding="iso639-2" english_name="Songhai"
+					native_name="Songhai">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sot" encoding="iso639-2" english_name="Sotho, Southern"
+					native_name="Sotho, Southern">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="st" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="spa" encoding="iso639-2" english_name="Spanish; Castilian"
+					native_name="Spanish; Castilian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="srd" encoding="iso639-2" english_name="Sardinian"
+					native_name="Sardinian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="srp" encoding="iso639-2" english_name="Serbian"
+					native_name="Serbian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="srr" encoding="iso639-2" english_name="Serer"
+					native_name="Serer">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ssa" encoding="iso639-2" english_name="Nilo-Saharan"
+					native_name="Nilo-Saharan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ssw" encoding="iso639-2" english_name="Swati"
+					native_name="Swati">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ss" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="suk" encoding="iso639-2" english_name="Sukuma"
+					native_name="Sukuma">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sun" encoding="iso639-2" english_name="Sundanese"
+					native_name="Sundanese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="su" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="sus" encoding="iso639-2" english_name="Susu"
+					native_name="Susu">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="sux" encoding="iso639-2" english_name="Sumerian"
+					native_name="Sumerian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="swe" encoding="iso639-2" english_name="Swedish"
+					native_name="Swedish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sv" />
+						<SYNONYM term="sve/swe" encoding="iso639-2" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="swa" encoding="iso639-2" english_name="Swahili"
+					native_name="Swahili">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="sw" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="syr" encoding="iso639-2" english_name="Syriac"
+					native_name="Syriac">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tah" encoding="iso639-2" english_name="Tahitian"
+					native_name="Tahitian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tam" encoding="iso639-2" english_name="Tamil"
+					native_name="Tamil">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ta" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tat" encoding="iso639-2" english_name="Tatar"
+					native_name="Tatar">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tt" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tel" encoding="iso639-2" english_name="Telugu"
+					native_name="Telugu">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="te" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tem" encoding="iso639-2" english_name="Timne"
+					native_name="Timne">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ter" encoding="iso639-2" english_name="Tereno"
+					native_name="Tereno">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tgk" encoding="iso639-2" english_name="Tajik"
+					native_name="Tajik">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tg" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tgl" encoding="iso639-2" english_name="Tagalog"
+					native_name="Tagalog">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tl" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tha" encoding="iso639-2" english_name="Thai"
+					native_name="Thai">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="th" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tib/bod" encoding="iso639-2" english_name="Tibetan"
+					native_name="Tibetan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tig" encoding="iso639-2" english_name="Tigre"
+					native_name="Tigre">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tir" encoding="iso639-2" english_name="Tigrinya"
+					native_name="Tigrinya">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ti" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tiv" encoding="iso639-2" english_name="Tivi"
+					native_name="Tivi">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tli" encoding="iso639-2" english_name="Tlingit"
+					native_name="Tlingit">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tmh" encoding="iso639-2" english_name="Tamashek"
+					native_name="Tamashek">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tog" encoding="iso639-2" english_name="Tonga(Nyasa)"
+					native_name="Tonga(Nyasa)">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="to" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ton" encoding="iso639-2" english_name="Tonga (Tonga Islands)"
+					native_name="Tonga (Tonga Islands)">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tru" encoding="iso639-2" english_name="Truk"
+					native_name="Truk">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tsi" encoding="iso639-2" english_name="Tsimshian"
+					native_name="Tsimshian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tsn" encoding="iso639-2" english_name="Tswana"
+					native_name="Tswana">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tn" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tso" encoding="iso639-2" english_name="Tsonga"
+					native_name="Tsonga">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ts" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tuk" encoding="iso639-2" english_name="Turkmen"
+					native_name="Turkmen">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tk" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tum" encoding="iso639-2" english_name="Tumbuka"
+					native_name="Tumbuka">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="tur" encoding="iso639-2" english_name="Turkish"
+					native_name="Turkish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tr" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tut" encoding="iso639-2" english_name="Altaic"
+					native_name="Altaic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="twi" encoding="iso639-2" english_name="Twi"
+					native_name="Twi">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="tw" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="tyv" encoding="iso639-2" english_name="Tuvinian"
+					native_name="Tuvinian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="uga" encoding="iso639-2" english_name="Ugaritic"
+					native_name="Ugaritic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="uig" encoding="iso639-2" english_name="Uighur; Uyghur"
+					native_name="Uighur; Uyghur">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ug" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="ukr" encoding="iso639-2" english_name="Ukrainian"
+					native_name="Ukrainian">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="uk" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="umb" encoding="iso639-2" english_name="Umbundu"
+					native_name="Umbundu">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="und" encoding="iso639-2" english_name="Undetermined"
+					native_name="Undetermined">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="urd" encoding="iso639-2" english_name="Urdu"
+					native_name="Urdu">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="ur" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="uzb" encoding="iso639-2" english_name="Uzbek"
+					native_name="Uzbek">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="uz" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="vai" encoding="iso639-2" english_name="Vai"
+					native_name="Vai">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="ven" encoding="iso639-2" english_name="Venda"
+					native_name="Venda">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="vie" encoding="iso639-2" english_name="Vietnamese"
+					native_name="Vietnamese">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="vi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="vol" encoding="iso639-2" english_name="Volapük"
+					native_name="Volapük">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="vo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="vot" encoding="iso639-2" english_name="Votic"
+					native_name="Votic">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="wak" encoding="iso639-2" english_name="Wakashan"
+					native_name="Wakashan">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="wal" encoding="iso639-2" english_name="Walamo"
+					native_name="Walamo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="war" encoding="iso639-2" english_name="Waray"
+					native_name="Waray">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="was" encoding="iso639-2" english_name="Washo"
+					native_name="Washo">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="wel/cym" encoding="iso639-2" english_name="Welsh"
+					native_name="Welsh">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="wen" encoding="iso639-2" english_name="Sorbian"
+					native_name="Sorbian">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="wln" encoding="iso639-2" english_name="Walloon"
+					native_name="Walloon">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="wa" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="wol" encoding="iso639-2" english_name="Wolof"
+					native_name="Wolof">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="wo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="xho" encoding="iso639-2" english_name="Xhosa"
+					native_name="Xhosa">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="xh" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="yao" encoding="iso639-2" english_name="Yao"
+					native_name="Yao">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="yap" encoding="iso639-2" english_name="Yap"
+					native_name="Yap">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="yid" encoding="iso639-2" english_name="Yiddish"
+					native_name="Yiddish">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="yi" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="yor" encoding="iso639-2" english_name="Yoruba"
+					native_name="Yoruba">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="yo" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="zap" encoding="iso639-2" english_name="Zapotec"
+					native_name="Zapotec">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="zen" encoding="iso639-2" english_name="Zenaga"
+					native_name="Zenaga">
+					<SYNONYMS />
+				</TERM>
+				<TERM code="zha" encoding="iso639-2" english_name="Zhuang; Chuang"
+					native_name="Zhuang; Chuang">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="za" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="zul" encoding="iso639-2" english_name="Zulu"
+					native_name="Zulu">
+					<SYNONYMS>
+						<SYNONYM encoding="iso639-1" term="zu" />
+					</SYNONYMS>
+				</TERM>
+				<TERM code="zun" encoding="iso639-2" english_name="Zuni"
+					native_name="Zuni">
+					<SYNONYMS />
+				</TERM>
+			</TERMS>
+		</CONFIGURATION>
+		<STATUS>
+            <LAST_UPDATE value="2015-04-17T12:44:48+02:00"/>
+        </STATUS>
+		<SECURITY_PARAMETERS>String</SECURITY_PARAMETERS>
+	</BODY>
+</RESOURCE_PROFILE>

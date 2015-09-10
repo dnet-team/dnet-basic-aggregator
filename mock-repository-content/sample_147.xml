@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-B4-003</identifier>
+    <datestamp>2014-06-16</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Open Access e legislazione vigente - Linee guida</dc:title>
+      <dc:creator>Deluca, Rosaria</dc:creator>
+      <dc:creator>Giannini, Silvia</dc:creator>
+      <dc:subject>Open access law</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/A.0 General Literature</dc:subject>
+      <dc:description>The paper summarizes the Italian and European legislation in the field of open access to the research products.</dc:description>
+      <dc:description>Il presente lavoro riassume le direttive previste dalla normativa italiana ed europea in materia di accesso aperto ai prodotti della ricerca.</dc:description>
+      <dc:date>2014-06-12</dc:date>
+      <dc:type>info:eu-repo/semantics/other</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-B4-003</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>Internal note, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-B4-003/2014-B4-003.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-B4-003/2014-B4-003_1.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

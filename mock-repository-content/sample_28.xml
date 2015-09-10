@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A2-010</identifier>
+    <datestamp>2015-04-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Coherent branching feature bisimulation</dc:title>
+      <dc:creator>Belder, Tessa</dc:creator>
+      <dc:creator>Ter Beek, Maurice H.</dc:creator>
+      <dc:creator>De Vink, Erik P.</dc:creator>
+      <dc:subject>Software Product Line Engineering</dc:subject>
+      <dc:subject>Feature Transition Systems (FTS)</dc:subject>
+      <dc:subject>Branching bisimulation</dc:subject>
+      <dc:subject>FTS minimization</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.4 Software/Program Verification. Formal Methods</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.4 Software/Program Verification. Model checking</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/F.3.1 Specifying and Verifying and Reasoning about Programs</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/F.3.2 Semantics of Programming Languages</dc:subject>
+      <dc:description>Progress in the behavioral analysis of software product lines at the family level benefits from further development of the underlying semantical theory. Here, we propose a behavioral equivalence for feature transition systems (FTS) generalizing branching bisimulation for labeled transition systems (LTS). We prove that branching feature bisimulation for an FTS of a family of products coincides with branching bisimulation for the LTS projection of each the individual products. For a restricted notion of coherent branching feature bisimulation we furthermore present a minimization algorithm and show its correctness. Although the minimization problem for coherent branching feature bisimulation is shown to be intractable, application of the algorithm in the setting of a small case study results in a significant speed-up of model checking of behavioral properties.</dc:description>
+      <dc:publisher>EPTCS</dc:publisher>
+      <dc:contributor>J.M. Atlee, S. Gnesi</dc:contributor>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/600708/EU/A Quantitative Approach to Management and Design of Collective and Adaptive Behaviours/QUANTICOL</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A2-010</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: FMSPLE'15 - 6th International Workshop on Formal Methods for Software Product Line Engineering (London, UK, 11 April 2015). Proceedings, pp. 14 - 30. J.M. Atlee, S. Gnesi (eds.). (Electronic Proceedings in Theoretical Computer Science, vol. 182). EPTC</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://eptcs.web.cse.unsw.edu.au/paper.cgi?FMSPLE15.2</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/isbn/2075-2180 (ISSN)</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.4204/EPTCS.182.2</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A2-010/2015-A2-010.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-021</identifier>
+    <datestamp>2015-04-27</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title/>
+      <dc:creator>Goggi, Sara</dc:creator>
+      <dc:creator>Pardelli, Gabriella</dc:creator>
+      <dc:creator>Giannini, Silvia</dc:creator>
+      <dc:creator>Biagioni, Stefania</dc:creator>
+      <dc:creator/>
+      <dc:subject>Grey Literature. European Commission Projects</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/A.1 INTRODUCTORY AND SURVEY</dc:subject>
+      <dc:description>The survey is focused on the documentation produced by the European Commission (EC) projects involved in the Framework Programme for Research and Technological Development (hereafter FP7) and managed by the Italian National Research Council (hereafter CNR). In particular, the Grey Literature (GL) available on CORDIS and European Projects websites was analysed. In order to verify how it is managed and whether it is compliant with EC recommendations, some categories were introduced to identify, measure and evaluate the usability and availability of projects production. Data was obtained from a sample of European projects websites.</dc:description>
+      <dc:description/>
+      <dc:publisher>A.D.B.S., Paris, FR</dc:publisher>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-021</dc:identifier>
+      <dc:language>fr</dc:language>
+      <dc:source/>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/0012-4508</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A0-021/2015-A0-021_1.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

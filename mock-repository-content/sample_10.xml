@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-PP-002</identifier>
+    <datestamp>2015-06-30</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Retrieving taxa names from large biodiversity data collections using a exible matching workow</dc:title>
+      <dc:creator>Vanden Berghe, Edward</dc:creator>
+      <dc:creator>Coro, Giampaolo</dc:creator>
+      <dc:creator>Bailly, Nicolas</dc:creator>
+      <dc:creator>Fiorellato, Fabio</dc:creator>
+      <dc:creator>Aldemita, Caselyn</dc:creator>
+      <dc:creator>Ellenbroek, Anton</dc:creator>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:subject>Taxon names matching</dc:subject>
+      <dc:subject>Taxonomic Authority File</dc:subject>
+      <dc:subject>Taxon Name Parsing</dc:subject>
+      <dc:subject>Name Matcher Chain</dc:subject>
+      <dc:subject>Taxonomy</dc:subject>
+      <dc:subject>Taxonomic nomenclature</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>In the domain of biological classification there are several taxon name matching services that can search for a species scientific name in a large collection of taxonomic names. Many of these services are available online, and many others run on computers of individual scientists. While these systems may work very well, most suffer from the fact that the list of names used as a reference, and the criteria to decide on a match, are hard-coded in the engine that performs the name matching. In this paper we present BiOnym, a taxon name matching system that separates reference names lists, search criteria and matching engine. The user is offered a choice of several taxonomic reference lists, including the option to upload his/her own list onto the system. Furthermore, BiOnym is a flexible workow, which embeds and combines techniques using lexical matching algorithms as well as expert knowledge. It is also an open platform allowing developers to contribute with new techniques. In this paper we demonstrate the benefits brought by this approach in terms of the efficiency and effectiveness of the information retrieval process with respect to other solutions.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2015-05-18</dc:date>
+      <dc:type>info:eu-repo/semantics/preprint</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-PP-002</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Ecological Informatics. Preprint, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-PP-002/2015-PP-002.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

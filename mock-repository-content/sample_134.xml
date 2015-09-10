@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-015</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Interim Progress Report (Period 1)</dc:title>
+      <dc:creator>Rial, Michela</dc:creator>
+      <dc:creator>Benvenuti, Chiara</dc:creator>
+      <dc:creator>Vozzi, Federico</dc:creator>
+      <dc:creator>Bagnesi, Cinzia</dc:creator>
+      <dc:creator>Borbotti, Marco</dc:creator>
+      <dc:creator>Colombo, Matteo</dc:creator>
+      <dc:creator>Parodi, Oberdan</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>et al.., .</dc:creator>
+      <dc:subject>Middleware</dc:subject>
+      <dc:subject>Activity recognition</dc:subject>
+      <dc:subject>Sensor integration</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5 PATTERN RECOGNITION</dc:subject>
+      <dc:description>The DOREMI Project context and Scientific and Technological objectives are: ï· Development of an unobtrusive monitoring environment keeping track of the daily activities of the elderly people at risk of malnutrition, sedentariness and cognitive decline according to the "active ageing lifestyle protocol"(MS1, M8) established by the specialist. ï· Development of a smart environment for context awareness and service orientation (MS6, M33) for the dynamic analysis of elderly behaviour and compliance to the active ageing lifestyle protocol. ï· Development of a gamified environment to engage the elderly and stimulate social interaction and physical activity (MS7, M24). ï· Proof the concept and validate (MS8, M28 and MS9, M36) the effectiveness and impact of the proposed solution in a pilot study carried out in Italy (SI4LIFE) and UK (Extra and Accord), involving both elderly users and care providers.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-04-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-015</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>DOREMI. Deliverable D1.2.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

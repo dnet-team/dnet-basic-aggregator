@@ -1,0 +1,1228 @@
+<RESOURCE_PROFILE>
+	<HEADER>
+		<RESOURCE_IDENTIFIER
+			value="0f8d451b-97e3-48f5-b95e-beeb543ea93e_Vm9jYWJ1bGFyeURTUmVzb3VyY2VzL1ZvY2FidWxhcnlEU1Jlc291cmNlVHlwZQ==" />
+		<RESOURCE_TYPE value="VocabularyDSResourceType" />
+		<RESOURCE_KIND value="VocabularyDSResources" />
+		<RESOURCE_URI value="" />
+		<DATE_OF_CREATION value="2015-04-08T11:27:16-03:00" />
+	</HEADER>
+	<BODY>
+		<CONFIGURATION>
+			<VOCABULARY_NAME code="dnet:countries">Country names</VOCABULARY_NAME>
+			<VOCABULARY_DESCRIPTION>OASIS list of country codes Country Code
+				List: ISO 3166-1993 (E)
+			</VOCABULARY_DESCRIPTION>
+			<TERMS>
+				<TERM native_name="AFGHANISTAN" code="AF" english_name="AFGHANISTAN"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="AMERICAN SAMOA" code="AS" english_name="AMERICAN SAMOA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ANDORRA" code="AD" english_name="ANDORRA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ANGOLA" code="AO" english_name="ANGOLA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ANGUILLA" code="AI" english_name="ANGUILLA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ANTARCTICA" code="AQ" english_name="ANTARCTICA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ANTIGUA AND BARBUDA" code="AG"
+					english_name="ANTIGUA AND BARBUDA" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ARUBA" code="AW" english_name="ARUBA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Albania" code="AL" english_name="Albania"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Algeria" code="DZ" english_name="Algeria"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Argentina" code="AR" english_name="Argentina"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Armenia" code="AM" english_name="Armenia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Australia" code="AU" english_name="Australia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="AUS" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Austria" code="AT" english_name="Austria"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="AUT" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Azerbaijan" code="AZ" english_name="Azerbaijan"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="AZE" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="BAHAMAS" code="BS" english_name="BAHAMAS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BELIZE" code="BZ" english_name="BELIZE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BERMUDA" code="BM" english_name="BERMUDA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BHUTAN" code="BT" english_name="BHUTAN"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BONAIRE, SINT EUSTATIUS AND SABA" code="BQ"
+					english_name="BONAIRE, SINT EUSTATIUS AND SABA" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BOUVET ISLAND" code="BV" english_name="BOUVET ISLAND"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="BRITISH INDIAN OCEAN TERRITORY" code="IO"
+					english_name="BRITISH INDIAN OCEAN TERRITORY" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Bahrain" code="BH" english_name="Bahrain"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Bangladesh" code="BD" english_name="Bangladesh"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Barbados" code="BB" english_name="Barbados"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Belarus" code="BY" english_name="Belarus"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Belgium" code="BE" english_name="Belgium"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="BEL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Benin" code="BJ" english_name="Benin"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="BEN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Bolivia" code="BO" english_name="Bolivia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Bosnia and Herzegovina" code="BA"
+					english_name="Bosnia and Herzegovina" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Botswana" code="BW" english_name="Botswana"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Brazil" code="BR" english_name="Brazil"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="BRA" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Brunei Darussalam" code="BN" english_name="Brunei Darussalam"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Bulgaria" code="BG" english_name="Bulgaria"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Burkina Faso" code="BF" english_name="Burkina Faso"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="BFA" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Burundi" code="BI" english_name="Burundi"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="CAYMAN ISLANDS" code="KY" english_name="CAYMAN ISLANDS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="CHAD" code="TD" english_name="CHAD"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="CHRISTMAS ISLAND" code="CX" english_name="CHRISTMAS ISLAND"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="COCOS (KEELING) ISLANDS" code="CC"
+					english_name="COCOS (KEELING) ISLANDS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="COMOROS" code="KM" english_name="COMOROS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="COOK ISLANDS" code="CK" english_name="COOK ISLANDS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="CURAÃAO" code="CW" english_name="CURAÃAO"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Cambodia" code="KH" english_name="Cambodia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Cameroon" code="CM" english_name="Cameroon"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Canada" code="CA" english_name="Canada"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="CAN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Cape Verde" code="CV" english_name="Cape Verde"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Central African Republic" code="CF"
+					english_name="Central African Republic" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Chile" code="CL" english_name="Chile"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="China (People's Republic of)" code="CN"
+					english_name="China (People's Republic of)" encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="CHN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Colombia" code="CO" english_name="Colombia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="COL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Congo" code="CG" english_name="Congo"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Congo (Democratic Republic of)" code="CD"
+					english_name="Congo (Democratic Republic of)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Costa Rica" code="CR" english_name="Costa Rica"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="CRI" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Cote d'Ivoire" code="CI" english_name="Cote d'Ivoire"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Croatia" code="HR" english_name="Croatia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Cuba" code="CU" english_name="Cuba"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Cyprus" code="CY" english_name="Cyprus"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Czech Republic" code="CZ" english_name="Czech Republic"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="CZE" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="DJIBOUTI" code="DJ" english_name="DJIBOUTI"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="DOMINICA" code="DM" english_name="DOMINICA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Denmark" code="DK" english_name="Denmark"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="DNK" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Dominican Republic" code="DO"
+					english_name="Dominican Republic" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="EQUATORIAL GUINEA" code="GQ" english_name="EQUATORIAL GUINEA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ERITREA" code="ER" english_name="ERITREA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Ecuador" code="EC" english_name="Ecuador"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Egypt" code="EG" english_name="Egypt"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="EGY" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="El Salvador" code="SV" english_name="El Salvador"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SLV" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Estonia" code="EE" english_name="Estonia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="EST" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Ethiopia" code="ET" english_name="Ethiopia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ETH" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="European Union" code="EU" english_name="European Union"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="EEC" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="FALKLAND ISLANDS (MALVINAS)" code="FK"
+					english_name="FALKLAND ISLANDS (MALVINAS)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="FRENCH POLYNESIA" code="PF" english_name="FRENCH POLYNESIA"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="PYF" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="FRENCH SOUTHERN TERRITORIES" code="TF"
+					english_name="FRENCH SOUTHERN TERRITORIES" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Faroe Islands" code="FO" english_name="Faroe Islands"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Fiji" code="FJ" english_name="Fiji"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Finland" code="FI" english_name="Finland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="FIN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Former Yugoslav Republic of Macedonia" code="MK"
+					english_name="Former Yugoslav Republic of Macedonia" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="France" code="FR" english_name="France"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="FRA" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="French Guiana" code="GF" english_name="French Guiana"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="GREECE" code="GR" english_name="GREECE"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="GRC" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="GRENADA" code="GD" english_name="GRENADA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="GUADELOUPE" code="GP" english_name="GUADELOUPE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="GUAM" code="GU" english_name="GUAM"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="GUERNSEY" code="GG" english_name="GUERNSEY"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Gabon" code="GA" english_name="Gabon"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Gambia" code="GM" english_name="Gambia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Georgia" code="GE" english_name="Georgia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Germany" code="DE" english_name="Germany"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="DEU" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Ghana" code="GH" english_name="Ghana"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Gibraltar" code="GI" english_name="Gibraltar"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Greece" code="EL" english_name="Greece"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Greenland" code="GL" english_name="Greenland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="GRL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Guatemala" code="GT" english_name="Guatemala"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Guinea" code="GN" english_name="Guinea"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Guinea-Bissau" code="GW" english_name="Guinea-Bissau"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Guyana" code="GY" english_name="Guyana"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="HEARD ISLAND AND MCDONALD ISLANDS" code="HM"
+					english_name="HEARD ISLAND AND MCDONALD ISLANDS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="HOLY SEE (VATICAN CITY STATE)" code="VA"
+					english_name="HOLY SEE (VATICAN CITY STATE)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Haiti" code="HT" english_name="Haiti"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Honduras" code="HN" english_name="Honduras"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Hong Kong" code="HK" english_name="Hong Kong"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Hungary" code="HU" english_name="Hungary"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="HUN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="IRAQ" code="IQ" english_name="IRAQ"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ISLE OF MAN" code="IM" english_name="ISLE OF MAN"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Iceland" code="IS" english_name="Iceland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ISL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="India" code="IN" english_name="India"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="IND" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Indonesia" code="ID" english_name="Indonesia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="IDN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Iran (Islamic Republic of)" code="IR"
+					english_name="Iran (Islamic Republic of)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Ireland" code="IE" english_name="Ireland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="IRL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Israel" code="IL" english_name="Israel"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ISR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Italy" code="IT" english_name="Italy"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ITA" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="JERSEY" code="JE" english_name="JERSEY"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Jamaica" code="JM" english_name="Jamaica"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Japan" code="JP" english_name="Japan"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="JPN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Jordan" code="JO" english_name="Jordan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="KIRIBATI" code="KI" english_name="KIRIBATI"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+					code="KP" english_name="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Kazakhstan" code="KZ" english_name="Kazakhstan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Kenya" code="KE" english_name="Kenya"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="KEN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Korea (Republic of)" code="KR"
+					english_name="Korea (Republic of)" encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="KOR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Kosovo * UN resolution" code="XK"
+					english_name="Kosovo * UN resolution" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Kuwait" code="KW" english_name="Kuwait"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Kyrgyzstan" code="KG" english_name="Kyrgyzstan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="LIBERIA" code="LR" english_name="LIBERIA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Lao (People's Democratic Republic)" code="LA"
+					english_name="Lao (People's Democratic Republic)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Latvia" code="LV" english_name="Latvia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Lebanon" code="LB" english_name="Lebanon"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Lesotho" code="LS" english_name="Lesotho"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Libyan Arab Jamahiriya" code="LY"
+					english_name="Libyan Arab Jamahiriya" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Liechtenstein" code="LI" english_name="Liechtenstein"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Lithuania" code="LT" english_name="Lithuania"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="LTU" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Luxembourg" code="LU" english_name="Luxembourg"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="LUX" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="MARTINIQUE" code="MQ" english_name="MARTINIQUE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="MAURITANIA" code="MR" english_name="MAURITANIA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="MAYOTTE" code="YT" english_name="MAYOTTE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="MICRONESIA, FEDERATED STATES OF" code="FM"
+					english_name="MICRONESIA, FEDERATED STATES OF" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="MONGOLIA" code="MN" english_name="MONGOLIA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="MONTSERRAT" code="MS" english_name="MONTSERRAT"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Macao" code="MO" english_name="Macao"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Madagascar" code="MG" english_name="Madagascar"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Malawi" code="MW" english_name="Malawi"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Malaysia" code="MY" english_name="Malaysia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Maldives" code="MV" english_name="Maldives"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Mali" code="ML" english_name="Mali"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Malta" code="MT" english_name="Malta"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Marshall Islands" code="MH" english_name="Marshall Islands"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Mauritius" code="MU" english_name="Mauritius"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Mexico" code="MX" english_name="Mexico"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="MEX" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Moldova (Republic of)" code="MD"
+					english_name="Moldova (Republic of)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Montenegro" code="ME" english_name="Montenegro"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Morocco" code="MA" english_name="Morocco"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Mozambique" code="MZ" english_name="Mozambique"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Myanmar" code="MM" english_name="Myanmar"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="NAURU" code="NR" english_name="NAURU"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="NIUE" code="NU" english_name="NIUE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="NORFOLK ISLAND" code="NF" english_name="NORFOLK ISLAND"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="NORTHERN MARIANA ISLANDS" code="MP"
+					english_name="NORTHERN MARIANA ISLANDS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Namibia" code="NA" english_name="Namibia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Nepal" code="NP" english_name="Nepal"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Netherlands" code="NL" english_name="Netherlands"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="NLD" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Netherlands Antilles" code="AN"
+					english_name="Netherlands Antilles" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="New Caledonia" code="NC" english_name="New Caledonia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="New Zealand" code="NZ" english_name="New Zealand"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="NZL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Nicaragua" code="NI" english_name="Nicaragua"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Niger" code="NE" english_name="Niger"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Nigeria" code="NG" english_name="Nigeria"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Norway" code="NO" english_name="Norway"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="NOR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Oman" code="OM" english_name="Oman"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="PALAU" code="PW" english_name="PALAU"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="PARAGUAY" code="PY" english_name="PARAGUAY"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="PITCAIRN" code="PN" english_name="PITCAIRN"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="PUERTO RICO" code="PR" english_name="PUERTO RICO"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Pakistan" code="PK" english_name="Pakistan"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="PAK" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Palestinian-administered areas" code="PS"
+					english_name="Palestinian-administered areas" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Panama" code="PA" english_name="Panama"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="PAN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Papua New Guinea" code="PG" english_name="Papua New Guinea"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Peru" code="PE" english_name="Peru"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Philippines" code="PH" english_name="Philippines"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Poland" code="PL" english_name="Poland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="POL" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Portugal" code="PT" english_name="Portugal"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Qatar" code="QA" english_name="Qatar"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Romania" code="RO" english_name="Romania"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ROU" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Russian Federation" code="RU"
+					english_name="Russian Federation" encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="RUS" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Rwanda" code="RW" english_name="Rwanda"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="RÃUNION" code="RE" english_name="RÃUNION"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT BARTHÃLEMY" code="BL" english_name="SAINT BARTHÃLEMY"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+					code="SH" english_name="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT KITTS AND NEVIS" code="KN"
+					english_name="SAINT KITTS AND NEVIS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT LUCIA" code="LC" english_name="SAINT LUCIA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT MARTIN (FRENCH PART)" code="MF"
+					english_name="SAINT MARTIN (FRENCH PART)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT PIERRE AND MIQUELON" code="PM"
+					english_name="SAINT PIERRE AND MIQUELON" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAINT VINCENT AND THE GRENADINES" code="VC"
+					english_name="SAINT VINCENT AND THE GRENADINES" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAMOA" code="WS" english_name="SAMOA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SAO TOME AND PRINCIPE" code="ST"
+					english_name="SAO TOME AND PRINCIPE" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SIERRA LEONE" code="SL" english_name="SIERRA LEONE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SINT MAARTEN (DUTCH PART)" code="SX"
+					english_name="SINT MAARTEN (DUTCH PART)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SOLOMON ISLANDS" code="SB" english_name="SOLOMON ISLANDS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+					code="GS" english_name="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SOUTH SUDAN" code="SS" english_name="SOUTH SUDAN"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="SVALBARD AND JAN MAYEN" code="SJ"
+					english_name="SVALBARD AND JAN MAYEN" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="San Marino" code="SM" english_name="San Marino"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Saudi Arabia" code="SA" english_name="Saudi Arabia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Senegal" code="SN" english_name="Senegal"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SEN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Serbia" code="RS" english_name="Serbia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Seychelles" code="SC" english_name="Seychelles"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Singapore" code="SG" english_name="Singapore"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SGP" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Slovakia" code="SK" english_name="Slovakia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SVK" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Slovenia" code="SI" english_name="Slovenia"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SVN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Somalia" code="SO" english_name="Somalia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="South Africa" code="ZA" english_name="South Africa"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ZAF" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Spain" code="ES" english_name="Spain"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="ESP" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Sri Lanka" code="LK" english_name="Sri Lanka"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Sudan" code="SD" english_name="Sudan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM
+					native_name="Support for training and career development of researchers (Marie Curie)"
+					code="MC"
+					english_name="Support for training and career development of researchers (Marie Curie)"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Suriname" code="SR" english_name="Suriname"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Swaziland" code="SZ" english_name="Swaziland"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Sweden" code="SE" english_name="Sweden"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="SWE" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Switzerland" code="CH" english_name="Switzerland"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="CHE" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Syrian Arab Republic" code="SY"
+					english_name="Syrian Arab Republic" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="TIMOR-LESTE" code="TL" english_name="TIMOR-LESTE"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="TOKELAU" code="TK" english_name="TOKELAU"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="TONGA" code="TO" english_name="TONGA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="TURKS AND CAICOS ISLANDS" code="TC"
+					english_name="TURKS AND CAICOS ISLANDS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="TUVALU" code="TV" english_name="TUVALU"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Taiwan" code="TW" english_name="Taiwan"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="TWN" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Tajikistan" code="TJ" english_name="Tajikistan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Tanzania (United Republic of)" code="TZ"
+					english_name="Tanzania (United Republic of)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Thailand" code="TH" english_name="Thailand"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Togo" code="TG" english_name="Togo"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Trinidad and Tobago" code="TT"
+					english_name="Trinidad and Tobago" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Tunisia" code="TN" english_name="Tunisia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Turkey" code="TR" english_name="Turkey"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="TUR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Turkmenistan" code="TM" english_name="Turkmenistan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="UNITED KINGDOM" code="GB" english_name="UNITED KINGDOM"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="UNITED STATES MINOR OUTLYING ISLANDS" code="UM"
+					english_name="UNITED STATES MINOR OUTLYING ISLANDS" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="UNKNOWN" code="UNKNOWN" english_name="UNKNOWN"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="AAA" encoding="DNET" />
+						<SYNONYM term="_?" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Uganda" code="UG" english_name="Uganda"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Ukraine" code="UA" english_name="Ukraine"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="UKR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="United Arab Emirates" code="AE"
+					english_name="United Arab Emirates" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="United Kingdom" code="UK" english_name="United Kingdom"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="GBR" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="United States" code="US" english_name="United States"
+					encoding="DNET">
+					<SYNONYMS>
+						<SYNONYM term="USA" encoding="DNET" />
+					</SYNONYMS>
+					<RELATIONS />
+				</TERM>
+				<TERM native_name="Uruguay" code="UY" english_name="Uruguay"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Uzbekistan" code="UZ" english_name="Uzbekistan"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="VANUATU" code="VU" english_name="VANUATU"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="VIRGIN ISLANDS, U.S." code="VI"
+					english_name="VIRGIN ISLANDS, U.S." encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Venezuela" code="VE" english_name="Venezuela"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Viet Nam" code="VN" english_name="Viet Nam"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Virgin Islands (British)" code="VG"
+					english_name="Virgin Islands (British)" encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="WALLIS AND FUTUNA" code="WF" english_name="WALLIS AND FUTUNA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="WESTERN SAHARA" code="EH" english_name="WESTERN SAHARA"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Yemen" code="YE" english_name="Yemen"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Zambia" code="ZM" english_name="Zambia"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="Zimbabwe" code="ZW" english_name="Zimbabwe"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+				<TERM native_name="ÃLAND ISLANDS" code="AX" english_name="ÃLAND ISLANDS"
+					encoding="DNET">
+					<SYNONYMS />
+				</TERM>
+			</TERMS>
+		</CONFIGURATION>
+		<STATUS>
+            <LAST_UPDATE value="2015-04-17T12:44:48+02:00"/>
+        </STATUS>
+		<SECURITY_PARAMETERS>String</SECURITY_PARAMETERS>
+	</BODY>
+</RESOURCE_PROFILE>

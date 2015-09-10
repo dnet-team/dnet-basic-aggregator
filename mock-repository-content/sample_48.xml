@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-009</identifier>
+    <datestamp>2015-02-13</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Data journals: a survey</dc:title>
+      <dc:creator>Candela, Leonardo</dc:creator>
+      <dc:creator>Castelli, Donatella</dc:creator>
+      <dc:creator>Manghi, Paolo</dc:creator>
+      <dc:creator>Tani, Alice</dc:creator>
+      <dc:subject>Data Journals</dc:subject>
+      <dc:subject>Data publishing</dc:subject>
+      <dc:subject>Scholarly communication</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>Data occupy a key role in our information society. However, although the amount of published data continues to grow and terms such as data deluge and big data today characterize numerous (research) initiatives, much work is still needed in the direction of publishing data in order to make them effectively discoverable, available, and reusable by others. Several barriers hinder data publishing, from lack of attribution and rewards, vague citation practices, and quality issues to a rather general lack of a data-sharing culture. Lately, data journals have overcome some of these barriers. In this study of more than 100 currently existing data journals, we describe the approaches they promote for data set description, availability, citation, quality, and open access. We close by identifying ways to expand and strengthen the data journals approach as a means to promote data set access and exploitation.</dc:description>
+      <dc:publisher>Published online in Wiley Online Library (wileyonlinelibrary.com).</dc:publisher>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283595/EU/2nd-Generation Open Access Infrastructure for Research in Europe/OPENAIREPLUS</dc:relation>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-009</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: Journal of the Association for Information Science and Technology, Published online in Wiley Online Library (wileyonlinelibrary.com),  [Online First 30 January 2015]</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://onlinelibrary.wiley.com/doi/10.1002/asi.23358/abstract;jsessionid=5D7E3370F4EEF7A10FD570A103D0D8CA.f03t02</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/2330-1643</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.1002/asi.23358</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-046</identifier>
+    <datestamp>2015-02-12</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>PRELIDA - Report on the consolidation and dissemination workshop</dc:title>
+      <dc:creator/>
+      <dc:creator>Batsakis, Sotiris</dc:creator>
+      <dc:creator>Meghini, Carlo</dc:creator>
+      <dc:subject>PRELIDA Final Workshop</dc:subject>
+      <dc:subject>Preservation of Linked Data</dc:subject>
+      <dc:subject>Dissemination of the results</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>The present document provides details on the final workshop of PRELIDA, held in Riva del Garda, Italy, between the 17th and 18th of October, 2014. The workshop was open to interested parties in addition to the PRELIDA Working Group members, and it was the third and last event in which the members met amongst themselves and with the project in order to discuss the preservation of Linked Data. The programme of the workshop is provided, along with the list of participants. The scientific outcome of the workshop is finally discussed, by illustrating the themes that have been discussed and that will be part of the final outcomes of PRELIDA.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/600663/EU/Preserving Linked Data/PRELIDA</dc:relation>
+      <dc:date>2014-10-31</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-046</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>PRELIDA - Preserving Linked Data. Deliverable D2.6, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-046/2014-EC-046.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

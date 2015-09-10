@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-010</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>make it ReAAL - Interoperability and customization requirements</dc:title>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Lenzi, Stefano</dc:creator>
+      <dc:creator/>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Gotta, Alberto</dc:creator>
+      <dc:creator>Riolo, Giancarlo</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>AAL Middleware Platform Design</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>The goal of this deliverable is to report the analysis performed by each Pilot about the interoperability requirements on their applications, using an open platform and the possible customization of the pilots applications. The deliverable is therefore structured as follows: A general introduction on interoperability is provided. Then a model description is provided in order to have the same approach for all the pilots; so that an analysis of the similarities and the differences between pilots can be made. Then each application of pilots is designed using this model in order to report on the possible points of interoperability and flexibility of each application.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325189/EU/make it ReAAL/ReAAL</dc:relation>
+      <dc:date>2014-02-04</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-010</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>make it ReAAL. Deliverable D1.2, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

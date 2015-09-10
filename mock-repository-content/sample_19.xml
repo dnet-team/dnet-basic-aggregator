@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-EC-003</identifier>
+    <datestamp>2015-05-14</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Wireless sensor networks, integration middleware and system configuration</dc:title>
+      <dc:creator>Llorente, Miguel</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Kropf, Johanes</dc:creator>
+      <dc:subject>Wireless Sensor Networks</dc:subject>
+      <dc:subject>Device specification</dc:subject>
+      <dc:subject>Requirements</dc:subject>
+      <dc:subject>Home automation</dc:subject>
+      <dc:subject>Middleware</dc:subject>
+      <dc:subject>Auto configuration</dc:subject>
+      <dc:subject>Wireless standards</dc:subject>
+      <dc:subject>Wearable devices</dc:subject>
+      <dc:subject>Real time location system</dc:subject>
+      <dc:subject>Balance assessment</dc:subject>
+      <dc:subject>Occupancy detection</dc:subject>
+      <dc:subject>Social assessment</dc:subject>
+      <dc:subject>Internet of the Things</dc:subject>
+      <dc:subject>Prototyping</dc:subject>
+      <dc:subject>Real time location</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>This deliverable reports the first release of the DOREMI wireless sensor network (WSN), detailing its architecture, components and integration. This report is delivered together with the preliminary version of the DOREMI WSN, which has limited features but is 100% functional to perform integration and use tests with real users in a Living Lab environment. The document is focused in the description of how each element of the WSN gets data from a specific parcel of the user and puts them available to the rest of the DOREMI system. Features and working details of the software and hardware components developed until the release of this document are detailed. Finally, the development status and the next steps are described in order to put this release in context with the whole works to be performed within WP3 in DOREMI project.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2015-04-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-EC-003</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion (DOREMI). Deliverable D3.2, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

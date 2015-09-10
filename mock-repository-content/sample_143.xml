@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-B6-002</identifier>
+    <datestamp>2015-02-02</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>A method for automatic REM sleep segmentation</dc:title>
+      <dc:creator>Virgillito, Alessandra</dc:creator>
+      <dc:creator>Barcaro, Umberto</dc:creator>
+      <dc:creator>Pieri, Gabriele</dc:creator>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Bonfiglio, Luca</dc:creator>
+      <dc:creator>Carboncini, Maria Chiara</dc:creator>
+      <dc:subject>Sleep analysis</dc:subject>
+      <dc:subject>Signal segmentation</dc:subject>
+      <dc:subject>EEG components</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.6 Segmentation</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.4 Applications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.3 SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68N30 Mathematical aspects of software engineering (specification, verification, metrics, requirements, etc.)</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68W25 Approximation algorithms</dc:subject>
+      <dc:description>A basic property of REM sleep is that is not a uniform stage. Two kinds of variations are particularly significant. First, a remarkable amount of literature, based on polygraphic signals, fMRI images, and psychophysiological data, has shown that "phasic" epochs, presenting distinct oculomotor activity, should be distinguished from "tonic" epochs. Second, recent litarature has provided interesting data about slow eye movements (SEMs), which are present during REM sleep in addition to rapid eye movements (REMs), although, according to Rechtshaffen and Kales (1968), during REM sleep SEMs "do not approach the abundance magnitude, and pendular pattern of the slow eye movements during stage 1".</dc:description>
+      <dc:publisher>Led On Line - Electronic Archive by Edizioni Universitarie di Lettere Economia Diritto</dc:publisher>
+      <dc:contributor/>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611516/EU/SEMEiotic Oriented Technology for Individualâs CardiOmetabolic risk self-assessmeNt and Self-monitoring/SEMEOTICONS</dc:relation>
+      <dc:date>2014</dc:date>
+      <dc:type>info:eu-repo/semantics/conferenceObject</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-B6-002</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source/>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/url/http://www.sipf.it/download/congresso2014/Neuropsychological-Trends-2014_November.pdf</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-B6-002/2014-B6-002.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

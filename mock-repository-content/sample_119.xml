@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-034</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Exploitation plan</dc:title>
+      <dc:creator/>
+      <dc:creator>Colombo, Matteo</dc:creator>
+      <dc:creator>Vozzi, Federico</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:subject>Market segment</dc:subject>
+      <dc:subject>Target market</dc:subject>
+      <dc:subject>Products and services characteristics</dc:subject>
+      <dc:subject>Exploitation strategy</dc:subject>
+      <dc:subject>Exploitation plan</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2m COMPUTER-COMMUNICATION NETWORKS. Miscellaneous</dc:subject>
+      <dc:description>The objective of this report is to outline the DOREMI solution exploitation strategy that will be followed to define the exploitation plan of DOREMI consortium. The exploitation plan will be developed during the project life cycle and reported in the deliverables 7.3.1, 7.3.2 and 7.3.3. The main element of the report is the definition of the target markets that would be addressed by DOREMI products and services. According to the analysis conducted in the report, the target market relies on two main characteristics: the typology of the health care services existing in EU28 and the characteristics of the target population that is present in each MS. Crossing the two health system characteristics and the potential market indicators defined above, it has been possible to define specific exploitation strategies of the DOREMI solution that will be improved in the next deliverable 7.3.1 and that constitute the basis for the development of the project exploitation plan for the whole consortium, in accordance with the specificity of the DOREMI products and services.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-08-11</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-034</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D7.2, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

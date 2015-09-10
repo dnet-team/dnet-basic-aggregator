@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-019</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Service discovery in mobile social networks</dc:title>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Chessa, Stefano</dc:creator>
+      <dc:creator>Basagni, Stefano</dc:creator>
+      <dc:creator>Furfari, Francesco</dc:creator>
+      <dc:subject>Service Discovery</dc:subject>
+      <dc:subject>Mobile Social Networks</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>We present a new service discovery algorithm, termed SIDEMAN, which considers human mobility for service dissemination and discovery. In particular, SIDEMAN takes advantage of mobile social networking characteristics, such as user membership to a restricted number of communities, and interest for similar services among users in the same community. We evaluated the performance of SIDEMAN via simulations in a scenario based on traces collected at the IEEE conference Infocom in 2006. Our algorithm has been compared to the social version of two popular data dissemination techniques, namely, flooding and gossiping. We have measured how proactive an algorithm is in distributing services of interest (Recall), how many services are already with a user when they are needed (Gain), the energy cost necessary for service discovery, and the time needed to reply to a service query. Our results show that SIDEMAN obtains perfect Recall and a Gain that is always comparable to that of the other algorithms. Furthermore, most services are retrieved in reasonable time and at a remarkably lower energy cost than that of the flooding and gossiping-based solutions.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/247950/EU/UNIVERSsal open platform and reference Specification for Ambient Assisted Living/universAAL</dc:relation>
+      <dc:date>2014-04-07</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-019</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/closedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

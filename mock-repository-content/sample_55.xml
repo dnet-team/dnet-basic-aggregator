@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-078</identifier>
+    <datestamp>2015-02-12</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Software requirements elicitation in the context of a collaborative research project : technical report</dc:title>
+      <dc:creator>De Angelis, Guglielmo</dc:creator>
+      <dc:creator>Ferrari, Alessio</dc:creator>
+      <dc:creator>Gnesi, Stefania</dc:creator>
+      <dc:creator>Polini, Andrea</dc:creator>
+      <dc:subject>Distributed requirements engineering</dc:subject>
+      <dc:subject>Collaborative requirements</dc:subject>
+      <dc:subject>Requirements wiki</dc:subject>
+      <dc:subject>EU projects</dc:subject>
+      <dc:subject>Experience report</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2 SOFTWARE ENGINEERING</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.1 SOFTWARE ENGINEERING. Requirements/Specifications</dc:subject>
+      <dc:description>Context and motivation: A large part of the research activities performed in European computer science institutions is funded through European Union (EU) projects. Such projects address challenging applied-research objectives and involve both academic and industrial partners that are normally spread across different states of the EU. These projects often include the definition of an integrated platform to be built with the collaboration of the different partners. Question/Problem : Eliciting and defining requirements for the platform in a distributed environment with heterogeneous stakeholders may be challenging. Partners have different objectives and views, needs are not sharply defined and communication is hampered both by the languages and by the physical distance of the stakeholders. Principal idea/results : This paper presents the experience of defining and applying an innovative requirements elicitation approach in the context of the Learn PAd project, a EU project concerning a learning framework for Public Administrations (PA). The approach combines KJ-method and collaborative wiki-based requirements sessions to come to a set of consolidated requirements.% Contribution : In the paper, we discuss the lessons learnt in this experience and we present advantages and drawbacks of the implemented approach.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/619583/EU/Model-Based Social Learning for Public Administrations/LEARN PAD</dc:relation>
+      <dc:date>2014-10-1</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-078</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

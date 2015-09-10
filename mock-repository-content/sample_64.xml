@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-044</identifier>
+    <datestamp>2014-11-04</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Research Ambient Assisted Living solutions in the European Context</dc:title>
+      <dc:creator>Miori, Vittorio</dc:creator>
+      <dc:creator>Bianchi Bandinelli, Rolando</dc:creator>
+      <dc:creator>Pillitteri, Loredana</dc:creator>
+      <dc:creator>Russo, Dario</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>Elderly People</dc:subject>
+      <dc:subject>Senior People</dc:subject>
+      <dc:subject>Independent Living</dc:subject>
+      <dc:subject>Assistive technologies</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/K.4.2 Social Issues</dc:subject>
+      <dc:description>This report aims to take stock of the work carried out in European projects that are related to the senior citizens. We have not considered older programmes even if concerning with problems of disabled and elderly people like TIDE Programme (Technology Initiative for Disabled and Elderly People) the COST 219 RACE and ACTS programmes, but we have considered only the newest projects. In this publication have been reviewed the projects of the AAL program with special attention of the amount invested in each technology and topic. In fact, from the summary of each project, we have derived the main technology used (see column entitled "Technology" in the summary tables) and the problems that the project aimed to solve (see column entitled "topic" in the summary tables). We then ranked the projects according to these categories and we calculated various statistics. For each call of the program have been reported synthetic abstract, a summary table and some statistics and final thoughts. Later other projects of the 6th and 7th Framework Programme which seemed inherent issues of interest to the subject matter of this report were taken into account. After a deep analysis, evaluation and re-elaboration of the mentioned projects, this work aims to be a consultation document to quickly have an overview of the state of the art.</dc:description>
+      <dc:date>2014-09-22</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-044</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>The report examines the main European research projects related to disabled and elderly people. Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-TR-044/2014-TR-044.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

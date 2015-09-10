@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-046</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Multi-tenancy aware ambient assisted living platforms in the cloud</dc:title>
+      <dc:creator>Stocklow, Carsten</dc:creator>
+      <dc:creator>Medrano, Alejandro</dc:creator>
+      <dc:creator>Fides Valero, Alvaro</dc:creator>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Lenzi, Stefano</dc:creator>
+      <dc:subject>AAL Platform</dc:subject>
+      <dc:subject>Cloud Computing</dc:subject>
+      <dc:subject>Smart Environments</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.11 Software Architectures</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.13 Reusable Software</dc:subject>
+      <dc:description>Over the last years, Ambient Assisted Living (AAL) tech- nologies have seen a remarkable grow up. Although this field has been researched for many years and different projects have investigated and proposed AAL platforms with a rich set of functionality, the current market situation still favors isolated solutions. A possible reason is that those platforms are too complex to be easily setup and maintained. Also, resource sharing is possible between services, but not between platforms. A promising alternative is provided by the cloud computing approach which integrates common services in a shared way. Thus, we propose to use an AAL platform as Platform-as-a-Service in the cloud to offer all functionalities of AAL platforms to services in the cloud while being able to connect to platforms running in each home. We discuss different aspects of this approach and propose a simple ver- ification scenario. An exemplary adoption is discussed for the platform universAAL.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325189/EU/make it ReAAL/ReAAL</dc:relation>
+      <dc:date>2014-10-30</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-046</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

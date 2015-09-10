@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-002</identifier>
+    <datestamp>2014-02-11</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Presentazione fotografica dell'installazione dimostrativa del Laboratorio di Domotica ISTI-CNR</dc:title>
+      <dc:creator>Russo, Dario</dc:creator>
+      <dc:creator>Pillitteri, Loredana</dc:creator>
+      <dc:subject>Domotics</dc:subject>
+      <dc:subject>Home automation</dc:subject>
+      <dc:subject>Interoperability</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.6 Interactive environments</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/D.2.12 Interoperability</dc:subject>
+      <dc:description>n.a.</dc:description>
+      <dc:description/>
+      <dc:date>2014-02-10</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-002</dc:identifier>
+      <dc:language>it</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-TR-002/2014-TR-002.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

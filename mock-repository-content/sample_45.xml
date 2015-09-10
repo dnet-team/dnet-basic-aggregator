@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-018</identifier>
+    <datestamp>2015-04-23</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>Improving data quality to build a robust distribution model for Architeuthis dux</dc:title>
+      <dc:creator>Coro, Gianpaolo</dc:creator>
+      <dc:creator>Magliozzi, Chiara</dc:creator>
+      <dc:creator>Ellenbroek, Anton</dc:creator>
+      <dc:creator>Pagano, Pasquale</dc:creator>
+      <dc:subject>Ecological niche modelling</dc:subject>
+      <dc:subject>AquaMaps</dc:subject>
+      <dc:subject>Neural networks</dc:subject>
+      <dc:subject>Rare species</dc:subject>
+      <dc:subject>Maximum entropya</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.1 PATTERN RECOGNITION. Models</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/92.08 Computational methods</dc:subject>
+      <dc:description>The giant squid (Architeuthis) has been reported since even before the 16th century, and has recently been observed live in its habitat for the first time. Among the species belonging to this genus, Architeuthis dux has received special attention from biologists. The distribution of this species is poorly understood,as most of our information stems from stranded animals or stomach remains. Predicting the habitat and distribution of this species, and more in general of difficult to observe species, is important from a biological conservation perspective. In this paper, we present an approach to estimate the potential distribution of A. dux at global scale, with relative high resolution (1-degree). Our approach relies on a complex preparation phase, which improves the reliability of presence, absence and environmental data correlated to the species habitat. We compare our distribution with those produced by state-of-the-art approaches (MaxEnt and AquaMaps), and use an expert-drawn map as reference. We demonstrate that our model projection is in agreement with the expert's map and is also compliant with several biological assessments of the species habitat and with recent observations. Furthermore, we show that our approach can be generalized as a paradigm that is applicable to other rare species.</dc:description>
+      <dc:publisher>Elsevier</dc:publisher>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/283644/EU/Data e-Infrastructure Initiative for Fisheries Management and Conservation of Marine Living Resources/IMARINE</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-018</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: Ecological Modelling, vol. 305 pp. 29 - 39. Elsevier, 2015.</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/0304-3800</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/http://dx.doi.org/10.1016/j.ecolmodel.2015.03.011</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-A0-018/2015-A0-018_0.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

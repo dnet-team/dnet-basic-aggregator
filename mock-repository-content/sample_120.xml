@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-033</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Quality and risk management report</dc:title>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Colombo, Matteo</dc:creator>
+      <dc:subject>Quality Management</dc:subject>
+      <dc:subject>Risk Management</dc:subject>
+      <dc:subject>Control activities</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.9 Robotics</dc:subject>
+      <dc:description>In order to assure the correct quality assurance procedures, a Quality and Risk management Plan has been designed at the beginning of the project and reported in D1.1. The DOREMI project involves risks, mainly due to the complexity of the problems and the degree of novelty of the intended results. To this, risks come from time restrictions, as well as from the distributed development project structure (there are teams from many organizations of different countries). The report includes a description of quality control activities and risks identification performed in the first year of the project by several partners involved in technical R&amp;D activities aimed at the development of DOREMI platform.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-11-17</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-033</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D1.5.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

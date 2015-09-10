@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-036</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Dissemination Plan</dc:title>
+      <dc:creator/>
+      <dc:creator>Vozzi, Federico</dc:creator>
+      <dc:creator>Rial, Michela</dc:creator>
+      <dc:creator>Morales, Aurora</dc:creator>
+      <dc:creator>Parodi, Oberdan</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:subject>Stakeholder engagement strategy</dc:subject>
+      <dc:subject>Dissemination plan</dc:subject>
+      <dc:subject>Communication strategy</dc:subject>
+      <dc:subject>Dissemination initiatives</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2m COMPUTER-COMMUNICATION NETWORKS. Miscellaneous</dc:subject>
+      <dc:description>The deliverable D7.1 "Dissemination plan" aims at formulating the project's dissemination strategy and plan, identifying the specific approaches best suited for contact and interaction with target groups, considering both new (e.g. internet exploitation; cross-posting, cycling references, etc.) and traditional (e.g. press release, newsletters, conferences, etc.) dissemination avenues. The report starts with the identification of the key stakeholders of the projects and the main dissemination channels and communication strategy that are suitable for them to be engaged in the project's results acquisition and diffusion in the scientific community and at industrial level and to the general audience. Then a dissemination plan will be described for the whole project period. The initial plan reported in this report as to be considered an initial attempt to get advantages of the expertise and the network of contacts of the project partners. The information contained in the plan will be periodically updated and revised according to the project's achievements.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-08-11</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-036</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D7.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

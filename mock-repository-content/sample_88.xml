@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-PR-005</identifier>
+    <datestamp>2014-05-06</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>ARROWS - Development of an interactive mixed reality environment for virtual exploration of archaeological sites - First release</dc:title>
+      <dc:creator>Reggiannini, Marco</dc:creator>
+      <dc:creator>Tampucci, Marco</dc:creator>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Pascali, Maria Antonietta</dc:creator>
+      <dc:creator>Righi, Marco</dc:creator>
+      <dc:creator>Giorgi, Daniela</dc:creator>
+      <dc:subject>3D Imaging Reconstruction</dc:subject>
+      <dc:subject>3D from stereo</dc:subject>
+      <dc:subject>Computer vision</dc:subject>
+      <dc:subject>Image understanding</dc:subject>
+      <dc:subject>Multi-source Signals and Images</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.2.10 Vision and Scene Understanding</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.3.8 COMPUTER GRAPHICS. Applications</dc:subject>
+      <dc:subject>info:eu-repo/classification/msc/68T45 Machine vision and scene understanding</dc:subject>
+      <dc:description>This document describes a software prototype implementing an immersive virtual environment for the fruition of data captured in ARROWS experimental campaigns. This is the result of the design and development activity related to Work Package 5 "Tools for fruition of archaeological items and sites". The report includes the criteria to be followed during the phases of the project as concerns the methods and the tools aimed at developing a proper platform for fruition purpose. The main target of the activity described in this document is to provide the generic user with the chance of replicating the underwater survey experience and the discovery of sunken archaeological sites. Recreating a scene involves the merging of different technologies and technical skills: from the processing of raw experimental data to produce a 3D point cloud, passing through the manipulation of the 3D meshes to obtain a model simulating to the best the real 3D object properties, ending with the composition of a hybrid scenery containing both the true captured data fused together with simulated data. The latter stage requires the operator to be strongly skilled in properly processing the often corrupted data coming from the experimental campaigns, but also to be endowed with an "artistic" quality, necessary to develop a fine and realistic reproduction of the real environment. The first draft of the simulated environment described in section 4, has been implemented by employing tools currently made available by the graphics open source community (Irrlicht). We aim at updating the simulated scene by exploiting advanced software (Unity, Unreal engine), in order to refine the models and add informative content to the scene.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/308724/EU/ARchaeological RObot systems for the World's Seas/ARROWS</dc:relation>
+      <dc:date>2014-02-28</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-PR-005</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Archaeological Robot Systems for the World's Seas. Project report D5.2, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

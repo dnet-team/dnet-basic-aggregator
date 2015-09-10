@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-035</identifier>
+    <datestamp>2015-02-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Updated Exploitation plan and business plan</dc:title>
+      <dc:creator/>
+      <dc:creator>Theben, Alexandra</dc:creator>
+      <dc:creator>Pannese, Lucia</dc:creator>
+      <dc:creator>Ascolese, Antonio</dc:creator>
+      <dc:creator>Llorente, Miguel</dc:creator>
+      <dc:creator>Colombo, Matteo</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Fortunati, Luigi</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:subject>IPR</dc:subject>
+      <dc:subject>Exploitation strategy</dc:subject>
+      <dc:subject>Exploitation plan</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2m COMPUTER-COMMUNICATION NETWORKS . Miscellaneous</dc:subject>
+      <dc:description>This document contains the indications of the DOREMI partners for the definition of the IPR rules to share the use of the forthcoming results of the DOREMI project. These indications have been collected through a questionnaire proposed to all the partners during October 2014. The questionnaire was aimed at defining the IPR rules to be applied for the exploitation of the DOREMI solution and related services.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-11-11</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-035</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D7.3.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-A0-032</identifier>
+    <datestamp>2015-06-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>The universAAL platform for AAL (Ambient Assisted Living)</dc:title>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Girolami, Michele</dc:creator>
+      <dc:creator>Salvi, Dario</dc:creator>
+      <dc:creator>Mayer, Christopher</dc:creator>
+      <dc:creator>Gorman, Joe</dc:creator>
+      <dc:creator>Grguric, Andrej</dc:creator>
+      <dc:creator>Ram, Roni</dc:creator>
+      <dc:creator>Sadat, Rubaiyat</dc:creator>
+      <dc:creator>Giannoutakis, Konstantinos M.</dc:creator>
+      <dc:creator>Stocklow, Carsten</dc:creator>
+      <dc:subject>Ambient Assisted Living</dc:subject>
+      <dc:subject>Open source</dc:subject>
+      <dc:subject>Execution platform</dc:subject>
+      <dc:subject>Application development support</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:description>The paper describes the universAAL platform, an open platform intended to fa- cilitate the development, distribution and deployment of technological solutions for Am- bient Assisted Living (AAL). The platform is intended to benefit end-users (i.e. assisted persons, their families and caregivers), authorities with responsibility for AAL, and or- ganisations involved in the development and deployment of AAL services. It consists of an extensive set of resources (some are software, some are models/architectures) aimed at these different groups. The resources are classified into three main groups: runtime support, development support and community support. The paper presents the benefits that can be expected from widespread adoption of the platform. The paper also describes progress on prototype implementations of some of the software resources, and the results of initial evaluations of the platform. The work is partially based on results from earlier EU-funded research projects in the area.</dc:description>
+      <dc:publisher>De Gruyter</dc:publisher>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/247950/EU/UNIVERSsal open platform and reference Specification for Ambient Assisted Living/universAAL</dc:relation>
+      <dc:date>2015</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-A0-032</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>In: Journal of Intelligent Systems, De Gruyter, 2015. [Online First 04 February 2015]</dc:source>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/issn/0334-1860 (print) 2191-026X (online)</dc:relation>
+      <dc:relation>info:eu-repo/semantics/altIdentifier/doi/10.1515/jisys-2014-0127</dc:relation>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-016</identifier>
+    <datestamp>2015-01-15</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>EAGLE - First Release of AIM Infrastructure (version 1.0)</dc:title>
+      <dc:creator>Amato, Giuseppe</dc:creator>
+      <dc:creator>Bolettieri, Paolo</dc:creator>
+      <dc:creator>Falchi, Fabrizio</dc:creator>
+      <dc:creator>Manghi, Paolo</dc:creator>
+      <dc:creator>Mannocci, Andrea</dc:creator>
+      <dc:creator>Zoppi, Franco</dc:creator>
+      <dc:subject>Data Infrastructure</dc:subject>
+      <dc:subject>Aggregation System</dc:subject>
+      <dc:subject>Metadata Formats</dc:subject>
+      <dc:subject>Data Interoperability</dc:subject>
+      <dc:subject>Image Processing</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.3.7 Digital Libraries</dc:subject>
+      <dc:description>This document describes the current implementation (Release 1) of the EAGLE Aggregation and Image Retrieval system (AIM) Infrastructure in terms of: . Current implementation against the specification given in "D4.1 AIM Infrastructure Specification" (Section 1). . Details about the Metadata Aggregation System (Section 2). . Details about the Image Retrieval System (Section 3). . HW &amp; SW requirements of the AIM (Section 4). For details about the full featured AIM Infrastructure, please refer to the released document "D4.1 AIM Infrastructure Specification".</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/325122/EU/EAGLE - Europeana network of Ancient Greek and Latin Epigraphy/EAGLE</dc:relation>
+      <dc:date>2014-03-25</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-016</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>EAGLE - Europeana network of Ancient Greek and Latin Epigraphy. Deliverable D4.2.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-EC-016/2014-EC-016.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

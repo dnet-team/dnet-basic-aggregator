@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-EC-001</identifier>
+    <datestamp>2015-02-02</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>MobiWallet - Dissemination Pack (1st Generation)</dc:title>
+      <dc:creator>Carlino, Michela</dc:creator>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Pardini, Francesca</dc:creator>
+      <dc:creator>Tampucci, Marco</dc:creator>
+      <dc:creator>Fell, Mark</dc:creator>
+      <dc:creator>Arrazola, Jaime</dc:creator>
+      <dc:subject>Intelligent Transportation System</dc:subject>
+      <dc:subject>Integrated fare managemet</dc:subject>
+      <dc:subject>Dissemination</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.4 INFORMATION SYSTEMS APPLICATIONS</dc:subject>
+      <dc:description>This deliverable describes all the activities carried out towards an optimal dissemination of project aims and achievements. In addition, it contains and discusses the first generation of all the dissemination material that has been prepared during the first ten months of project life.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7//EU/Mobility and Transport Digital Wallet/MobiWallet</dc:relation>
+      <dc:date>2015-01-08</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-EC-001</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Mobility and Transport Digital Wallet - MobiWallet. Deliverable D6.1.1, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-EC-001/2015-EC-001_1.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-EC-001/2015-EC-001_2.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-EC-001/2015-EC-001_3.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

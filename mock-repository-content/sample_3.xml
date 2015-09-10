@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2015-TR-011</identifier>
+    <datestamp>2015-05-22</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>An effective Time-Aware Map Matching process for low sampling GPS data</dc:title>
+      <dc:creator>Cintia, Paolo</dc:creator>
+      <dc:creator>Nanni, Mirco</dc:creator>
+      <dc:subject>Spatio-temporal Database</dc:subject>
+      <dc:subject>Semantic enrichment</dc:subject>
+      <dc:subject>Map Matching</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/H.4 INFORMATION SYSTEMS APPLICATIONS</dc:subject>
+      <dc:description>In the era of the proliferation of Geo-Spatial Data, induced by the diffusion of GPS devices, the map matching problem still represents an important and valuable challenge. The process of associating a segment of the underlying road network to a GPS point gives us the chance to enrich raw data with the semantic layer provided by the roadmap, with all contextual information associated to it, e.g. the presence of speed limits, attraction points, changes in elevation, etc. Most state-of-art solutions for this classical problem simply look for the shortest or fastest path connecting any pair of consecutive points in a trip. While in some contexts that is reasonable, in this work we argue that the shortest/fastest path assumption can be in general erroneous. Indeed, we show that such approaches can yield travel times that are significantly incoherent with the real ones, and propose a Time-Aware Map matching process that tries to improve the state-of-art by taking into account also such temporal aspect. Our algorithm results to be very efficient, effective on low- sampling data and to outperform existing solutions, as proved by experiments on large datasets of real GPS trajectories. Moreover, our algorithm is parameter-free and does not depend on specific characteristics of the GPS localization error and of the road network (e.g. density of roads, road network topology, etc.).</dc:description>
+      <dc:date>2015-05-22</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2015-TR-011</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2015.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2015-TR-011/2015-TR-011.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

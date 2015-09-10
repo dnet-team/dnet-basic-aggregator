@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-020</identifier>
+    <datestamp>2015-02-26</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>DOREMI - Specification of wireless sensor network for lifestyle protocol implementation</dc:title>
+      <dc:creator>Llorente, Miguel</dc:creator>
+      <dc:creator>Guirao, Julia&amp;#769;n</dc:creator>
+      <dc:creator>Fortunati, Luciano</dc:creator>
+      <dc:creator>Palumbo, Filippo</dc:creator>
+      <dc:creator>Ferro, Erina</dc:creator>
+      <dc:creator>Kropf, Johannes</dc:creator>
+      <dc:subject>Wireless Sensor Networks</dc:subject>
+      <dc:subject>Device specification</dc:subject>
+      <dc:subject>Requirements</dc:subject>
+      <dc:subject>Use cases</dc:subject>
+      <dc:subject>Home automation</dc:subject>
+      <dc:subject>Middleware</dc:subject>
+      <dc:subject>Auto configuration</dc:subject>
+      <dc:subject>Wireless standards</dc:subject>
+      <dc:subject>Wearable devices</dc:subject>
+      <dc:subject>Real time location system</dc:subject>
+      <dc:subject>Balance assessment</dc:subject>
+      <dc:subject>Occupancy detection</dc:subject>
+      <dc:subject>Social assessment</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/C.2 COMPUTER-COMMUNICATION NETWORKS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5 PATTERN RECOGNITION</dc:subject>
+      <dc:description>The deliverable D3.1 "Specification of wireless sensor network for Lifestyle Protocol implementation" describes the general architecture of the wireless sensor network that will support the data acquisition for the implementation of the DOREMI protocol. It also includes an analysis of each subsystem that composes the network, with technical descriptions of the requirements and specifications of the selected parts and components. The tools designed for integrating and calibrating this complex system are also specified, in order to give a complete vision of the infrastructure supporting the DOREMI activities and the interfaces between the hardware components and the DOREMI applications.</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/611650/EU/Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion/DOREMI</dc:relation>
+      <dc:date>2014-07-31</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-020</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Decrease of cOgnitive decline, malnutrRtion and sedEntariness by elderly empowerment in lifestyle Management and social Inclusion. Deliverable D3.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

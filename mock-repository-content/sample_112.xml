@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-EC-041</identifier>
+    <datestamp>2015-02-08</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>ICSI - Sensor Prototype Implementation</dc:title>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Moroni, Davide</dc:creator>
+      <dc:creator>Pieri, Gabriele</dc:creator>
+      <dc:creator>Salvetti, Ovidio</dc:creator>
+      <dc:creator>Rodriguez, Aitor</dc:creator>
+      <dc:creator>Dainciart, Francois</dc:creator>
+      <dc:creator>Sanchez, Pedro</dc:creator>
+      <dc:subject>Embedded systems</dc:subject>
+      <dc:subject>Smart cameras network</dc:subject>
+      <dc:subject>ITS</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.4.8 IMAGE PROCESSING AND COMPUTER VISION. Scene analysis</dc:subject>
+      <dc:description>This document is focused on the study and development of computer vision (CV) sensors for real-time and cooperative traffic analysis. This version will focus in the first iterative implementation and evaluation of the subsystems (two more are expected).</dc:description>
+      <dc:relation>info:eu-repo/grantAgreement/EC/FP7/317671/EU/Intelligent Cooperative Sensing for Improved traffic efficiency/ICSI</dc:relation>
+      <dc:date>2014-01-28</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-EC-041</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>INTELLIGENT COOPERATIVE SENSING FOR IMPROVED TRAFFIC EFFICIENCY. Deliverable D4.3.1, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:rights>info:eu-repo/semantics/restrictedAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>

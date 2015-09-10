@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+   <header>
+    <identifier>oai:pumaoai.isti.cnr.it:cnr.isti/cnr.isti/2014-TR-076</identifier>
+    <datestamp>2014-12-19</datestamp>
+    <setSpec>openaire</setSpec>
+   </header>
+   <metadata>
+     <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title>A system for the automatic analysis of brain responses evoked by musical stimuli</dc:title>
+      <dc:creator>Magrini, Massimo</dc:creator>
+      <dc:creator>Barcaro, Umberto</dc:creator>
+      <dc:subject>Evoked Potentials</dc:subject>
+      <dc:subject>Brain and Music</dc:subject>
+      <dc:subject>EEG Processing</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/I.5.4 PATTERN RECOGNITION. Applications</dc:subject>
+      <dc:subject>info:eu-repo/classification/acm/J.3 LIFE AND MEDICAL SCIENCES</dc:subject>
+      <dc:description>The system described in this technical note was implemented for two purposes: (a) to produce stimuli, significant from the musical viewpoint, according to an appropriate protocol, (b) to acquire and process the Evoked Responses Potentials (ERPs) that are elicited as responses to these stimuli. This system was built within the scope of a research focused on the study of brain responses to musical stimuli. Recent literature about this topic has reported a number of significant results, which from the one hand have contributed to a better knowledge of the cognitive mechanisms of the human mind and, from the other, appear to suggest useful and important applications in the field of neurological clinics. Our research was carried out as a collaboration activity between researchers of the Signals and Images Laboratory of the ISTI and physicians of the Neuroscience Department of Pisa Hospital (Magrini et al., 2012; Carboncini et al., 2012; Virgillito et al, 2013a; Virgillito et al., 2013b). The system here described was devised as an integration of the BQ132S EEG amplifier (BrainQuick System, Micromed), which was used for recording electroencephalographic (EEG) signals.</dc:description>
+      <dc:date>2014-12-19</dc:date>
+      <dc:type>info:eu-repo/semantics/report</dc:type>
+      <dc:identifier>http://puma.isti.cnr.it/dfdownloadnew.php?ident=cnr.isti/cnr.isti/2014-TR-076</dc:identifier>
+      <dc:language>en</dc:language>
+      <dc:source>Technical report, 2014.</dc:source>
+      <dc:format>application/pdf</dc:format>
+      <dc:identifier>http://puma.isti.cnr.it/rmydownload.php?filename=cnr.isti/cnr.isti/2014-TR-076/2014-TR-076.pdf</dc:identifier>
+      <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+     </oai_dc:dc>
+   </metadata>
+  </record>
