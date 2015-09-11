@@ -95,7 +95,11 @@ When you see a log like:
 52665 [Thread-7] INFO  eu.dnetlib.enabling.is.store.TestContentInitializerJob  - INITIALIZED
 ```
 
-The webapp should be ready and running at http://${container.hostname}:${container.port}/${container.context}
+The webapp should be ready and running at 
+
+```
+http://${container.hostname}:${container.port}/${container.context}
+```
 
 If you want to build the web app yourself, then keep reading...
 
@@ -111,7 +115,7 @@ To build the war to use in a Tomcat 7 web app container:
  > mvn package
 ```
 
-The .war file is then created into the <code>target</code> directory.
+The <code>.war</code> file is then created into the <code>target</code> directory.
 
 #D-Net configuration
 Before you start the web application, you need to configure at least the following properties.
@@ -131,9 +135,9 @@ Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHom
 </br>Example: <code>services.aggregator.country = IT</code>
 - <code>services.aggregator.name</code>: the name of your aggregator. Default is "D-NET"
 </br>Example: <code>services.aggregator.name = TEST_Aggregator</code>. 
-- <code>services.mdstore.mongodb.host</code>: the machine hosting mongodb for the storage of metadata records (M[eta]D[ata]Store). Default is localhost.
-</br>Example: <code>services.mdstore.mongodb.host = mongo.dnet.eu</code>
-- <code>services.mdstore.mongodb.db</code>: name of the mongodb database to be used for the storage of metadata records. Default is "mdstore_minimal".
+- <code>services.mdstore.mongodb.host</code>: the machine hosting mongodb for the storage of metadata records (M[eta]D[ata]Store). Default is <code>localhost</code>.
+</br>Example: <code>services.mdstore.mongodb.host = mongodb.dnet.eu</code>
+- <code>services.mdstore.mongodb.db</code>: name of the mongodb database to be used for the storage of metadata records. Default is <code>mdstore_minimal</code>.
 </br>Example: <code>services.mdstore.mongodb.db = mdstore_1</code>
 - <code>dnet.logger.mongo.host</code>: the machine hosting mongodb for the storage of workflow logs. Default is localhost.
 </br>Example: <code>dnet.logger.mongo.host = mongo.dnet.eu</code>
@@ -143,29 +147,11 @@ Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHom
 </br>Example: <code>services.oai.publisher.repo.name = TEST_Aggregator OAI-PMH Publisher</code>
 - <code>services.oai.publisher.repo.email</code>: email of the OAI-PMH Publisher administrator, as it will appear in the OAI Identify response. Default is "dnet-admin@mock.it". The default *must not* be used in beta or production system for it is a mock email.
 </br>Example: <code>name.surname@valid.mail.com</code>
-- <code>dnet.admin.password</code>: md5sum of the password that will allow the user "admin" to login to the D-Net Admin UI. To generate the new password: <code>echo thePassword -n | md5</code>. Default is "dnet-minimal" (without double quotes). The default value *should always be overridden*.
-</br>Example: <code>dnet.admin.password = 5d1ed3888708c0f4cd46b29306a6b449</code>, where 5d1ed3888708c0f4cd46b29306a6b449 is the md5 for the string "pwd" obtained via the command <code>echo pwd -n | md5</code>.
+- <code>dnet.admin.password</code>: md5sum of the password that will allow the user "admin" to login to the D-Net Admin UI. To generate the new password: <code>echo -n "thePassword" | md5sum</code>. Default is "dnet-minimal" (without double quotes). The default value *should always be overridden*.
+</br>Example: <code>dnet.admin.password = 9003d1df22eb4d3820015070385194c8</code>, where 9003d1df22eb4d3820015070385194c8 is the md5 for the string "pwd" obtained via the command <code>echo -n "pwd" | md5sum</code>.
 - <code>service.solr.index.jsonConfiguration</code>: information about the Solr instance to be used to create full-text indices on the aggregated metadata records. Default value assumes a local Solr instance. Specifically:
 <code>
-{"id":"solr",\
-	"address":"localhost:9983",\
-	"port":"8983",\
-	"webContext":"solr",\
-	"numShards":"1",\
-	"replicationFactor":"1",\
-	"host":"localhost",\
-	"feedingShutdownTolerance":"30000",\
-	"feedingBufferFlushThreshold":"1000",\
-	"feedingSimulationMode":"false",\
-	"luceneMatchVersion":"4.9",\
-	"serverLibPath":"../../../../contrib/extraction/lib",\
-	"filterCacheSize":"512","filterCacheInitialSize":"512",\
-	"queryCacheSize":"512","queryCacheInitialSize":"512",\
-	"documentCacheSize":"512","documentCacheInitialSize":"512",\
-	"ramBufferSizeMB":"960","mergeFactor":"40",\
-	"autosoftcommit":"-1","autocommit":"15000",\
-	"termIndexInterval":"1024","maxIndexingThreads":"8",\
-	"queryResultWindowSize":"20","queryResultMaxDocCached":"200"} 
+{"id":"solr", "address":"localhost:9983", "port":"8983", "webContext":"solr", "numShards":"1", "replicationFactor":"1", "host":"localhost",	"feedingShutdownTolerance":"30000",	"feedingBufferFlushThreshold":"1000", "feedingSimulationMode":"false", "luceneMatchVersion":"4.9",	"serverLibPath":"../../../../contrib/extraction/lib", "filterCacheSize":"512","filterCacheInitialSize":"512",	"queryCacheSize":"512","queryCacheInitialSize":"512", "documentCacheSize":"512", "documentCacheInitialSize":"512", "ramBufferSizeMB":"960","mergeFactor":"40",	"autosoftcommit":"-1","autocommit":"15000", "termIndexInterval":"1024","maxIndexingThreads":"8", "queryResultWindowSize":"20","queryResultMaxDocCached":"200"} 
 </code>
 
 If you are not running the Solr service on the same machine where Tomcat runs, then you need to override the above configuration according to your Solr server installation.
