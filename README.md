@@ -160,25 +160,25 @@ For more details refer to the Solr documentation.
 
 #Using D-Net
 
-Under the root folder of the project you can find the folder <code>mock-repository-content</code>. 
-It contains 150 oai_dc metadata records you can use to test the functionality of the D-Net software with a Mock Datasource.
+Under the root folder of the project you can find the folder `mock-repository-content`. 
+It contains 150 `oai_dc` metadata records you can use to test the functionality of the D-Net software with a Mock Datasource.
 
 * Place the folder in a location that is readable from tomcat 
 * Start the container
-* Access the Admin UI (http://${container.hostname}:${container.port}/${container.context}/mvc/ui/index.do)
-	* If you are running via the maven tomcat plugin with the default properties the URL is: http://localhost:8280/app/mvc/ui/index.do
+* Access the Admin UI (`http://${container.hostname}:${container.port}/${container.context}/mvc/ui/index.do`)
+  * If you are running via the maven tomcat plugin with the default properties the URL is: `http://localhost:8280/app/mvc/ui/index.do`
 * Go on Datasource Management --> Overview and search for "mock"
 * Click on "Add metaworkflow" and select the "Collection and Transformation" meta-workflow. This action will associate a meta-workflow (i.e., a workflow of workflows) to the datasource and will create all needed metadata stores.
-* Click on the "access params" button on the top right and change the base url to the location where you saved the sample folder (e.g. file:///dnet/test/mock-repository-content)
+* Click on the "access params" button on the top right and change the base url to the location where you saved the sample folder (e.g. `file:///dnet/test/mock-repository-content`)
 * Click on the meta-workflow "Collection and Transformation" and configure its workflows with the missing parameter for the transformation rule 
-	* click on the yellow "parameters" button of the trasnformation workflow and select the rule <code>dc2dmf_DRIVER</code> 
+  * click on the yellow "parameters" button of the trasnformation workflow and select the rule `dc2dmf_DRIVER`
 * Ensure the launch mode is set to "Auto" for each workflow 
 * Click on the Launch button of the first ("collect")
 * Wait for all the workflows to complete: collect, transform, index, oai, and oaiPostFeed
 * Verify that the records get transformed and indexed: click on MD Inspectors --> D-Net content checker and perform some queries
 * Verify that the aggregated records are correctly exposed via the built-in OAI-PMH publisher at: 
-	* http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf for the DMF metadata format
-	* http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc for the OAI_DC metadata format
+  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf` for the DMF metadata format
+  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc` for the OAI_DC metadata format
 	
 #Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it

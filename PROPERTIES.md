@@ -196,8 +196,7 @@ To get the list of currently used properties please go to the Admin UI of your r
         <td>services.transformation.defaulttemplate</td>  <td>/eu/dnetlib/data/collective/transformation/engine/template.xsl</td>  <td>/eu/dnetlib/data/collective/transformation/engine/template.xsl,/eu/dnetlib/data/collective/transformation/engine/oaftemplate.xsl</td> <td>Template for the Transformator Service.  Two options are available: one for DMF, one for OAF. The schema property above must be set accordingly.</td>
     </tr>
     <tr>
-        <td>services.transformation.vocabularyproperties.json </td>  <td>{"map":{"AccessRights":{"name":"dnet:access_modes", "caseSensitive":"false"}, "Languages":{"name":"dnet:languages", "caseSensitive":"false", "delimiter":"/"}, "TextTypologies":{"name":"dnet:publication_resource", "caseSensitive":"false"}}} applicationContext-transformation.properties
-{"map":{"AccessRights":{"name":"dnet:rights", "caseSensitive":"false", "delimiter":"/"}, "Languages":{"name":"dnet:languages", "caseSensitive":"false", "delimiter":"/"}, "TextTypologies":{"name":"dnet:texttypologies", "caseSensitive":"false", "delimiter":"/"}}}</td>  <td>json map</td> <td>Instructs the Transformator Service about the D-Net vocabularies to apply for specific fields</td>
+        <td>services.transformation.vocabularyproperties.json </td>  <td>{"map":{"AccessRights":{"name":"dnet:rights", "caseSensitive":"false", "delimiter":"/"}, "Languages":{"name":"dnet:languages", "caseSensitive":"false", "delimiter":"/"}, "TextTypologies":{"name":"dnet:texttypologies", "caseSensitive":"false", "delimiter":"/"}}}</td>  <td>json map</td> <td>Instructs the Transformator Service about the D-Net vocabularies to apply for specific fields</td>
     </tr>
 </table>
 
@@ -367,13 +366,3 @@ To get the list of currently used properties please go to the Admin UI of your r
 </td> <td>json map</td> <td>information about the Solr instance to be used. See Solr documentation for details</td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
