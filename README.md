@@ -184,4 +184,4 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 Do not hesitate to contact dnet-team@isti.cnr.it
 
 #Build status
-[![Build Status](http://ci.research-infrastructures.eu/view/webapps/job/dnet-basic-aggregator.git/badge/icon)](http://ci.research-infrastructures.eu/view/webapps/job/dnet-basic-aggregator.git/)
+[![Build Status](http://ci.research-infrastructures.eu/buildStatus/icon?job=dnet-basic-aggregator.git)](http://ci.research-infrastructures.eu/view/webapps/job/dnet-basic-aggregator.git/)
