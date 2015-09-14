@@ -12,7 +12,7 @@
 	<packaging>war</packaging>
 	<version>1.0.3-SNAPSHOT</version>
 	<scm>
-		<developerConnection>scm:svn:https://svn.driver.research-infrastructures.eu/driver/dnet40/webapps/dnet-basic-aggregator/trunk</developerConnection>
+		<developerConnection>scm:git:https://github.com/openaire/guidelines.git</developerConnection>
 	</scm>
 
 	<dependencies>
