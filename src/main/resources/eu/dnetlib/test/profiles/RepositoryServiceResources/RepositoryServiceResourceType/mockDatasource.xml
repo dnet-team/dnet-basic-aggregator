@@ -33,9 +33,9 @@
 			<REPOSITORY_INSTITUTION>Mock Institution</REPOSITORY_INSTITUTION>
 			<ADMIN_INFO>admin@mock.it</ADMIN_INFO>
 			<INTERFACES>
-				<INTERFACE active ="false" compliance="metadata"
+				<INTERFACE active ="false" compliance="native"
 					contentDescription="metadata" id="api_________::minimal::mock::metadata"
-					label="metadata::oai_dc" removable="false" typology="dnet:repository">
+					label="dnet:repository (native)" removable="false" typology="dnet:repository">
 					<ACCESS_PROTOCOL extensions="xml">filesystem</ACCESS_PROTOCOL>
                     <BASE_URL>file:///var/lib/dnet/mock-repository-content</BASE_URL>
 					<INTERFACE_EXTRA_FIELD name="metadata_identifier_path">//*[local-name()='header']/*[local-name()='identifier']</INTERFACE_EXTRA_FIELD>

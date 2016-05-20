@@ -172,7 +172,7 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-aggregative-basic-workflows</artifactId>
-			<version>1.0.3</version>
+			<version>1.0.4</version>
 		</dependency>
 	
 		<!-- OAI publisher -->
@@ -191,7 +191,7 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-datasource-manager-service</artifactId>
-			<version>1.0.4</version>
+			<version>1.0.5</version>
 		</dependency>
 
 		<!-- Index service -->
