@@ -28,7 +28,7 @@ Suggested minimal hardware requirements:
 ## Software requirements
 Software required:
 
-* Apache Tomcat 7: the webapp container
+* Apache Tomcat 7: the webapp container. Consider to increase the default memory heap value. We suggest -Xmx2048m.
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
 * Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
 
