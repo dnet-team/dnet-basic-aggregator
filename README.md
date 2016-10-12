@@ -1,4 +1,4 @@
-# D-Net Software Toolikt
+# D-Net Software Toolikt v.1.2.0
 
 This is a minimal instance of the D-Net software toolkit, a software framework for the realization of aggregative data infrastructures.
 
@@ -22,7 +22,7 @@ This minimal instance can be run on a single machine as web application to be de
 
 Suggested minimal hardware requirements:
 
-- Operating system: almost anything but Windows
+- Operating system: almost anything but Windows.
 - HARD DISK space: mostly depends on the quantity and size of records you are going to collect. A couple of GBs for a small repository (<10K metadata recods) should be fine. See suggestions on installing mongodb below.
 
 ## Software requirements
@@ -180,6 +180,8 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
   * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf` for the DMF metadata format
   * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc` for the OAI_DC metadata format
 	
+To create a new data source, please read CREATING_NEW_DATASOURCE.md.
+
 #Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it
 
