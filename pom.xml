@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>eu.dnetlib</groupId>
 		<artifactId>dnet-container-parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath />
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-msro-service</artifactId>
-			<version>3.1.9</version>
+			<version>3.1.21</version>
 		</dependency>
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
@@ -172,19 +172,19 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-aggregative-basic-workflows</artifactId>
-			<version>1.0.4</version>
+			<version>2.0.0-SNAPSHOT</version>
 		</dependency>
 	
 		<!-- OAI publisher -->
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-oai-common-workflows</artifactId>
-			<version>3.2.2</version>
+			<version>4.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>cnr-data-information-oai-publisher</artifactId>
-			<version>6.1.0</version>
+			<version>7.0.0-SNAPSHOT</version>
 		</dependency>
 
 		<!-- Datasource manager -->

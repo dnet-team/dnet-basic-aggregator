@@ -39,13 +39,10 @@
                 <INDEX name="objIdentifier" repeatable="false">
                     <SOURCE interpretation="transformed" layout="store" name="DMF" path="//*[local-name()='objIdentifier']"/>
                 </INDEX>
-                <INDEX name="set" repeatable="false">
-                    <SOURCE interpretation="transformed" layout="store" name="DMF" path="//*[local-name()='datasourceprefix']"/>
-                </INDEX>
             </INDICES>
         </CONFIGURATION>
      	<STATUS>
-            <LAST_UPDATE value="2015-04-17T16:00:00"/>
+            <LAST_UPDATE value="2016-11-15T16:00:00"/>
         </STATUS>
         <SECURITY_PARAMETERS>SECURITY_PARAMETERS</SECURITY_PARAMETERS>
     </BODY>
