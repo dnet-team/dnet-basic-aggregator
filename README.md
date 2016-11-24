@@ -1,4 +1,4 @@
-# D-Net Software Toolikt v.1.2.0
+# D-Net Software Toolikt v.1.3.0
 
 This is a minimal instance of the D-Net software toolkit, a software framework for the realization of aggregative data infrastructures.
 
