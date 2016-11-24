@@ -1,6 +1,4 @@
-
 <head>
-<!-- Start Styles. Move the 'style' tags and everything between them to between the 'head' tags -->
 <style type="text/css">
 .myTable { background-color:#eee;border-collapse:collapse; }
 .myTable th { background-color:#000;color:white; }
@@ -8,6 +6,7 @@
 </style>
 
 </head>
+
 # Properties
 
 This file contains the list of properties that can be set to configure a D-Net instance.
@@ -177,8 +176,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     
 </table>
 
-
-#D-Net properties for metadata transformation and harmonisation
+# D-Net properties for metadata transformation and harmonisation
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -200,7 +198,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     </tr>
 </table>
 
-#D-Net properties for Metadata Store Service (MDStore)
+# D-Net properties for Metadata Store Service (MDStore)
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -240,7 +238,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     </tr>
 </table>
 
-#D-Net properties for workflows
+# D-Net properties for workflows
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -260,7 +258,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 </table>
 
 
-#D-Net properties for mail notifications
+# D-Net properties for mail notifications
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -298,7 +296,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 </table>
 
 
-#D-Net properties for D-Net OAI-PMH Publisher
+# D-Net properties for D-Net OAI-PMH Publisher
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -338,7 +336,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 
 </table>
 
-#D-Net properties for D-Net Index Service over Solr
+# D-Net properties for D-Net Index Service over Solr
 <table class="myTable">
 <tr>
 <th>Property name</th>
