@@ -1,5 +1,9 @@
-# Major changes from 1.1.1 to 1.2.0
+# Major changes from 1.2.0 to 1.3.0
 
+- OAI Publisher:
+    - fixed cache management
+    - fixed oai consistency (post feed) workflow branch
+    - fixed deletion of content when workflow of data sources are deleted 
 - D-Net enabling services:
 	- using cache for subscription access
 	- support only one subscription registry
@@ -15,6 +19,5 @@
 	-  handling HTML illegal entities in collected XMLs
 - Indexing:
 	- default query operator for "bag of words" queries set to AND instead of OR
-- OAI Publisher:
-    - fixed cache management
-    - fixed oai consistency (post feed) workflow branch
+- Workflow manager
+	- do not launch workflows that were scheduled for execution during a pause of the aggregation system ("prepare for shutdown")
