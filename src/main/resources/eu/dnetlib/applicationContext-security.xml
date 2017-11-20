@@ -16,6 +16,8 @@
 		<security:intercept-url pattern="/mvc/inspector/**" access="hasRole('ROLE_ADMINISTRATOR')" />
 
 		<security:logout logout-url="/logout" logout-success-url="/mvc/ui/index.do" invalidate-session="true"  delete-cookies="JSESSIONID, rinfra-user"/>
+
+		<security:csrf disabled="true" />
 	</security:http>
 
 	<security:authentication-manager>
