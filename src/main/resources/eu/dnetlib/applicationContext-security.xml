@@ -11,9 +11,9 @@
 
 	<security:http create-session="stateless" >
 		<security:http-basic />
-		<security:intercept-url pattern="/mvc/ui/lightui.do**" access="ROLE_USER" />
-		<security:intercept-url pattern="/mvc/ui/**" access="ROLE_ADMINISTRATOR" />
-		<security:intercept-url pattern="/mvc/inspector/**" access="ROLE_ADMINISTRATOR" />
+		<security:intercept-url pattern="/mvc/ui/lightui.do**" access="hasRole('ROLE_USER')" />
+		<security:intercept-url pattern="/mvc/ui/**" access="hasRole('ROLE_ADMINISTRATOR')" />
+		<security:intercept-url pattern="/mvc/inspector/**" access="hasRole('ROLE_ADMINISTRATOR')" />
 
 		<security:logout logout-url="/logout" logout-success-url="/mvc/ui/index.do" invalidate-session="true"  delete-cookies="JSESSIONID, rinfra-user"/>
 	</security:http>
