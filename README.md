@@ -36,7 +36,7 @@ Software required:
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
-#Running the D-Net web app with Maven
+# Running the D-Net web app with Maven
 ## Maven settings
 
 Either if you want to run the D-Net web app with the Tomcat7 plugin for maven, or you want to build the .war file to deploy on a running tomcat, 
@@ -119,7 +119,7 @@ To build the war to use in a Tomcat 7 web app container:
 
 The <code>.war</code> file is then created into the <code>target</code> directory.
 
-#D-Net configuration
+# D-Net configuration
 Before you start the web application, you need to configure at least the following properties.
 For the full list of available properties and their values, check PROPERTIES.md.
 
@@ -160,7 +160,7 @@ If you are not running the Solr service on the same machine where Tomcat runs, t
 Typically, changing <code>address</code> and <code>host</code> is enough if your Solr server is not configured for sharding and replication.
 For more details refer to the Solr documentation.
 
-#Using D-Net
+# Using D-Net
 
 Under the root folder of the project you can find the folder `mock-repository-content`. 
 It contains 150 `oai_dc` metadata records you can use to test the functionality of the D-Net software with a Mock Datasource.
@@ -184,8 +184,8 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 	
 To create a new data source, please read CREATING_NEW_DATASOURCE.md.
 
-#Need support?
+# Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it
 
-#Build status
+# Build status
 [![Build Status](https://jenkins-dnet.d4science.org/buildStatus/icon?job=DSL45_dnet-basic-aggregator.git)](https://jenkins-dnet.d4science.org/view/webapps/job/DSL45_dnet-basic-aggregator.git/)
