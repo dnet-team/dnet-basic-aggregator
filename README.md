@@ -4,6 +4,8 @@ This is a minimal instance of the D-Net software toolkit, a software framework f
 
 Official Web Site: http://www.d-net.research-infrastructures.eu/
 
+Source code available at: http://svn-public.driver.research-infrastructures.eu/driver/dnet45/modules/
+
 Need support? Contact us via email at: dnet-team@isti.cnr.it
 
 This webapp contains the minimal set of services needed to feature:
