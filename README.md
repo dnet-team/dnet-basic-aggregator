@@ -14,13 +14,13 @@ Need support? Contact us via email at: dnet-team@isti.cnr.it
 
 This webapp contains the minimal set of services needed to feature:
 
-- Collection of metadata records in oai_dc format via OAI-PMH, FTP, local file system, HTTP.
+- Collection of metadata records in oai_dc format via OAI-PMH, and local file system.
 
-- Transformation of the collected metadata records into an internal format named DMF (Driver Metadata Format)
+- Transformation of the collected metadata records into an internal format named PMF 
 
-- Indexing of DMF records in a Solr full-text index
+- Indexing of PMF records in a Solr full-text index
 
-- OAI-PMH export of aggregated metadata records in DMF and oai_dc formats. More formats can be added at runtime by providing a dedicated XSLT from DMF to the desired target format.
+- OAI-PMH export of aggregated metadata records in PMF and oai_dc formats. More formats can be added at runtime by providing a dedicated XSLT from PMF to the desired target format.
 
 # Installation requirements
 This minimal instance can be run on a single machine as web application to be deployed on a Tomcat container. 
@@ -36,7 +36,7 @@ Software required:
 
 * Apache Tomcat 7: the webapp container. Consider to increase the default memory heap value. We suggest -Xmx2048m.
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
-* Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
+* Solr 5.5.x : used to make the documents searchable. The solr server should be run using the option '-c' to instruct solr to start the zookeeper server. 
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
@@ -153,11 +153,9 @@ Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHom
 </br>Example: <code>services.oai.publisher.repo.name = TEST_Aggregator OAI-PMH Publisher</code>
 - <code>services.oai.publisher.repo.email</code>: email of the OAI-PMH Publisher administrator, as it will appear in the OAI Identify response. Default is "dnet-admin@mock.it". The default *must not* be used in beta or production system for it is a mock email.
 </br>Example: <code>name.surname@valid.mail.com</code>
-- <code>dnet.admin.password</code>: md5sum of the password that will allow the user "admin" to login to the D-Net Admin UI. To generate the new password: <code>echo -n "thePassword" | md5sum</code>. Default is "dnet-minimal" (without double quotes). The default value *should always be overridden*.
-</br>Example: <code>dnet.admin.password = 9003d1df22eb4d3820015070385194c8</code>, where 9003d1df22eb4d3820015070385194c8 is the md5 for the string "pwd" obtained via the command <code>echo -n "pwd" | md5sum</code>.
 - <code>service.solr.index.jsonConfiguration</code>: information about the Solr instance to be used to create full-text indices on the aggregated metadata records. Default value assumes a local Solr instance. Specifically:
 <code>
-{"id":"solr", "address":"localhost:9983", "port":"8983", "webContext":"solr", "numShards":"1", "replicationFactor":"1", "host":"localhost",	"feedingShutdownTolerance":"30000",	"feedingBufferFlushThreshold":"1000", "feedingSimulationMode":"false", "luceneMatchVersion":"4.9",	"serverLibPath":"../../../../contrib/extraction/lib", "filterCacheSize":"512","filterCacheInitialSize":"512",	"queryCacheSize":"512","queryCacheInitialSize":"512", "documentCacheSize":"512", "documentCacheInitialSize":"512", "ramBufferSizeMB":"960","mergeFactor":"40",	"autosoftcommit":"-1","autocommit":"15000", "termIndexInterval":"1024","maxIndexingThreads":"8", "queryResultWindowSize":"20","queryResultMaxDocCached":"200"} 
+{"id":"solr", "address":"localhost:9983", "port":"8983", "webContext":"solr", "numShards":"1", "replicationFactor":"1", "host":"localhost",	"feedingShutdownTolerance":"30000",	"feedingBufferFlushThreshold":"1000", "feedingSimulationMode":"false", "luceneMatchVersion":"5.5",	"serverLibPath":"../../../../contrib/extraction/lib", "filterCacheSize":"512","filterCacheInitialSize":"512",	"queryCacheSize":"512","queryCacheInitialSize":"512", "documentCacheSize":"512", "documentCacheInitialSize":"512", "ramBufferSizeMB":"960","mergeFactor":"40",	"autosoftcommit":"-1","autocommit":"15000", "termIndexInterval":"1024","maxIndexingThreads":"8", "queryResultWindowSize":"20","queryResultMaxDocCached":"200"} 
 </code>
 
 If you are not running the Solr service on the same machine where Tomcat runs, then you need to override the above configuration according to your Solr server installation.
@@ -174,20 +172,22 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 * Access the Admin UI (`http://${container.hostname}:${container.port}/${container.context}/mvc/ui/index.do`)
   * If you are running via the maven tomcat plugin with the default properties the URL is: `http://localhost:8280/app/mvc/ui/index.do`
 * Go on Datasource Management --> Overview and search for "mock"
-* Click on "Add metaworkflow" and select the "Collection and Transformation" meta-workflow. This action will associate a meta-workflow (i.e., a workflow of workflows) to the datasource and will create all needed metadata stores.
+* Click on "Add Workflow" and select the " Aggregate publication" Workflow. This action will associate a workflow to the datasource and will create all needed metadata stores.
+  * This workflow is composed of several steps (other workflows) each of which specifically designed for a given activity.
+  * The entire workflow can be run as a whole or step by step.
+    * To run a particular step of the workflow you must be sure that the preparatory steps are completed with success (e.g. to run the transformation step, the collection must already have been executed and completed with success)
 * Click on the "access params" button on the top right and change the base url to the location where you saved the sample folder (e.g. `file:///dnet/test/mock-repository-content`)
-* Click on the meta-workflow "Collection and Transformation" and configure its workflows with the missing parameter for the transformation rule 
-  * click on the yellow "parameters" button of the trasnformation workflow and select the rule `dc2dmf_DRIVER`
-* Ensure the launch mode is set to "Auto" for each workflow 
-* Click on the Launch button of the first ("collect")
+* Click on "Parameters" on the left menu and configure the workflow with the missing parameter. You should use "oaiDC2PMF" as "transformationRuleId" value 
+  * press Update button to confirm the value
+  * go back to the workflow by selecting Workflow Info
+* To run the workflow as a whole click on the "Launch" button at the bottom
+  * To a particular step of the workflow click on the "Launch" button on the right near the step you want to execute 
 * Wait for all the workflows to complete: collect, transform, index, oai, and oaiPostFeed
-* Verify that the records get transformed and indexed: click on MD Inspectors --> D-Net content checker and perform some queries
+* Verify that the records get transformed and indexed: click on MD Inspectors --> Metadata Store inspector and perform some queries
 * Verify that the aggregated records are correctly exposed via the built-in OAI-PMH publisher at: 
-  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf` for the DMF metadata format
+  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=pmf` for the PMF metadata format
   * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc` for the OAI_DC metadata format
 	
 #Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it
 
-#Build status
-[![Build Status](http://ci.research-infrastructures.eu/buildStatus/icon?job=dnet-basic-aggregator.git)](http://ci.research-infrastructures.eu/view/webapps/job/dnet-basic-aggregator.git/)
