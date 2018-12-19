@@ -1,4 +1,5 @@
 <head>
+<!-- Start Styles. Move the 'style' tags and everything between them to between the 'head' tags -->
 <style type="text/css">
 .myTable { background-color:#eee;border-collapse:collapse; }
 .myTable th { background-color:#000;color:white; }
@@ -6,7 +7,6 @@
 </style>
 
 </head>
-
 # Properties
 
 This file contains the list of properties that can be set to configure a D-Net instance.
@@ -102,39 +102,7 @@ To get the list of currently used properties please go to the Admin UI of your r
       <tr>
         <td>default.service.comparator</td>  <td>preferLocalRunningInstanceComparator</td>  <td>preferLocalRunningInstanceComparator</td> <td>Bean that selects a service instance among a set of services of the same type. Currently the only option is 'preferLocalRunningInstanceComparator', which prefers a service instance running on localhost.</td>
     </tr>
-     
-</table>
 
-
-# D-Net properties for access control
-<table class="myTable">
-<tr>
-<th>Property name</th>
-<th>Default value</th>
-<th>Value type/ Allowed values</th>
-<th>Description</th>
-</tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.default.superAdmin</td>  <td>admin</td>  <td>string</td> <td>Name of the admin user that can perform every operation via the D-Net admin UI</td>
-    </tr>
-    <tr>
-        <td>dnet.admin.password</td>  <td>f98c5d6f0e68b251f78bffac722fd0b9 (dnet-minimal)</td> <td>md5(password)</td> <td>MD5 of the password for the user admin</td>
-    </tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.manager</td>  <td>simpleAuthenticationManager</td>  <td>simpleAuthenticationManager,mockUserAuthenticationManager</td> <td>Authorization Manager used by the D-Net admin UI</td>
-    </tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.dao</td>  <td>mongoAuthorizationDao</td>  <td>mongoAuthorizationDao</td> <td>name of the bean in charge of the authorization mechanism. mongoAuthorizationDao keeps authorization info about users in a mongodb server.</td>
-    </tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.mongo.host</td>  <td>localhost</td> <td>String</td> <td>host that runs a mongodb to be used for user authorization management</td>
-    </tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.mongo.port</td>  <td>27017</td> <td>int</td> <td>port of the mongodb server to be used for user authorization management</td>
-    </tr>
-    <tr>
-        <td>dnet.modular.ui.authorization.mongo.db</td>  <td>dnet_auth</td> <td>String</td> <td>mongodb database to be used for user authorization management</td>
-    </tr>
 </table>
 
 
@@ -173,10 +141,11 @@ To get the list of currently used properties please go to the Admin UI of your r
      <tr>
         <td>services.aggregator.name</td>  <td>D-NET</td>  <td>String</td> <td>the name of your aggregator</td>
     </tr>
-    
+
 </table>
 
-# D-Net properties for metadata transformation and harmonisation
+
+#D-Net properties for metadata transformation and harmonisation
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -198,7 +167,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     </tr>
 </table>
 
-# D-Net properties for Metadata Store Service (MDStore)
+#D-Net properties for Metadata Store Service (MDStore)
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -238,7 +207,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     </tr>
 </table>
 
-# D-Net properties for workflows
+#D-Net properties for workflows
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -258,7 +227,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 </table>
 
 
-# D-Net properties for mail notifications
+#D-Net properties for mail notifications
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -296,7 +265,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 </table>
 
 
-# D-Net properties for D-Net OAI-PMH Publisher
+#D-Net properties for D-Net OAI-PMH Publisher
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -336,7 +305,7 @@ To get the list of currently used properties please go to the Admin UI of your r
 
 </table>
 
-# D-Net properties for D-Net Index Service over Solr
+#D-Net properties for D-Net Index Service over Solr
 <table class="myTable">
 <tr>
 <th>Property name</th>
@@ -347,7 +316,7 @@ To get the list of currently used properties please go to the Admin UI of your r
     <tr>
         <td>service.solr.index.jsonConfiguration</td>  <td>
         <code>{
-        "id":"solr", "address":"localhost:9983","port":"8983", 
+        "id":"solr", "address":"localhost:9983","port":"8983",
         "host":"localhost", "webContext":"solr",
         "numShards":"1","replicationFactor":"1",
         "feedingShutdownTolerance":"30000", "feedingBufferFlushThreshold":"1000","feedingSimulationMode":"false",

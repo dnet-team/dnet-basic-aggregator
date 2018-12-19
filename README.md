@@ -1,10 +1,14 @@
-# D-Net Software Toolikt v.1.3.0
+# D-Net Software Toolikt
+
+
+#Changes
+- Authorization no more supported. Suggested https and http authenitcation.
+- Brand new workflow manager: less profiles + support for subworkflow
+- New workflow UI
 
 This is a minimal instance of the D-Net software toolkit, a software framework for the realization of aggregative data infrastructures.
 
 Official Web Site: http://www.d-net.research-infrastructures.eu/
-
-Source code available at: http://svn-public.driver.research-infrastructures.eu/driver/dnet45/modules/
 
 Need support? Contact us via email at: dnet-team@isti.cnr.it
 
@@ -24,7 +28,7 @@ This minimal instance can be run on a single machine as web application to be de
 
 Suggested minimal hardware requirements:
 
-- Operating system: almost anything but Windows.
+- Operating system: almost anything but Windows
 - HARD DISK space: mostly depends on the quantity and size of records you are going to collect. A couple of GBs for a small repository (<10K metadata recods) should be fine. See suggestions on installing mongodb below.
 
 ## Software requirements
@@ -32,11 +36,11 @@ Software required:
 
 * Apache Tomcat 7: the webapp container. Consider to increase the default memory heap value. We suggest -Xmx2048m.
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
-* Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
+* Solr 5.5.x : used to make the documents searchable. The solr server should be run using the option '-c' to instruct solr to start the zookeeper server.
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
-# Running the D-Net web app with Maven
+#Running the D-Net web app with Maven
 ## Maven settings
 
 Either if you want to run the D-Net web app with the Tomcat7 plugin for maven, or you want to build the .war file to deploy on a running tomcat, 
@@ -44,16 +48,16 @@ you need maven3 and you must add the following repository into your <code>settin
 
 ```
  <repository>
-          <id>dnet-bootstrap-releases</id>
-          <name>D-Net Bootstrap Releases</name>
-          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet4-bootstrap-release/</url>
-          <releases>
-            <enabled>true</enabled>
-          </releases>
-          <snapshots>
-            <enabled>false</enabled>
-          </snapshots>
-          <layout>default</layout>
+           <id>dnet5-bootstrap-release</id>
+           <name>D-Net5 Bootstrap Releases</name>
+           <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet5-bootstrap-release/</url>
+           <releases>
+             <enabled>true</enabled>
+           </releases>
+           <snapshots>
+             <enabled>false</enabled>
+           </snapshots>
+           <layout>default</layout>
  </repository>
 ```
 
@@ -119,7 +123,7 @@ To build the war to use in a Tomcat 7 web app container:
 
 The <code>.war</code> file is then created into the <code>target</code> directory.
 
-# D-Net configuration
+#D-Net configuration
 Before you start the web application, you need to configure at least the following properties.
 For the full list of available properties and their values, check PROPERTIES.md.
 
@@ -160,7 +164,7 @@ If you are not running the Solr service on the same machine where Tomcat runs, t
 Typically, changing <code>address</code> and <code>host</code> is enough if your Solr server is not configured for sharding and replication.
 For more details refer to the Solr documentation.
 
-# Using D-Net
+#Using D-Net
 
 Under the root folder of the project you can find the folder `mock-repository-content`. 
 It contains 150 `oai_dc` metadata records you can use to test the functionality of the D-Net software with a Mock Datasource.
@@ -179,13 +183,11 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 * Wait for all the workflows to complete: collect, transform, index, oai, and oaiPostFeed
 * Verify that the records get transformed and indexed: click on MD Inspectors --> D-Net content checker and perform some queries
 * Verify that the aggregated records are correctly exposed via the built-in OAI-PMH publisher at: 
-  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf` for the DMF metadata format
+  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=pmf` for the PMF metadata format
   * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc` for the OAI_DC metadata format
 	
-To create a new data source, please read CREATING_NEW_DATASOURCE.md.
-
-# Need support?
+#Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it
 
-# Build status
-[![Build Status](https://jenkins-dnet.d4science.org/buildStatus/icon?job=DSL45_dnet-basic-aggregator.git)](https://jenkins-dnet.d4science.org/view/webapps/job/DSL45_dnet-basic-aggregator.git/)
+#Build status
+[![Build Status](http://ci.research-infrastructures.eu/buildStatus/icon?job=dnet-basic-aggregator.git)](http://ci.research-infrastructures.eu/view/webapps/job/dnet-basic-aggregator.git/)
