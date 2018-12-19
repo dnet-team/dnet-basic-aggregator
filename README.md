@@ -36,7 +36,7 @@ Software required:
 
 * Apache Tomcat 7: the webapp container. Consider to increase the default memory heap value. We suggest -Xmx2048m.
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
-* Solr 5.5.x : used to make the documents searchable. The solr server should be run using the option '-c' to instruct solr to start the zookeeper server.
+* Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
@@ -48,16 +48,16 @@ you need maven3 and you must add the following repository into your <code>settin
 
 ```
  <repository>
-           <id>dnet5-bootstrap-release</id>
-           <name>D-Net5 Bootstrap Releases</name>
-           <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet5-bootstrap-release/</url>
-           <releases>
-             <enabled>true</enabled>
-           </releases>
-           <snapshots>
-             <enabled>false</enabled>
-           </snapshots>
-           <layout>default</layout>
+          <id>dnet-bootstrap-releases</id>
+          <name>D-Net Bootstrap Releases</name>
+          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet4-bootstrap-release/</url>
+          <releases>
+            <enabled>true</enabled>
+          </releases>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <layout>default</layout>
  </repository>
 ```
 
@@ -183,7 +183,7 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 * Wait for all the workflows to complete: collect, transform, index, oai, and oaiPostFeed
 * Verify that the records get transformed and indexed: click on MD Inspectors --> D-Net content checker and perform some queries
 * Verify that the aggregated records are correctly exposed via the built-in OAI-PMH publisher at: 
-  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=pmf` for the PMF metadata format
+  * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=dmf` for the DMF metadata format
   * `http://${container.hostname}:${container.port}/${container.context}/mvc/oai/oai.do?verb=ListRecords&metadataPrefix=oai_dc` for the OAI_DC metadata format
 	
 #Need support?
