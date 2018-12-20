@@ -47,10 +47,10 @@ Either if you want to run the D-Net web app with the Tomcat7 plugin for maven, o
 you need maven3 and you must add the following repository into your <code>settings.xml</code>:
 
 ```
- <repository>
-          <id>dnet-bootstrap-releases</id>
-          <name>D-Net Bootstrap Releases</name>
-          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet4-bootstrap-release/</url>
+<repository>
+          <id>dnet5-bootstrap-release</id>
+          <name>D-Net5 Bootstrap Releases</name>
+          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet5-bootstrap-release/</url>
           <releases>
             <enabled>true</enabled>
           </releases>
@@ -58,7 +58,7 @@ you need maven3 and you must add the following repository into your <code>settin
             <enabled>false</enabled>
           </snapshots>
           <layout>default</layout>
- </repository>
+        </repository>
 ```
 
 We also suggest to add the Tomcat plugin to the plugins group at the bottom of the same file:
