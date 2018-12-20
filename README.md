@@ -178,10 +178,10 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
     * To run a particular step of the workflow you must be sure that the preparatory steps are completed with success (e.g. to run the transformation step, the collection must already have been executed and completed with success)
 * Click on the "access params" button on the top right and change the base url to the location where you saved the sample folder (e.g. `file:///dnet/test/mock-repository-content`)
 * Click on "Parameters" on the left menu and configure the workflow with the missing parameter. You should use "oaiDC2PMF" as "transformationRuleId" value 
-  * press Update button to confirm the value
-  * go back to the workflow by selecting Workflow Info
+  * Press Update button to confirm the value
+  * Go back to the workflow by selecting Workflow Info
 * To run the workflow as a whole click on the "Launch" button at the bottom
-  * To a particular step of the workflow click on the "Launch" button on the right near the step you want to execute 
+  * To run a particular step of the workflow click on the "Launch" button on the right near the step you want to execute 
 * Wait for all the workflows to complete: collect, transform, index, oai, and oaiPostFeed
 * Verify that the records get transformed and indexed: click on MD Inspectors --> Metadata Store inspector and perform some queries
 * Verify that the aggregated records are correctly exposed via the built-in OAI-PMH publisher at: 
