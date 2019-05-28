@@ -199,4 +199,4 @@ To create a new data source, please read CREATING_NEW_DATASOURCE.md.
 Do not hesitate to contact dnet-team@isti.cnr.it
 
 # Build status
-[![Build Status](https://jenkins-dnet.d4science.org/buildStatus/icon?job=DSL45_dnet-basic-aggregator.git)](https://jenkins-dnet.d4science.org/view/webapps/job/DSL45_dnet-basic-aggregator.git/)
+[![Build Status](https://jenkins-dnet.d4science.org/buildStatus/icon?job=DNET45_dnet-basic-aggregator.git)](https://jenkins-dnet.d4science.org/view/webapps/job/DNET45_dnet-basic-aggregator.git/)
