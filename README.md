@@ -154,13 +154,13 @@ Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHom
 - <code>service.solr.index.jsonConfiguration</code>: information about the Solr instance to be used to create full-text indices on the aggregated metadata records. Default value assumes a local Solr instance. Specifically:
 <code>
         {"id":"solr",\
-        "address":"<solr zookeeper host>:<zookeeper port:2181>",\
+        "address":"[solr zookeeper host]:[zookeeper port, default 2181]",\
         "port":"8983",\
         "webContext":"solr",\
         "numShards":"4",\
         "replicationFactor":"2",\
         "maxShardsPerNode":"20",\
-        "host":"<solr zookeeper host>",\
+        "host":"[solr zookeeper host]",\
         "feedingShutdownTolerance":"30000",\
         "feedingBufferFlushThreshold":"1000",\
         "feedingSimulationMode":"false",\
