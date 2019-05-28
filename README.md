@@ -32,7 +32,7 @@ Software required:
 
 * Apache Tomcat 7: the webapp container. Consider to increase the default memory heap value. We suggest -Xmx2048m.
 * Mongodb >= 2.4: used to store the collected and transformed metadata records. Each collected record will be stored in three separate "versions": original, transformed, pmh-ready, hence enough disk space should be available for mongoDB.
-* Solr 4.9.x or 4.10.x: used to make the documents searchable. The solr server should be run using the option '-DzkRun' to instruct solr to start the zookeeper server. 
+* Solr 7.5.0: used to make the documents searchable. The solr server should be run in SolrCloud mode information can be found on https://lucene.apache.org/solr/guide/7_5/solr-tutorial.html 
 
 Note that Tomcat, Solr and Mongodb can be installed in the same machine or in dedicated nodes, although this requires to change some default system properties.
 
@@ -44,9 +44,9 @@ you need maven3 and you must add the following repository into your <code>settin
 
 ```
  <repository>
-          <id>dnet-bootstrap-releases</id>
-          <name>D-Net Bootstrap Releases</name>
-          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet4-bootstrap-release/</url>
+          <id>dnet45-bootstrap-release</id>
+          <name>D-Net 45 Bootstrap Release</name>
+          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet45-bootstrap-release/</url>
           <releases>
             <enabled>true</enabled>
           </releases>
@@ -153,7 +153,18 @@ Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHom
 </br>Example: <code>dnet.admin.password = 9003d1df22eb4d3820015070385194c8</code>, where 9003d1df22eb4d3820015070385194c8 is the md5 for the string "pwd" obtained via the command <code>echo -n "pwd" | md5sum</code>.
 - <code>service.solr.index.jsonConfiguration</code>: information about the Solr instance to be used to create full-text indices on the aggregated metadata records. Default value assumes a local Solr instance. Specifically:
 <code>
-{"id":"solr", "address":"localhost:9983", "port":"8983", "webContext":"solr", "numShards":"1", "replicationFactor":"1", "host":"localhost",	"feedingShutdownTolerance":"30000",	"feedingBufferFlushThreshold":"1000", "feedingSimulationMode":"false", "luceneMatchVersion":"4.9",	"serverLibPath":"../../../../contrib/extraction/lib", "filterCacheSize":"512","filterCacheInitialSize":"512",	"queryCacheSize":"512","queryCacheInitialSize":"512", "documentCacheSize":"512", "documentCacheInitialSize":"512", "ramBufferSizeMB":"960","mergeFactor":"40",	"autosoftcommit":"-1","autocommit":"15000", "termIndexInterval":"1024","maxIndexingThreads":"8", "queryResultWindowSize":"20","queryResultMaxDocCached":"200"} 
+        {"id":"solr",\
+        "address":"<solr zookeeper host>:<zookeeper port:2181>",\
+        "port":"8983",\
+        "webContext":"solr",\
+        "numShards":"4",\
+        "replicationFactor":"2",\
+        "maxShardsPerNode":"20",\
+        "host":"<solr zookeeper host>",\
+        "feedingShutdownTolerance":"30000",\
+        "feedingBufferFlushThreshold":"1000",\
+        "feedingSimulationMode":"false",\
+        "luceneMatchVersion":"7.5.0"}
 </code>
 
 If you are not running the Solr service on the same machine where Tomcat runs, then you need to override the above configuration according to your Solr server installation.
