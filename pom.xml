@@ -119,12 +119,12 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-modular-index-ui</artifactId>
-			<version>[2.0.5]</version>
+			<version>[2.0.8]</version>
 		</dependency>
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-modular-lightui-ui</artifactId>
-			<version>[2.0.3]</version>
+			<version>[2.1.4]</version>
 		</dependency>
 
 		<!-- Aggregation services -->
@@ -198,7 +198,7 @@
 		<dependency>
 			<groupId>eu.dnetlib</groupId>
 			<artifactId>dnet-index-solr-service</artifactId>
-			<version>[2.4.3]</version>
+			<version>[2.4.7]</version>
 		</dependency>
 		
 		<!-- Security: not using cnr-inspector-security in order to tune the access policies in the container's applicationContext-security -->
