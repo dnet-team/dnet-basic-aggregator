@@ -191,3 +191,5 @@ It contains 150 `oai_dc` metadata records you can use to test the functionality 
 #Need support?
 Do not hesitate to contact dnet-team@isti.cnr.it
 
+# Build status
+[![Build Status](https://jenkins-dnet.d4science.org/buildStatus/icon?job=DNET50_dnet-basic-aggregator.git)](https://jenkins-dnet.d4science.org/view/webapps/job/DNET50_dnet-basic-aggregator.git/)
