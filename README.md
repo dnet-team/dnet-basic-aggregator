@@ -123,7 +123,7 @@ The <code>.war</code> file is then created into the <code>target</code> director
 Before you start the web application, you need to configure at least the following properties.
 For the full list of available properties and their values, check PROPERTIES.md.
 
-Create a file named <code>cnr.override.properties</code> in <code>$yourTomcatHomeDirectory$/common/classes</code> (<code>$yourTomcatHomeDirectory$</code> will likely be something similar to <code>/var/lib/tomcat7</code>)
+Create a file named <code>cnr-override.properties</code> in <code>$yourTomcatHomeDirectory$/common/classes</code> (<code>$yourTomcatHomeDirectory$</code> will likely be something similar to <code>/var/lib/tomcat7</code>)
 
 - <code>container.hostname</code>: the host name where the web app will be running. Default value is <code>localhost</code>. The default value should *only* be used in local development scenarios.
 </br>Example: <code>container.hostname = dnet-host.dnet.eu</code>
