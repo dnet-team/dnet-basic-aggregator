@@ -1,14 +1,8 @@
 # D-Net Software Toolikt v.1.3.0
 
-This is a minimal instance of the D-Net software toolkit, a software framework for the realization of aggregative data infrastructures.
+The D-NET Software Toolkit is a system that offers functionalities for the collection (“harvesting”), transformation, aggregation, and indexing of metadata records collected from an arbitrary number of data sources, complying with different protocols and data exchange formats. D-NET sets a workflow language, which developers can use to combine a variety of D-NET data management services, configure them to handle data according to given data models, and pipeline them into autonomic data processing workflows.
 
-Official Web Site: http://www.d-net.research-infrastructures.eu/
-
-Source code available at: http://svn-public.driver.research-infrastructures.eu/driver/dnet45/modules/
-
-Need support? Contact us via email at: dnet-team@isti.cnr.it
-
-This webapp contains the minimal set of services needed to feature:
+This software package is a simplified version of the D-Net toolkit and consists of a web application with a minimal set of services for:
 
 - Collection of metadata records in oai_dc format via OAI-PMH, FTP, local file system, HTTP.
 
@@ -17,6 +11,12 @@ This webapp contains the minimal set of services needed to feature:
 - Indexing of DMF records in a Solr full-text index
 
 - OAI-PMH export of aggregated metadata records in DMF and oai_dc formats. More formats can be added at runtime by providing a dedicated XSLT from DMF to the desired target format.
+
+Official Web Site: http://www.d-net.research-infrastructures.eu/
+
+Source code available at: http://svn-public.driver.research-infrastructures.eu/driver/dnet45/modules/
+
+Need support? Contact us via email at: dnet-team[at]isti.cnr.it
 
 # Installation requirements
 This minimal instance can be run on a single machine as web application to be deployed on a Tomcat container. 
@@ -46,7 +46,7 @@ you need maven3 and you must add the following repository into your <code>settin
  <repository>
           <id>dnet45-bootstrap-release</id>
           <name>D-Net 45 Bootstrap Release</name>
-          <url>http://maven.research-infrastructures.eu/nexus/content/repositories/dnet45-bootstrap-release/</url>
+          <url>https://maven.d4science.org/nexus/content/repositories/dnet45-bootstrap-release/</url>
           <releases>
             <enabled>true</enabled>
           </releases>
